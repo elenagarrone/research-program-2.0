@@ -1,0 +1,79 @@
+//returns an @media rule based on grid sizes [sm, md, lg], [print] or measurement value(s) [null, 100px] (,[100px])
+// eg breakpoint(400px)       - open bracket, >= 400px
+//    breakpoint(null, 20rem) - open bracket, <= 20rem
+//    breakpoint(50ex, 100ex) - closed bracket, >= 50ex && <=100ex
+
+@mixin breakpoint($class, $large: null) {
+  @if $class == xs {
+    @media (min-width: $screen-xs-min) {
+      @content;
+    }
+  } @else if $class == sm {
+    @media (min-width: $screen-sm-min) {
+      @content;
+    }
+  } @else if $class == md {
+    @media (min-width: $screen-md-min) {
+      @content;
+    }
+  } @else if $class == lg {
+    @media (min-width: $screen-lg-min) {
+      @content;
+    }
+  } @else if $class == print {
+    @media print {
+      @content;
+    }
+  } @else {
+    $mq: '';
+    @if($class) {
+      $mq: 'and (min-width: #{$class})';
+    }
+    @if($large) {
+      $mq: $mq + 'and (max-width: #{$large})';
+    }
+    @media screen #{unquote($mq)} {
+      @content;
+    }
+  }
+}
+
+@mixin fontsize($size) {
+  font-size: $size + px;
+  font-size: ($size / 16) + rem;
+}
+
+@function str-replace($string, $search, $replace: '') {
+  $index: str-index($string, $search);
+  @if $index {
+    @return str-slice($string, 1, $index - 1) + $replace + str-replace(str-slice($string, $index + str-length($search)), $search, $replace);
+  }
+  @return $string;
+}
+
+@mixin icon($file:'black/png/16/wrench.png', $icon: null, $color: null) {
+  $data: svg($icon, $color);
+  @if($data) {
+    background-image: url('data:image/svg+xml;charset=utf8,#{$data}');
+    .oldie & {
+      background-image: url('/web_resources/lgrs/assets/icons/#{$file}');
+    }
+  } @else {
+    background-image: url('/web_resources/lgrs/assets/icons/#{$file}');
+  }
+}
+/* ************************************************************************************ */
+/* svg data, url encoded (for ie) must include fill="#000" to allow for colour changing */
+/* ************************************************************************************ */
+$svg-icons:(
+
+)!global;
+
+@function svg($icon, $fill: null) {
+  $data: map-get($svg-icons, $icon);
+  @if($fill) {
+    $data: str-replace($data, "fill%3D%22%23000%22", "fill%3D%22#{$fill}%22");
+    $data: str-replace($data, "#", "%23");
+  }
+  @return $data;
+}

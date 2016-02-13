@@ -1,0 +1,2 @@
+module NewsAndUpdatesHelper
+end

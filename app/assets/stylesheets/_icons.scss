@@ -1,0 +1,28 @@
+$icons-list: ()!default;
+
+@each $icon in $icons-list {
+    %#{$icon}-black {
+        @include icon('black/png/22/#{$icon}.png', '#{$icon}');
+    }
+    %#{$icon}-white {
+        @include icon('white/png/22/#{$icon}.png', '#{$icon}', $whiteText);
+    }
+}
+
+@include breakpoint(sm) {
+    @each $icon in $icons-list {
+      %#{$icon}-black-desktop {
+        @include icon('black/png/22/#{$icon}.png', '#{$icon}');
+      }
+      %#{$icon}-white-desktop {
+        @include icon('white/png/22/#{$icon}.png', '#{$icon}', $whiteText);
+      }
+    }
+}
+
+i[class] {
+    display: inline-block;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
