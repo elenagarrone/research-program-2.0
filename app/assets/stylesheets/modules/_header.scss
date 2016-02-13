@@ -6,11 +6,33 @@ header {
   padding-top: 6px;
 
     nav {
-        ul{
-            display: flex;
-            justify-content: center;
+        .menu-button {
             clear: both;
+            display: block;
+            padding: 0.5rem 0.9rem;
+            @include fontsize(18);
+            background-color: transparent;
+            color: $blue;
+            border: 0;
+            font-family: $normalFont;
+            &:focus {
+                background-color: $blue;
+                color: $white;
+                outline-offset: -4px;
+                outline-color: $white;
+            }
+
             @include breakpoint(53rem){
+                display: none;
+            }
+        }
+
+        ul {
+            display: none;
+            @include breakpoint(53rem){
+                display: flex;
+                justify-content: center;
+                clear: both;
                 clear: none;
             }
         }
