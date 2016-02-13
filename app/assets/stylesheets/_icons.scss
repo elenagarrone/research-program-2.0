@@ -1,21 +1,21 @@
-$icons-list: ()!default;
+$icons-list: (chevron-up, chevron-down)!default;
 
 @each $icon in $icons-list {
-    %#{$icon}-black {
-        @include icon('black/png/22/#{$icon}.png', '#{$icon}');
+    %#{$icon}-blue {
+        @include icon(image-url("#{$icon}.png"), '#{$icon}', $blue);
     }
     %#{$icon}-white {
-        @include icon('white/png/22/#{$icon}.png', '#{$icon}', $whiteText);
+        @include icon(image-url("#{$icon}-white.png"), '#{$icon}', $white);
     }
 }
 
-@include breakpoint(sm) {
+@include breakpoint(53rem) {
     @each $icon in $icons-list {
-        %#{$icon}-black-desktop {
-            @include icon('black/png/22/#{$icon}.png', '#{$icon}');
+        %#{$icon}-blue-desktop {
+            @include icon(image-url("#{$icon}.png"), '#{$icon}', $blue);
         }
         %#{$icon}-white-desktop {
-            @include icon('white/png/22/#{$icon}.png', '#{$icon}', $whiteText);
+            @include icon(image-url("#{$icon}-white.png"), '#{$icon}', $white);
         }
     }
 }
