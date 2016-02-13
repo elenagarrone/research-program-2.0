@@ -11,12 +11,12 @@ $icons-list: ()!default;
 
 @include breakpoint(sm) {
     @each $icon in $icons-list {
-      %#{$icon}-black-desktop {
-        @include icon('black/png/22/#{$icon}.png', '#{$icon}');
-      }
-      %#{$icon}-white-desktop {
-        @include icon('white/png/22/#{$icon}.png', '#{$icon}', $whiteText);
-      }
+        %#{$icon}-black-desktop {
+            @include icon('black/png/22/#{$icon}.png', '#{$icon}');
+        }
+        %#{$icon}-white-desktop {
+            @include icon('white/png/22/#{$icon}.png', '#{$icon}', $whiteText);
+        }
     }
 }
 

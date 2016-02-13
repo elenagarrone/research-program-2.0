@@ -1,21 +1,54 @@
 body {
-  font-family: $normalFont;
-  font-size: 16px;
-  line-height: $lineHeight;
+    font-family: $normalFont;
+    font-size: 16px;
+    line-height: $lineHeight;
+}
+.access {
+    position: absolute;
+    left: -100ex;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+}
+
+.container-fluid {
+    max-width: $container-fluid-max;
 }
 
 .float-left {
-  float: left;
+    float: left;
 }
 
 .float-right {
-  float: right;
+    float: right;
 }
 
 h1, .h1 {
-  font-family: $normalFont;
+    font-family: $normalFont;
 }
 
 .sub-heading {
-  font-family: $serifFont;
+    font-family: $serifFont;
+}
+
+a {
+    color: $blue;
+}
+
+img {
+    max-width: 100%;
+}
+
+*:not(.oldie) *:focus {
+    outline-offset: 2px;
+    outline: 3px solid $blue;
+}
+
+@at-root .oldie#{&} {
+    a, input, button, textarea, [tabindex] {
+        &:focus {
+            outline-offset: 2px;
+            outline: 3px solid $blue;
+        }
+    }
 }

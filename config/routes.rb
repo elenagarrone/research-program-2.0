@@ -59,5 +59,5 @@ Rails.application.routes.draw do
   resources :team, only: [:index]
   resources :join, only: [:index]
   resources :contact_us
-  resources :news_and_updates
+  resources :news, :controller => "news_and_updates"
 end

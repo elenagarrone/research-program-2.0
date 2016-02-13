@@ -1,0 +1,45 @@
+.header-band {
+    border-bottom: 3px solid $blue;
+}
+
+header {
+  padding-top: 6px;
+
+    nav {
+        ul{
+            display: flex;
+            justify-content: center;
+            clear: both;
+            @include breakpoint(53rem){
+                clear: none;
+            }
+        }
+
+        li {
+            display: inline-block;
+            text-transform: uppercase;
+            text-align: center;
+            @include breakpoint(53rem){
+                max-width: 10rem;
+            }
+        }
+
+        li a {
+            display: block;
+            text-decoration: none;
+            padding: 0.5rem 0.9rem;
+            @include breakpoint(53rem){
+                padding: 2.6rem 1.8rem;
+            }
+            &:hover, &:focus {
+                background-color: $blue;
+                color: $white;
+                @include breakpoint(53rem){
+                    background-color: transparent;
+                    color: inherit;
+                    text-decoration: underline;
+                }
+            }
+        }
+    }
+}
