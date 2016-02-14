@@ -98,7 +98,13 @@ header {
             }
             &:hover, &:focus {
                 text-decoration: underline;
+                background-color: $grey;
+                color: $blue;
+            }
+
+            &.active {
                 @include breakpoint(53rem){
+                    text-decoration: underline;
                     background-color: $blue;
                     color: $white;
                 }

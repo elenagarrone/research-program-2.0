@@ -1,7 +1,7 @@
 <ul>
-    <li><a href="/ethics">Ethics</a></li>
-    <li><a href="/team">Team</a></li>
-    <li><a href="/join">Join</a></li>
-    <li><a href="/contact_us">Contact us</a></li>
-    <li><a href="/news">News</a></li>
+    <li><a href="/ethics" <% if current_page?(ethics_path)%>class="active"<% end %>>Ethics</a></li>
+    <li><a href="/team" <% if current_page?(team_index_path)%>class="active"<% end %>>Team</a></li>
+    <li><a href="/join" <% if current_page?(join_index_path)%>class="active"<% end %>>Join</a></li>
+    <li><a href="/contact_us" <% if current_page?(contact_us_path)%>class="active"<% end %>>Contact us</a></li>
+    <li><a href="/news" <% if current_page?(news_index_path)%>class="active"<% end %>>News</a></li>
 </ul>
