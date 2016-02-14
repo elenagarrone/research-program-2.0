@@ -21,10 +21,6 @@ header {
             position: relative;
             margin-left: -15px;
 
-            &:focus {
-                outline-offset: -4px;
-            }
-
             &:after {    
                 content: '';
                 position: absolute;
