@@ -7,13 +7,24 @@ footer {
     padding: 15px;
     @include fontsize(14);
 
+    .content {
+        @include breakpoint(null,37rem){
+            column-count: 2;
+        }
+    }
+
     ul {
-        display: flex;
-        justify-content: center;
+        @include breakpoint(37rem){
+            display: flex;
+            justify-content: center;
+        }
     }
 
     li {
-        display: inline-block;
+        display: block;
+        @include breakpoint(37rem){
+            display: inline-block;
+        }
 
         a {
             display: block;
@@ -23,6 +34,21 @@ footer {
             &:hover, &:focus {
                 text-decoration: underline;
                 color: $blue;
+            }
+        }
+    }
+
+    .created_by {
+        text-align: center;
+        @include fontsize(12);
+        text-decoration: none;
+        color: $darkGrey;
+        margin-top: 15px;
+
+        a {
+            color: $darkGrey;
+            &:hover, &:focus {
+                color: $black;
             }
         }
     }

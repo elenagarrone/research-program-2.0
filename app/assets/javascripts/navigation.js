@@ -13,7 +13,6 @@
             var settings = this.settings;
             this.$instance = $(settings.navSelector);
             var $instance = this.$instance;
-            console.log('hello');
             $instance.prepend('<button class="menu-button">Menu</button>');
 
             $instance.on('click', 'button', function(e){
