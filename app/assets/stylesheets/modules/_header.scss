@@ -14,6 +14,7 @@ header {
             display: block;
             padding: 0.5rem 2rem 0.5rem 0.9rem;
             @include fontsize(18);
+            font-weight: 300;
             background-color: transparent;
             color: $blue;
             border: 0;

@@ -25,11 +25,14 @@ body {
 }
 
 h1, .h1 {
-    font-family: $normalFont;
+    @include fontsize(40);
+    font-weight: bold;
 }
 
-.sub-heading {
-    font-family: $serifFont;
+h2, .h2 {
+    @include fontsize(30);
+    font-weight: bold;
+    text-transform: uppercase;
 }
 
 a {
@@ -50,4 +53,33 @@ img {
             outline: 1px solid $blue;
         }
     }
+}
+
+.sub-section {
+    margin-top: 40px;
+}
+
+
+h3, .sub-heading {
+    font-family: $serifFont;
+    margin-top: 15px;
+    color: $blue;
+}
+
+
+h2, h3, .sub-heading {
+    text-align: center;
+}
+
+p {
+    margin-top: 10px;
+}
+
+.team-pic {
+    margin-top: 20px;
+}
+
+.grey-band {
+    background-color: $darkWhite;
+    padding: 3rem 0;
 }
