@@ -1,13 +1,13 @@
 .footer-band {
     border-top: 1px solid $blue;
     background-color: $grey;
-    position: absolute;
-    width: 100%;
-    bottom: 0;
-    left: 0;
+    position: relative;
 
-    &.no-position {
-        position: relative;
+    &.position {
+        position: absolute;
+        width: 100%;
+        bottom: 0;
+        left: 0;
     }
 }
 

@@ -1,12 +1,29 @@
 form {
   margin-top: 15px;
 
-    input {
-        min-width: 10rem;
+    input, textarea {
+        min-width: 15rem;
         @include fontsize(16);
         font-weight: 200;
         font-family: $normalFont;
         padding: 4px 8px;
+    }
+
+    textarea {
+        width: 93%;
+        height: 240px;
+        border: 1px solid $greyForm;
+        resize: none;
+        @include breakpoint(37rem){
+            width: 97%;
+        }
+        @include breakpoint(md){
+            width: 100%;
+        }
+    }
+
+    input[name="subject"] {
+        width: 65%;
     }
 }
 
@@ -20,7 +37,7 @@ button {
     background-color: $blue;
     color: $white;
     border: 0;
-    margin-left: 10px;
+    margin-top: 15px;
 
     &:hover, &:focus {
         background-color: $grey;
