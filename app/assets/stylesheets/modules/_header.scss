@@ -3,7 +3,9 @@
 }
 
 header {
-  padding-top: 6px;
+    img {
+        margin-top: 6px;
+    }
 
     nav {
         .menu-button {
@@ -21,7 +23,6 @@ header {
 
             &:focus {
                 outline-offset: -4px;
-                outline-color: $white;
             }
 
             &:after {    
@@ -91,17 +92,15 @@ header {
         li a {
             display: block;
             text-decoration: none;
-            padding: 0.5rem 0.9rem;
+            padding: 0.8rem 0.9rem;
             @include breakpoint(53rem){
                 padding: 3rem 1.8rem;
             }
             &:hover, &:focus {
-                background-color: $blue;
-                color: $white;
+                text-decoration: underline;
                 @include breakpoint(53rem){
-                    background-color: transparent;
-                    color: inherit;
-                    text-decoration: underline;
+                    background-color: $blue;
+                    color: $white;
                 }
             }
         }
