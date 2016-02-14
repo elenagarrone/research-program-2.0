@@ -6,6 +6,12 @@
 footer {
     padding: 15px;
     @include fontsize(14);
+
+    ul {
+        display: flex;
+        justify-content: center;
+    }
+
     li {
         display: inline-block;
 

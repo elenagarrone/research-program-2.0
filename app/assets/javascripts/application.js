@@ -12,6 +12,8 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require('browserslist');
+//= require browserslist
 //= require core
 //= require options
 //= require navigation
