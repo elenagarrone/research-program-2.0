@@ -17,3 +17,4 @@
 //= require core
 //= require options
 //= require navigation
+// require location

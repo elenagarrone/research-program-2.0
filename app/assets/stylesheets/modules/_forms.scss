@@ -1,0 +1,29 @@
+form {
+  margin-top: 15px;
+
+    input {
+        min-width: 10rem;
+        @include fontsize(16);
+        font-weight: 200;
+        font-family: $normalFont;
+        padding: 4px 8px;
+    }
+}
+
+button {
+    cursor: pointer;
+    font-weight: 200;
+    font-family: $normalFont;
+    @include fontsize(16);
+    padding: 6px 16px;
+    border-radius: 0;
+    background-color: $blue;
+    color: $white;
+    border: 0;
+    margin-left: 10px;
+
+    &:hover, &:focus {
+        background-color: $grey;
+        color: $blue;
+    }
+}

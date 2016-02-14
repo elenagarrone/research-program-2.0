@@ -1,9 +1,14 @@
+html, body {
+    height: 100%;
+}
+
 body {
     font-family: $normalFont;
     font-size: 16px;
     font-weight: 300;
     line-height: $lineHeight;
 }
+
 .access {
     position: absolute;
     left: -100ex;
@@ -64,10 +69,13 @@ h3, .sub-heading {
     font-family: $serifFont;
     margin-top: 15px;
     color: $blue;
+    @include fontsize(18);
+    text-transform: none;
+    font-weight: normal;
 }
 
 
-h2, h3, .sub-heading {
+h2, .h2, h3, .sub-heading {
     text-align: center;
 }
 
@@ -82,4 +90,20 @@ p {
 .grey-band {
     background-color: $darkWhite;
     padding: 3rem 0;
+}
+
+main {
+    padding: 3rem 0;
+}
+
+table {
+    width: 100%;
+}
+
+.no-js input[type="radio"] {
+    margin-right: 5px;
+
+    + label {
+        margin-right: 20px;
+    }
 }

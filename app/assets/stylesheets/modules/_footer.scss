@@ -1,6 +1,14 @@
 .footer-band {
     border-top: 1px solid $blue;
     background-color: $grey;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+
+    &.no-position {
+        position: relative;
+    }
 }
 
 footer {
