@@ -36,7 +36,7 @@ header {
                 }
             }
 
-            @include breakpoint(53rem){
+            @include breakpoint(37rem){
                 display: none;
             }
         }
@@ -46,20 +46,20 @@ header {
         }
 
         &.show ul {
-            @include breakpoint(null, 53rem){
+            @include breakpoint(null, 37rem){
                 display: block;
                 border-top: 3px solid $blue;
                 margin: 0 -15px;    
             }
 
             li {
-                @include breakpoint(null, 53rem){
+                @include breakpoint(null, 37rem){
                     display: block;
                     text-align: left;
                     border-top: 1px solid $lightGrey;
                 }
                 &:first-child {
-                    @include breakpoint(null, 53rem){
+                    @include breakpoint(null, 37rem){
                         border: 0;
                     }
                 }
@@ -68,10 +68,12 @@ header {
 
         ul {
             display: none;
-            @include breakpoint(53rem){
+            @include breakpoint(37rem){
                 display: flex;
                 justify-content: center;
                 clear: both;
+            }
+            @include breakpoint(61rem){
                 clear: none;
             }
         }
@@ -80,7 +82,7 @@ header {
             display: inline-block;
             text-transform: uppercase;
             text-align: center;
-            @include breakpoint(53rem){
+            @include breakpoint(37rem){
                 max-width: 10rem;
             }
         }
@@ -89,7 +91,10 @@ header {
             display: block;
             text-decoration: none;
             padding: 0.8rem 0.9rem;
-            @include breakpoint(53rem){
+            @include breakpoint(37rem){
+                padding: 0.6rem 1.2rem;
+            }
+            @include breakpoint(61rem){
                 padding: 3rem 1.8rem;
             }
             &:hover, &:focus {
@@ -99,7 +104,7 @@ header {
             }
 
             &.active {
-                @include breakpoint(53rem){
+                @include breakpoint(37rem){
                     text-decoration: underline;
                     background-color: $blue;
                     color: $white;

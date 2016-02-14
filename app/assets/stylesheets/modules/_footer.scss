@@ -1,0 +1,23 @@
+.footer-band {
+    border-top: 1px solid $blue;
+    background-color: $grey;
+}
+
+footer {
+    padding: 15px;
+    @include fontsize(14);
+    li {
+        display: inline-block;
+
+        a {
+            display: block;
+            padding: 0.5rem 1rem;
+            color: $darkGrey;
+            text-decoration: none;
+            &:hover, &:focus {
+                text-decoration: underline;
+                color: $blue;
+            }
+        }
+    }
+}
