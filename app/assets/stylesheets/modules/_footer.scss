@@ -4,10 +4,12 @@
     position: relative;
 
     &.position {
-        position: absolute;
-        width: 100%;
-        bottom: 0;
-        left: 0;
+        @include breakpoint(sm) {
+            position: absolute;
+            width: 100%;
+            bottom: 0;
+            left: 0;    
+        }
     }
 }
 
