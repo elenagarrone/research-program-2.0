@@ -1,0 +1,43 @@
+.section {
+    width: 100%;
+    height: auto;
+    float: left;
+    margin-top: 20px;
+    border: 1px solid $grey;
+    text-align: center;
+    @include breakpoint(42rem){
+        height: 570px;
+        width: 44%;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    @include breakpoint(52rem){
+        height: 595px;
+        width: 46%;
+    }
+    @include breakpoint(67rem){
+        height: 580px;
+        width: 30%;
+    }
+
+    > div {
+        padding: 15px;
+    }
+
+    h2 {
+        font-size: 22px;
+    }
+
+    .uni {
+        font-weight: 500;
+    }
+
+    .sub-heading {
+        display: block;
+        text-align: center;
+    }
+}
+
+.profiles {
+    margin-top: 20px;
+}
