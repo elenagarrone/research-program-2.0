@@ -3,8 +3,8 @@
     height: auto;
     float: left;
     margin-top: 20px;
-    border: 1px solid $grey;
     text-align: center;
+    background-color: $darkWhite;
     @include breakpoint(42rem){
         height: 570px;
         width: 44%;
