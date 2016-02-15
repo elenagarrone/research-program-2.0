@@ -5,6 +5,10 @@
 header {
     img {
         margin-top: 6px;
+        width: 75%;
+        @include breakpoint(37rem){
+            width: inherit;
+        }
     }
 
     nav {
