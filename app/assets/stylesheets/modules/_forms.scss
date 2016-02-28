@@ -6,16 +6,13 @@ form {
         font-weight: 200;
         font-family: $normalFont;
         padding: 4px 8px;
-        @include breakpoint(xs){
-          width: 100%;
-        }
     }
     input[type="submit"] {
         width: auto;
     }
 
     textarea {
-        width: 93%;
+        min-width: 93%;
         height: 240px;
         border: 1px solid $greyForm;
         resize: none;
@@ -28,7 +25,12 @@ form {
     }
 
     input[name="subject"] {
-        width: 65%;
+        @include breakpoint(xs){
+            width: 20rem;
+        }
+        @include breakpoint(sm) {
+            width: 65%;
+        }
     }
 }
 

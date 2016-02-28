@@ -1,38 +1,38 @@
 <!DOCTYPE html>
 <!--[if lt IE 9 ]><html dir="ltr" lang="en-GB" class="no-js oldie"><![endif]-->
 <!--[if (gte IE 9)|!(IE)]><!--><html dir="ltr" lang="en-GB" class="no-js"><!--<![endif]-->
-<head>
-  <meta charset="UTF-8">
-  <title>Quality of life - Research program</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link href="<%= asset_path 'favicon.ico' %>" rel="icon">
-  <link href='//fonts.googleapis.com/css?family=Roboto:400,100,300,700' rel='stylesheet' type='text/css'>
-  <link href='//fonts.googleapis.com/css?family=Droid+Serif:400italic,700italic' rel='stylesheet' type='text/css'>
-  <script>
-    document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
-  </script>
-  <!--[if lt IE 9 ]>
-    <script>
-        var html5tags = ['header', 'footer', 'nav', 'main', 'aside', 'picture', 'video'];
-        for (var tag = 0; tag < html5tags.length; tag++) {
-            document.createElement(html5tags[tag]);
-        }
-    </script>
-  <![endif]-->
-  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
-  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true, :cache => true %>
-  <%= csrf_meta_tags %>
-</head>
-<body>
-<%= render "layouts/header" %>
+    <head>
+      <meta charset="UTF-8">
+      <title>Quality of life - Research program</title>
+      <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link href="<%= asset_path 'favicon.ico' %>" rel="icon">
+      <link href='//fonts.googleapis.com/css?family=Roboto:400,100,300,700' rel='stylesheet' type='text/css'>
+      <link href='//fonts.googleapis.com/css?family=Droid+Serif:400italic,700italic' rel='stylesheet' type='text/css'>
+      <script>
+        document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+      </script>
+      <!--[if lt IE 9 ]>
+        <script>
+            var html5tags = ['header', 'footer', 'nav', 'main', 'aside', 'picture', 'video'];
+            for (var tag = 0; tag < html5tags.length; tag++) {
+                document.createElement(html5tags[tag]);
+            }
+        </script>
+      <![endif]-->
+      <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+      <%= javascript_include_tag 'application', 'data-turbolinks-track' => true, :cache => true %>
+      <%= csrf_meta_tags %>
+    </head>
+    <body>
+    <%= render "layouts/header" %>
 
-<p class="notice"><%= notice %></p>
-<p class="alert"><%= alert %></p>
+    <p class="notice"><%= notice %></p>
+    <p class="alert"><%= alert %></p>
 
 
-<%= yield %>
-<%= render "layouts/footer" %>
+    <%= yield %>
+    <%= render "layouts/footer" %>
 
-</body>
+    </body>
 </html>

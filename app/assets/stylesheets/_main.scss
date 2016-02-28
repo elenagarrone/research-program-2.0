@@ -21,6 +21,11 @@ body {
     max-width: $container-fluid-max;
 }
 
+//TODO find out why i need this:
+.col-sm-12 {
+    width: auto;
+}
+
 .float-left {
     float: left;
 }
@@ -93,7 +98,8 @@ p {
 }
 
 main {
-    padding: 3rem 0;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
 }
 
 .no-js input[type="radio"] {

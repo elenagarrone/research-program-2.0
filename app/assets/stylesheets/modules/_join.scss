@@ -1,5 +1,11 @@
 .join {
-    padding: 3rem 0 5rem 0;
+    input[type="email"] {
+        margin-top: 30px;
+        display: block;
+        @include breakpoint(xs) {
+            width: 260px;
+        }
+    }
 }
 
 .location-filters {
