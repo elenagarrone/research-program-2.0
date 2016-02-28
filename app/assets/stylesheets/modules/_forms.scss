@@ -2,11 +2,16 @@ form {
   margin-top: 15px;
 
     input, textarea {
-        min-width: 15rem;
         @include fontsize(16);
         font-weight: 200;
         font-family: $normalFont;
         padding: 4px 8px;
+        @include breakpoint(xs){
+          width: 100%;
+        }
+    }
+    input[type="submit"] {
+        width: auto;
     }
 
     textarea {
@@ -27,7 +32,7 @@ form {
     }
 }
 
-button {
+button, .actions input[type="submit"] {
     cursor: pointer;
     font-weight: 200;
     font-family: $normalFont;
@@ -43,4 +48,13 @@ button {
         background-color: $grey;
         color: $blue;
     }
+}
+
+.devise-forms {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.actions {
+    margin-bottom: 15px;
 }
