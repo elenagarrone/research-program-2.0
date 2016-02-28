@@ -1,10 +1,11 @@
 <div class="container-fluid">
     <div class="col-sm-12">
         <% if user_signed_in? %>
-            <%= link_to "Sign out", destroy_user_session_path, method: :delete, class: "float-right" %>
+            <%= link_to "Sign out", destroy_user_session_path, method: :delete, class: "float-right"%>
+            <button class="clear float-right">Add news</button>
         <% end %>
 
-        <main role="main" class="news_updates">
+        <main role="main" class="news_updates<% if user_signed_in? %> clear<% end %>">
             <h1 class="h2">News and Updates</h1>
             <table>
                 <caption class="access">News and updates on the project: </caption>
