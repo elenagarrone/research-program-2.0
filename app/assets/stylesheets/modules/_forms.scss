@@ -55,6 +55,13 @@ button, .actions input[type="submit"] {
 .devise-forms {
     padding-top: 30px;
     padding-bottom: 30px;
+
+    input {
+        width: 100%;
+    }
+    input[type="checkbox"] {
+        width: auto;
+    }
 }
 
 .actions {
