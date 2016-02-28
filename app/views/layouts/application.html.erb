@@ -27,9 +27,10 @@
     <body>
     <%= render "layouts/header" %>
 
-    <p class="notice"><%= notice %></p>
-    <p class="alert"><%= alert %></p>
-
+    <div class="container-fluid">
+        <p class="notice"><%= notice %></p>
+        <p class="alert"><%= alert %></p>
+    </div>
 
     <%= yield %>
     <%= render "layouts/footer" %>

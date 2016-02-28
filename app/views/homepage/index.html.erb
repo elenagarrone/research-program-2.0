@@ -1,4 +1,7 @@
 <div class="container-fluid">
+    <% if user_signed_in? %>
+        <%= link_to "Sign out", destroy_user_session_path, method: :delete, class: "float-right" %>
+    <% end %>
   <div class="title">
     <h1>MyQoL</h1>
     <p class="sub-heading">Improving the assessment of Quality of Life</p>

@@ -1,6 +1,9 @@
 <div class="container-fluid">
     <div class="row">
         <div class="col-sm-12">
+            <% if user_signed_in? %>
+                <%= link_to "Sign out", destroy_user_session_path, method: :delete, class: "float-right" %>
+            <% end %>
             <main role="main" class="join">
                 <h1 class="h2">Participate</h1>
                 <p>Can you imagine a way to improve the health of patients with serious diseases?

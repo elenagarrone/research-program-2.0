@@ -1,3 +1,8 @@
+<% if user_signed_in? %>
+    <div class="container-fluid">
+        <%= link_to "Sign out", destroy_user_session_path, method: :delete, class: "float-right" %>
+    </div>
+<% end %>
 <main role="main" class="team container-fluid">
   <h1 class="h2">Research team</h1>
 

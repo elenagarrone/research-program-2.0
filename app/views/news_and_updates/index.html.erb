@@ -1,5 +1,9 @@
 <div class="container-fluid">
     <div class="col-sm-12">
+        <% if user_signed_in? %>
+            <%= link_to "Sign out", destroy_user_session_path, method: :delete, class: "float-right" %>
+        <% end %>
+
         <main role="main" class="news_updates">
             <h1 class="h2">News and Updates</h1>
             <table>
