@@ -34,7 +34,7 @@ form {
     }
 }
 
-button, .actions input[type="submit"] {
+button, input[type="submit"], .button {
     cursor: pointer;
     font-weight: 200;
     font-family: $normalFont;
@@ -45,6 +45,7 @@ button, .actions input[type="submit"] {
     color: $white;
     border: 0;
     margin-top: 15px;
+    text-decoration: none;
 
     &:hover, &:focus {
         background-color: $grey;

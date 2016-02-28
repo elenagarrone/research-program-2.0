@@ -1,25 +1,29 @@
 <div class="container-fluid">
-    <div class="col-sm-12">
-        <% if user_signed_in? %>
-            <%= link_to "Sign out", destroy_user_session_path, method: :delete, class: "float-right"%>
-            <button class="clear float-right">Add news</button>
-        <% end %>
+    <% if user_signed_in? %>
+        <%= link_to "Sign out", destroy_user_session_path, method: :delete, class: "float-right"%>
+        <a href="news/new" class="button clear float-right">Add news</a>
+    <% end %>
 
-        <main role="main" class="news_updates<% if user_signed_in? %> clear<% end %>">
-            <h1 class="h2">News and Updates</h1>
+    <main role="main" class="news_updates<% if user_signed_in? %> clear<% end %>">
+        <h1 class="h2">News and Updates</h1>
+        <% if @news.all.any? %>
             <table>
                 <caption class="access">News and updates on the project: </caption>
                 <tbody>
-                    <tr>
-                        <td>dd/mm/yyyy</td>
-                        <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</td>
-                    </tr>
-                    <tr>
-                        <td>dd/mm/yyyy</td>
-                        <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</td>
-                    </tr>
+                    <% @news.all.each do |post| %>
+                        <tr>
+                            <td><%= post.created_at.strftime("%v") %></td>
+                            <td><%= post.description %></td>
+                            <% if user_signed_in? %>
+                                <td><%= link_to "Edit", edit_news_path(post) %></td>
+                                <td><%= link_to "Delete", news_path(post), method: :delete %></td>
+                            <% end %>
+                        </tr>
+                    <% end %>
                 </tbody>
             </table>
-        </main>
-    </div>
+        <% else %>
+            <p>No news available at the moment.</p>
+        <% end %>
+    </main>
 </div>

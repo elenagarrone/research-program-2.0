@@ -1,0 +1,19 @@
+<% if user_signed_in? %>
+    <div class="container-fluid">
+        <div class="row">
+            <div>
+                <%= link_to "Sign out", destroy_user_session_path, method: :delete, class: "float-right"%>
+            </div>
+            <div class="col-sm-6 col-sm-offset-3">
+                <main role="main">
+                    <h1 class="h2">Edit a news</h1>
+                    <%= form_for @news do |f| %>
+                        <%= f.label :description %>
+                        <%= f.text_area :description %>
+                        <%= f.submit %>
+                    <% end %>
+                </main>
+            </div>
+        </div>
+    </div>
+<% end %>
