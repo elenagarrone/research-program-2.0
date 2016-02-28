@@ -35,7 +35,7 @@ class NewsAndUpdatesController < ApplicationController
     def destroy
         @news = News.find(params[:id])
         @news.destroy
-        if @gallery.destroyed?
+        if @news.destroyed?
             flash[:notice] = 'News deleted successfully.'
         else
             flash[:alert] = 'Something went wrong while deleting the news. Try again.'

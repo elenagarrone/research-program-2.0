@@ -1,7 +1,7 @@
 <div class="container-fluid">
     <% if user_signed_in? %>
         <%= link_to "Sign out", destroy_user_session_path, method: :delete, class: "float-right"%>
-        <a href="news/new" class="button clear float-right">Add news</a>
+        <a href="<%= new_news_path %>" class="button clear float-right">Add news</a>
     <% end %>
 
     <main role="main" class="news_updates<% if user_signed_in? %> clear<% end %>">
