@@ -8,7 +8,12 @@ class NewsAndUpdatesController < ApplicationController
     end
 
     def create
-        News.create(news_params)
+        @news = News.create(news_params)
+        if @news.save
+            flash[:notice] = 'News created successfully.'
+        else
+            flash[:alert] = 'Something went wrong while creating the news. Try again.'
+        end
         redirect_to '/news'
     end
 
@@ -19,13 +24,22 @@ class NewsAndUpdatesController < ApplicationController
     def update
         @news = News.find(params[:id])
         @news.update(news_params)
+        if @news.save
+            flash[:notice] = 'News updated successfully.'
+        else
+            flash[:alert] = 'Something went wrong while updating the news. Try again.'
+        end
         redirect_to '/news'
     end
 
     def destroy
         @news = News.find(params[:id])
         @news.destroy
-        flash[:notice] = 'News deleted successfully'
+        if @gallery.destroyed?
+            flash[:notice] = 'News deleted successfully.'
+        else
+            flash[:alert] = 'Something went wrong while deleting the news. Try again.'
+        end
         redirect_to '/news'
     end
 

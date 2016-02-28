@@ -17,4 +17,5 @@
 //= require core
 //= require options
 //= require navigation
+//= require alert
 // require location

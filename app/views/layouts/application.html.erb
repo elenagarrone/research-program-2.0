@@ -27,10 +27,14 @@
     <body>
     <%= render "layouts/header" %>
 
-    <div class="container-fluid">
-        <p class="notice"><%= notice %></p>
-        <p class="alert"><%= alert %></p>
-    </div>
+    <% if notice || alert%>
+        <div class="flash-notice">
+            <div class="container-fluid">
+                <p class="notice"><%= notice %></p>
+                <p class="alert"><%= alert %></p>
+            </div>
+        </div>
+    <% end %>
 
     <%= yield %>
     <%= render "layouts/footer" %>
