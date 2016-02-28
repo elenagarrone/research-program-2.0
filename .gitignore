@@ -13,3 +13,6 @@
 /tmp
 
 research-program-2.0.iml
+
+# Ignore application configuration
+/config/application.yml
