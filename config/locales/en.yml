@@ -20,4 +20,21 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  homepage:
+    h1: MyQoL
+    subtitle: Improving the assessment of Quality of Life
+    about-title: About
+    about-subtitle1: Who are we?
+    about-p1: We are an international research team consisting of under- and post-graduate psychology students, supervised by Dr Angelos Kassianos, postdoctoral research associate at University College London in the Department of Applied Health Research. The student group is part of the Junior Researcher Programme, a research orientated service in partnership with the University of Cambridge, which aims to provide young researchers with the opportunity to conduct cross-European research.
+    about-subtitle2: What are we doing?
+    about-p2: We are conducting a research project to develop and test a mobile application for Quality of Life assessment in seven European countries.
+    about-subtitle3: Why are we doing this?
+    about-p3-1: The use of mobile applications in healthcare is increasing, and we need to know more about the best ways to develop and incorporate them in practice. As the measure of Quality of Life has been shown to predict and directly influence clinical outcomes (e.g. survival , physical activity) in prominent conditions such as cancer, we want to find out the best method of assessment to be used in clinical settings.
+    about-p3-2: Traditionally, Quality of Life assessment using paper or web-based questionnaires relies on people recalling recent events and feelings. This can be problematic because our memory can be biased by factors such as mood and memory decline. Furthermore, the feasibility of this kind of Quality of Life assessment can be limited by the time and monetary costs of travel to and from places in which assessments take place.
+    about-p3-3: The above issues justify our investigation of the looking at new, different ways of assessing Quality of Life. Mobile applications seem a promising method because their use could overcome many of the challenges faced by traditional Quality of Life measurement.
+    about-subtitle4: How are we doing this?
+    about-p4: We have developed a mobile application with the purpose of gathering information about Quality of Life in real-time, therefore avoiding the problems associated with looking back in time. When using the mobile application it is also possible to collect information about current mood and activities.
+    about-subtitle5: Implications
+    about-p5-1: By participating in our project alongside fellow European university students, you will help us to determine whether or not the mobile application offers a valid, reliable and realistic method of assessing Quality of Life in real-time.
+    about-p5-2: Our method will be cost efficient in terms of time and money, and also sensitive to the context in which responses are provided.
+    about-p5-3: Finally, we hope that collecting health-related information with a mobile application might help physicians to keep track of their patients’ Quality of Life, which in turn could lead to more individualised treatment and better communication between both parties.
