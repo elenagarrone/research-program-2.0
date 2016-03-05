@@ -5,10 +5,10 @@
     <% end %>
 
     <main role="main" class="news_updates<% if user_signed_in? %> clear<% end %>">
-        <h1 class="h2">News and Updates</h1>
+        <h1 class="h2"><%=t 'news.h1' %></h1>
         <% if @news.all.any? %>
             <table>
-                <caption class="access">News and updates on the project: </caption>
+                <caption class="access"><%=t 'news.caption' %></caption>
                 <tbody>
                     <% @news.all.each do |post| %>
                         <tr>
@@ -23,7 +23,7 @@
                 </tbody>
             </table>
         <% else %>
-            <p>No news available at the moment.</p>
+            <p><%=t 'news.no_message' %></p>
         <% end %>
     </main>
 </div>

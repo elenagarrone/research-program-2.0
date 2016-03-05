@@ -1,33 +1,13 @@
-<div class="container-fluid">
+l<div class="container-fluid">
     <div class="row">
         <div class="col-sm-12">
             <% if user_signed_in? %>
                 <%= link_to "Sign out", destroy_user_session_path, method: :delete, class: "float-right" %>
             <% end %>
             <main role="main" class="join">
-                <h1 class="h2">Participate</h1>
-                <p>Can you imagine a way to improve the health of patients with serious diseases?
-                We aim to do so beginning with your contribution to develop an evidence-based application to improve the assessment of Quality of Life in healthcare.</p>
-                <p>After you register with your email we will send you an email containing the Information Sheet, the Informed Consent, and the link for downloading the mobile application.</p>
-
-                <h2 class="sub-heading">Register</h2>
-
-                <fieldset class="location-filters">
-                  <legend>Select your location:</legend>
-                  <span><input type="radio" name="location" id="cyprus" value="Cyprus@email.com"><label for="cyprus">Cyprus</label></span>
-                  <span><input type="radio" name="location" id="denmark" value="Denmark@email.com"><label for="denmark">Denmark</label></span>
-                  <span><input type="radio" name="location" id="germany" value="Germany@email.com"><label for="germany">Germany</label></span>
-                  <span><input type="radio" name="location" id="hungary" value="Hungary@email.com"><label for="hungary">Hungary</label></span>
-                  <span><input type="radio" name="location" id="italy" value="Italy@email.com"><label for="italy">Italy</label></span>
-                  <span><input type="radio" name="location" id="spain" value="Spain@email.com"><label for="spain">Spain</label></span>
-                  <span><input type="radio" name="location" id="uk" value="United_Kingdom@email.com"><label for="uk">United Kingdom</label></span>
-                </fieldset>
-                <form>
-                  <label class="access">Email: </label>
-                  <input type="email" name="email" placeholder="Email">
-                  <button type="submit">Submit</button>
-                </form>
-                <span class="info">If you have any questions or require further information, please <a href="/contact_us">contact us</a>.</span>
+                <h1 class="h2"><%=t 'join.h1' %></h1>
+                <p><%=t 'join.p1' %></p>
+                <p><%=t 'join.p2' %></p>
             </main>
         </div>
     </div>

@@ -105,3 +105,19 @@ en:
         role: "External Collaborator – App developer"
         university: "Jomo Kenyatta University of Agriculture And Technology (Kenya)"
         quote: "“I am a dynamic mobile application developer with a keen interest in mobile technology. Currently undertaking a masters in Mobile Technology and Innovation. I intend to be part of the mobile revolution in the whole world.”"
+  join:
+    h1: "Participate"
+    p1: "Can you imagine a way to improve the health of patients with serious diseases?
+      We aim to do so beginning with your contribution to develop an evidence-based application to improve the assessment of Quality of Life in healthcare."
+    p2: "After you register with your email we will send you an email containing the Information Sheet, the Informed Consent, and the link for downloading the mobile application."
+  contact_us:
+    h1: "Contact us"
+    p1: "For any questions or further information, please fill up the form:"
+    label1: "Email:"
+    label2: "Subject:"
+    label3: "Message:"
+    button: "Send message"
+  news:
+    h1: "News and Updates"
+    caption: "News and updates on the project:"
+    no_message: "No news available at the moment."
