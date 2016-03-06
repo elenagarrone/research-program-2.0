@@ -10,31 +10,23 @@
 
 <main role="main" class="about grey-band">
   <div class="container-fluid">
-    <h2><%=t 'homepage.about-title' %></h2>
-    <div class="sub-section">
-      <h3><%=t 'homepage.about-subtitle1' %></h3>
-      <p><%=t 'homepage.about-p1' %></p>
-      <%= image_tag("team.jpg", alt: "Team picture", class: "team-pic") %>
-    </div>
-    <div class="sub-section">
-      <h3><%=t 'homepage.about-subtitle2' %></h3>
-      <p><%=t 'homepage.about-p2' %></p>
-    </div>
-    <div class="sub-section">
-      <h3><%=t 'homepage.about-subtitle3' %></h3>
-      <p><%=t 'homepage.about-p3-1' %></p>
-      <p><%=t 'homepage.about-p3-2' %></p>
-      <p><%=t 'homepage.about-p3-3' %></p>
-    </div>
-    <div class="sub-section">
-      <h3><%=t 'homepage.about-subtitle4' %></h3>
-      <p><%=t 'homepage.about-p4' %></p>
-    </div>
-    <div class="sub-section">
-      <h3><%=t 'homepage.about-subtitle5' %></h3>
-      <p><%=t 'homepage.about-p5-1' %></p>
-      <p><%=t 'homepage.about-p5-2' %></p>
-      <p><%=t 'homepage.about-p5-3' %></p>
-    </div>
+    <h2><%=t 'homepage.about.h2' %></h2>
+
+    <% t('homepage.about.subsections').each do |subsection| %>
+        <div class="sub-section">
+          <h3><%= subsection[:h3]%></h3>
+          <p>
+              <%= subsection[:p1]%>
+              <% if subsection[:jrp] && subsection[:p1b] %>
+                  <a href="<%= subsection[:jrp_link]%>"><%= subsection[:jrp]%></a><%= subsection[:p1b]%>
+              <% end %>
+          </p>
+          <% if subsection[:p2] %><p><%= subsection[:p2]%></p><% end %>
+          <% if subsection[:p3] %><p><%= subsection[:p3]%></p><% end %>
+          <% if subsection[:image] %>
+            <img src="<%= image_path(subsection[:image]) %>" alt="<%= subsection[:image_alt]%>" class="<%= subsection[:image_class]%>">
+          <%end%>
+        </div>
+    <% end %>
   </div>
 </main>

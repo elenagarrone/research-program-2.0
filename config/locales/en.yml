@@ -23,21 +23,34 @@ en:
   homepage:
     h1: "MyQoL"
     subtitle: "Improving the assessment of Quality of Life"
-    about-title: "About"
-    about-subtitle1: "Who are we?"
-    about-p1: "We are an international research team consisting of under- and post-graduate psychology students, supervised by Dr Angelos Kassianos, postdoctoral research associate at University College London in the Department of Applied Health Research. The student group is part of the Junior Researcher Programme, a research orientated service in partnership with the University of Cambridge, which aims to provide young researchers with the opportunity to conduct cross-European research."
-    about-subtitle2: "What are we doing?"
-    about-p2: "We are conducting a research project to develop and test a mobile application for Quality of Life assessment in seven European countries."
-    about-subtitle3: "Why are we doing this?"
-    about-p3-1: "The use of mobile applications in healthcare is increasing, and we need to know more about the best ways to develop and incorporate them in practice. As the measure of Quality of Life has been shown to predict and directly influence clinical outcomes (e.g. survival , physical activity) in prominent conditions such as cancer, we want to find out the best method of assessment to be used in clinical settings."
-    about-p3-2: "Traditionally, Quality of Life assessment using paper or web-based questionnaires relies on people recalling recent events and feelings. This can be problematic because our memory can be biased by factors such as mood and memory decline. Furthermore, the feasibility of this kind of Quality of Life assessment can be limited by the time and monetary costs of travel to and from places in which assessments take place."
-    about-p3-3: "The above issues justify our investigation of the looking at new, different ways of assessing Quality of Life. Mobile applications seem a promising method because their use could overcome many of the challenges faced by traditional Quality of Life measurement."
-    about-subtitle4: "How are we doing this?"
-    about-p4: "We have developed a mobile application with the purpose of gathering information about Quality of Life in real-time, therefore avoiding the problems associated with looking back in time. When using the mobile application it is also possible to collect information about current mood and activities."
-    about-subtitle5: "Implications"
-    about-p5-1: "By participating in our project alongside fellow European university students, you will help us to determine whether or not the mobile application offers a valid, reliable and realistic method of assessing Quality of Life in real-time."
-    about-p5-2: "Our method will be cost efficient in terms of time and money, and also sensitive to the context in which responses are provided."
-    about-p5-3: "Finally, we hope that collecting health-related information with a mobile application might help physicians to keep track of their patients’ Quality of Life, which in turn could lead to more individualised treatment and better communication between both parties."
+    about:
+      h2: "About"
+      subsections:
+        -
+          h3: "Who are we?"
+          p1: "We are an international research team consisting of under- and post-graduate psychology students, supervised by Dr Angelos Kassianos, postdoctoral research associate at University College London in the Department of Applied Health Research. The student group is part of the"
+          jrp: "Junior Researcher Programme"
+          jrp_link: "//jrp.pscholars.org" #do not change
+          p1b: ", a research orientated service in partnership with the University of Cambridge, which aims to provide young researchers with the opportunity to conduct cross-European research."
+          image: "team.jpg" #do not change
+          image_alt: "Team picture"
+          image_class: "team-pic" #do not change
+        -
+          h3: "What are we doing?"
+          p1: "We are conducting a research project to develop and test a mobile application for Quality of Life assessment in seven European countries."
+        -
+          h3: "Why are we doing this?"
+          p1: "The use of mobile applications in healthcare is increasing, and we need to know more about the best ways to develop and incorporate them in practice. As the measure of Quality of Life has been shown to predict and directly influence clinical outcomes (e.g. survival , physical activity) in prominent conditions such as cancer, we want to find out the best method of assessment to be used in clinical settings."
+          p2: "Traditionally, Quality of Life assessment using paper or web-based questionnaires relies on people recalling recent events and feelings. This can be problematic because our memory can be biased by factors such as mood and memory decline. Furthermore, the feasibility of this kind of Quality of Life assessment can be limited by the time and monetary costs of travel to and from places in which assessments take place."
+          p3: "The above issues justify our investigation of the looking at new, different ways of assessing Quality of Life. Mobile applications seem a promising method because their use could overcome many of the challenges faced by traditional Quality of Life measurement."
+        -
+          h3: "How are we doing this?"
+          p1: "We have developed a mobile application with the purpose of gathering information about Quality of Life in real-time, therefore avoiding the problems associated with looking back in time. When using the mobile application it is also possible to collect information about current mood and activities."
+        -
+          h3: "Implications"
+          p1: "By participating in our project alongside fellow European university students, you will help us to determine whether or not the mobile application offers a valid, reliable and realistic method of assessing Quality of Life in real-time."
+          p2: "Our method will be cost efficient in terms of time and money, and also sensitive to the context in which responses are provided."
+          p3: "Finally, we hope that collecting health-related information with a mobile application might help physicians to keep track of their patients’ Quality of Life, which in turn could lead to more individualised treatment and better communication between both parties."
   ethics:
     h1: "Ethics"
     p1: "We are an independent research team and our research project received ethical approval by the Ethical Committees of the following institutions: the University of Cyprus (Cyprus), the University of Copenhagen (Denmark), the Autonomous University of Madrid (Spain), the University of Bologna (Italy), the University of Edinburgh (Scotland), the University of Cologne (Germany), the Budapest University of Technology and Economics (Hungary) and the University of Glasgow (Scotland). It was not necessary to obtain ethical approval in XX and XX as the project was considered (insert reasons, for instance: non-invasive or questionnaire based)."
@@ -46,61 +59,61 @@ en:
     h1: "Research team"
     profiles:
       -
-        image: "Angelos P. Kassianos.jpg"
+        image: "Angelos P. Kassianos.jpg" #do not change
         name: "Angelos P. Kassianos"
         role: "Research Supervisor"
         university: "University of Cyprus (Cyprus) and University College London (UK)"
         quote: "“I am a Post-doctoral Researcher in the area of Health Psychology with the vision of finding new ways to optimize well-being in health care.”"
       -
-        image: "Caroline Vintergaard Ott.jpg"
+        image: "Caroline Vintergaard Ott.jpg" #do not change
         name: "Caroline Vintergaard Ott"
         role: "Junior Researcher"
         university: "University of Copenhagen (Denmark)"
         quote: "“Structured, hard working and fun loving postgraduate student with ambitions to pursue a career within research, focusing on improving the treatment of mental illnesses.”"
       -
-        image: "Victor Estal Munoz.jpg"
+        image: "Victor Estal Munoz.jpg" #do not change
         name: "Víctor Estal Muñoz"
         role: "Project Manager"
         university: "Autonomous of Madrid University (Spain)"
         quote: "“Postgraduate student interested in both applied and research aspects of Clinical Psychology. His main concern is the explanation of why people change in therapy.”"
       -
-        image: "Pietro Marenco.jpg"
+        image: "Pietro Marenco.jpg" #do not change
         name: "Pietro Marenco"
         role: "Project Manager"
         university: "University of Bologna (Italy) and University of Valencia (Spain)"
         quote: "“Postgraduate student on Work, Organizational and Personnel Psychology, my mission is surfing the wave of the Evidence-Based Practice movement, that is, bringing science at benefitting all the people in-and out of work.”"
       -
-        image: "Silvana Mareva.jpg"
+        image: "Silvana Mareva.jpg" #do not change
         name: "Silvana Mareva"
         role: "Junior Researcher"
         university: "University of Edinburgh"
         quote: "“Undergraduate student interested in the research and applied aspects of Clinical Neuropsychology. Aspiring to raise public awareness about psychological research findings.”"
       -
-        image: "Tobias Wingen.jpg"
+        image: "Tobias Wingen.jpg" #do not change
         name: "Tobias Wingen"
         role: "Communications Officer"
         university: "University of Cologne"
         quote: "“I am a master-level psychology student from Cologne, Germany. My main research interests are research methods and social cognition research. I want to use smartphone applications in my future research.”"
       -
-        image: "Barbara Schmidt.jpg"
+        image: "Barbara Schmidt.jpg" #do not change
         name: "Barbara Schmidt"
         role: "Technical Officcer"
         university: "Budapest University of Technology and Economics (Hungary)"
         quote: "“Organizational- and workpsychology MA student from Budapest, Hungary. My main interests are: improving user experience in smartphone applications and applied behavioral economics.”"
       -
-        image: "David Thomson.jpg"
+        image: "David Thomson.jpg" #do not change
         name: "David Thomson"
         role: "Dissemination Officer"
         university: "The University of Glasgow (Scotland)"
         quote: "“Final year undergraduate student with an interest in clinical, health and evolutionary psychology. My goal is to gain experience both in applied fields of clinical psychology and academic health research.”"
       -
-        image: "Niki Karakonstanti.jpg"
+        image: "Niki Karakonstanti.jpg" #do not change
         name: "Niki Karakonstanti"
         role: "External Collaborator"
         university: "University of Cyprus (Cyprus)"
         quote: "“Postgaduate student in either Clinical or Counseling Psychology (to be determined). My future ambition is a career  in both applied and research field. I am mainly interensting in individual's conscious and unconsious part.”"
       -
-        image: "Anthony Bukhalana.jpg"
+        image: "Anthony Bukhalana.jpg" #do not change
         name: "Anthony Bukhalana"
         role: "External Collaborator – App developer"
         university: "Jomo Kenyatta University of Agriculture And Technology (Kenya)"
