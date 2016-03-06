@@ -130,6 +130,8 @@ en:
     h1: "Participate"
     p1: "Can you imagine a way to improve the health of patients with serious diseases? Eventually, we aim to do so developing and testing a mobile application for real-time assessment of Quality of Life."
     p2: "By volunteering to participate in this project you can contribute to reaching this aim. Please, click on the link below to have detailed information on the project and to provide the Informed Consent for participating."
+    access_form: "form-app.png" #do not change
+    access_alt: "Informed consent form"
     p3: "After providing your Informed Consent, you will easily create a personal Code. After doing so, you can download the mobile application and register using the personal Code. Such Code will guarantee the anonymity of all the information you will provide during the project."
   contact_us:
     h1: "Contact us"
