@@ -131,3 +131,21 @@ main {
         width: 22rem;
     }
 }
+
+.chart-progress {
+    margin-top: 20px;
+
+    img {
+        width: 6rem;
+    }
+
+    p {
+        color: $blue;
+        display: inline-block;
+        position: relative;
+        bottom: 30px;
+        @include fontsize(18);
+        font-weight: bold;
+        margin-left: 20px;
+    }
+}
