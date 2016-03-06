@@ -56,12 +56,13 @@ Rails.application.routes.draw do
   #     # (app/controllers/admin/products_controller.rb)
   #     resources :products
   #   end
-  scope "(:locale)", locale: /en|hu/ do
+  scope "(:locale)", locale: /en|hu|it|es|en|el|de|da/ do
       resources :homepage, only: [:index]
       resources :ethics, only: [:index]
       resources :team, only: [:index]
       resources :join, only: [:index]
       resources :contact_us
       resources :news, :controller => "news_and_updates"
+      resources :findings
   end
 end

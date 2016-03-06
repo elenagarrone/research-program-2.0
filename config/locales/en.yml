@@ -20,6 +20,14 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
+  navigation:
+    about: "About"
+    ethics: "Ethics"
+    team: "Team"
+    join: "Join"
+    contact_us: "Contact us"
+    news: "News"
+    findings: "Findings"
   homepage:
     h1: "MyQoL"
     subtitle: "Improving the assessment of Quality of Life"
