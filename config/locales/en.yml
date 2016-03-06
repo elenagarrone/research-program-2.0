@@ -48,13 +48,13 @@ en:
           p1: "We have developed a mobile application with the purpose of gathering information about Quality of Life in real-time, therefore avoiding the problems associated with looking back in time. When using the mobile application it is also possible to collect information about current mood and activities."
         -
           h3: "Implications"
-          p1: "By participating in our project alongside fellow European university students, you will help us to determine whether or not the mobile application offers a valid, reliable and realistic method of assessing Quality of Life in real-time."
-          p2: "Our method will be cost efficient in terms of time and money, and also sensitive to the context in which responses are provided."
-          p3: "Finally, we hope that collecting health-related information with a mobile application might help physicians to keep track of their patients’ Quality of Life, which in turn could lead to more individualised treatment and better communication between both parties."
+          p1: "You are free to decide if you would like to contribute to our project alongside fellow European university students. Your participation would help us determining whether or not the mobile application offers a valid, reliable and realistic method of assessing Quality of Life in real-time."
+          p2: "We expect real-time collection of health-related information might help physicians to keep track of their patients’ Quality of Life. This could lead to more individualised treatment through better communication between both parties."
+          p3: "Last but not least, our method will be cost efficient in terms of time and money, improving Quality of Life assessment by being sensitive to the context in which responses are provided."
   ethics:
     h1: "Ethics"
-    p1: "We are an independent research team and our research project received ethical approval by the Ethical Committees of the following institutions: the University of Cyprus (Cyprus), the University of Copenhagen (Denmark), the Autonomous University of Madrid (Spain), the University of Bologna (Italy), the University of Edinburgh (Scotland), the University of Cologne (Germany), the Budapest University of Technology and Economics (Hungary) and the University of Glasgow (Scotland). It was not necessary to obtain ethical approval in XX and XX as the project was considered (insert reasons, for instance: non-invasive or questionnaire based)."
-    p2: "We will ensure the security of all information collected during the assessment period by storing the data in a cloud-based database only accessible by the Principal Investigator. Answers will be anonymous, and every effort will be made to ensure confidentiality. We would like to emphasise that no corporations or third parties will have access to the data, and that the results will not be used for commercial purposes."
+    p1: "We are an independent research team, and our research project adheres to the ethical guidelines provided by each research group member’s institution and/or home country. For more information, please contact the Junior Researcher associated with your location."
+    p2: "We will ensure the security of all information collected during the assessment period by storing the mobile application data in a cloud-based database accessible by the Principal Investigator. Answers will be anonymous, and every effort will be made to ensure confidentiality. We would like to emphasise that no corporations or third parties will have access to the data, and that the results will not be used for commercial purposes."
   team:
     h1: "Research team"
     profiles:
@@ -62,7 +62,7 @@ en:
         image: "Angelos P. Kassianos.jpg" #do not change
         name: "Angelos P. Kassianos"
         role: "Research Supervisor"
-        university: "University of Cyprus (Cyprus) and University College London (UK)"
+        university: "University College London (UK)"
         quote: "“I am a Post-doctoral Researcher in the area of Health Psychology with the vision of finding new ways to optimize well-being in health care.”"
       -
         image: "Caroline Vintergaard Ott.jpg" #do not change
@@ -75,13 +75,13 @@ en:
         name: "Víctor Estal Muñoz"
         role: "Project Manager"
         university: "Autonomous of Madrid University (Spain)"
-        quote: "“Postgraduate student interested in both applied and research aspects of Clinical Psychology. His main concern is the explanation of why people change in therapy.”"
+        quote: "“I am a goal-oriented and travel enthusiastic Postgraduate Student on Clinical Psychology. My main research prospect is to bring the latest scientific knowledge of psychopathology and therapy to its applied context.”"
       -
         image: "Pietro Marenco.jpg" #do not change
         name: "Pietro Marenco"
         role: "Project Manager"
         university: "University of Bologna (Italy) and University of Valencia (Spain)"
-        quote: "“Postgraduate student on Work, Organizational and Personnel Psychology, my mission is surfing the wave of the Evidence-Based Practice movement, that is, bringing science at benefitting all the people in-and out of work.”"
+        quote: "“Asking myself - What for? - I am deep in life as in my career aspirations: I am eager to make use of science to inform policies, making the good for society. I value ethic and believe in scientific rigor to improve workers’ health, wellbeing and growth.”"
       -
         image: "Silvana Mareva.jpg" #do not change
         name: "Silvana Mareva"
@@ -93,11 +93,11 @@ en:
         name: "Tobias Wingen"
         role: "Communications Officer"
         university: "University of Cologne"
-        quote: "“I am a master-level psychology student from Cologne, Germany. My main research interests are research methods and social cognition research. I want to use smartphone applications in my future research.”"
+        quote: "“I aim for science with impact. Developing smartphone applications is a great way to apply modern technology on relevant research questions. This project thus perfectly combines my interest in research methods and psychology.”"
       -
         image: "Barbara Schmidt.jpg" #do not change
         name: "Barbara Schmidt"
-        role: "Technical Officcer"
+        role: "Technical Officer"
         university: "Budapest University of Technology and Economics (Hungary)"
         quote: "“Organizational- and workpsychology MA student from Budapest, Hungary. My main interests are: improving user experience in smartphone applications and applied behavioral economics.”"
       -
@@ -110,7 +110,7 @@ en:
         image: "Niki Karakonstanti.jpg" #do not change
         name: "Niki Karakonstanti"
         role: "External Collaborator"
-        university: "University of Cyprus (Cyprus)"
+        university: "European University Cyprus (Cyprus)"
         quote: "“Postgaduate student in either Clinical or Counseling Psychology (to be determined). My future ambition is a career  in both applied and research field. I am mainly interensting in individual's conscious and unconsious part.”"
       -
         image: "Anthony Bukhalana.jpg" #do not change
@@ -120,9 +120,9 @@ en:
         quote: "“I am a dynamic mobile application developer with a keen interest in mobile technology. Currently undertaking a masters in Mobile Technology and Innovation. I intend to be part of the mobile revolution in the whole world.”"
   join:
     h1: "Participate"
-    p1: "Can you imagine a way to improve the health of patients with serious diseases?
-      We aim to do so beginning with your contribution to develop an evidence-based application to improve the assessment of Quality of Life in healthcare."
-    p2: "After you register with your email we will send you an email containing the Information Sheet, the Informed Consent, and the link for downloading the mobile application."
+    p1: "Can you imagine a way to improve the health of patients with serious diseases? Eventually, we aim to do so developing and testing a mobile application for real-time assessment of Quality of Life."
+    p2: "By volunteering to participate in this project you can contribute to reaching this aim. Please, click on the link below to have detailed information on the project and to provide the Informed Consent for participating."
+    p3: "After providing your Informed Consent, you will easily create a personal Code. After doing so, you can download the mobile application and register using the personal Code. Such Code will guarantee the anonymity of all the information you will provide during the project."
   contact_us:
     h1: "Contact us"
     p1: "For any questions or further information, please fill up the form:"
@@ -134,3 +134,7 @@ en:
     h1: "News and Updates"
     caption: "News and updates on the project:"
     no_message: "No news available at the moment."
+  findings:
+    h1: "Findings"
+    p1: "As our research relies on your free participation, at the end of the project we would like to offer you an overview of our findings. We will summarise the results and provide a general overview of the findings including how the retrospective and real-time method of assessing Quality of Life compare, how Quality of Life is associated with variables such as sleep and social power, and how measures of Quality of Life varies across time... and more!"
+    p2: "To pay off your effort of contributing to our aim, we are excited to share with you the evidences we will come across at the end of the project!"

@@ -12,11 +12,10 @@
         margin-right: 15px;
     }
     @include breakpoint(52rem){
-        height: 595px;
         width: 46%;
     }
     @include breakpoint(67rem){
-        height: 580px;
+        height: 590px;
         width: 30%;
     }
 
