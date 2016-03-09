@@ -1,9 +1,9 @@
 <ul>
-    <li><a href="/" <% if current_page?(root_path) || current_page?(homepage_index_path)%>class="active"<% end %>><%=t 'navigation.about' %></a></li>
-    <li><a href="/ethics" <% if current_page?(ethics_path)%>class="active"<% end %>><%=t 'navigation.ethics' %></a></li>
-    <li><a href="/team" <% if current_page?(team_index_path)%>class="active"<% end %>><%=t 'navigation.team' %></a></li>
-    <li><a href="/join" <% if current_page?(join_index_path)%>class="active"<% end %>><%=t 'navigation.join' %></a></li>
-    <li><a href="/findings" <% if current_page?(findings_path)%>class="active"<% end %>><%=t 'navigation.findings' %></a></li>
-    <li><a href="/news" <% if current_page?(news_index_path)%>class="active"<% end %>><%=t 'navigation.news' %></a></li>
-    <li><a href="/contact_us" <% if current_page?(contact_us_path)%>class="active"<% end %>><%=t 'navigation.contact_us' %></a></li>
+    <li><a href="<%= root_path %>" <% if current_page?(root_path) || current_page?(homepage_index_path)%>class="active"<% end %>><%=t 'navigation.about' %></a></li>
+    <li><a href="<%= ethics_path %>" <% if current_page?(ethics_path)%>class="active"<% end %>><%=t 'navigation.ethics' %></a></li>
+    <li><a href="<%= team_index_path %>" <% if current_page?(team_index_path)%>class="active"<% end %>><%=t 'navigation.team' %></a></li>
+    <li><a href="<%= join_index_path %>" <% if current_page?(join_index_path)%>class="active"<% end %>><%=t 'navigation.join' %></a></li>
+    <li><a href="<%= findings_path %>" <% if current_page?(findings_path)%>class="active"<% end %>><%=t 'navigation.findings' %></a></li>
+    <li><a href="<%= news_index_path %>" <% if current_page?(news_index_path)%>class="active"<% end %>><%=t 'navigation.news' %></a></li>
+    <li><a href="<%= contact_us_path %>" <% if current_page?(contact_us_path)%>class="active"<% end %>><%=t 'navigation.contact_us' %></a></li>
 </ul>

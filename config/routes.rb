@@ -6,6 +6,7 @@ Rails.application.routes.draw do
   # You can have the root of your site routed with "root"
   # root 'welcome#index'
   # config/routes.rb
+  get '/:locale' => 'homepage#index'
   root 'homepage#index'
 
   # Example of regular route:

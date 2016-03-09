@@ -1,4 +1,132 @@
 hu:
+  navigation:
+    about: "About"
+    ethics: "Ethics"
+    team: "Team"
+    join: "Join"
+    contact_us: "Contact us"
+    news: "News"
+    findings: "Findings"
   homepage:
-    h1: 'MyQoL'
-    subtitle: 'hungarian subtitle'
+    h1: "HU"
+    subtitle: "Improving the assessment of Quality of Life"
+    about:
+      h2: "About"
+      subsections:
+        -
+          h3: "Who are we?"
+          p1: "We are an international research team consisting of under- and post-graduate psychology students, supervised by Dr Angelos Kassianos, postdoctoral research associate at University College London in the Department of Applied Health Research. The student group is part of the"
+          jrp: "Junior Researcher Programme"
+          jrp_link: "//jrp.pscholars.org" #do not change
+          p1b: ", a research orientated service in partnership with the University of Cambridge, which aims to provide young researchers with the opportunity to conduct cross-European research."
+          image: "team.jpg" #do not change
+          image_alt: "Team picture"
+          image_class: "team-pic" #do not change
+        -
+          h3: "What are we doing?"
+          p1: "We are conducting a research project to develop and test a mobile application for Quality of Life assessment in seven European countries."
+        -
+          h3: "Why are we doing this?"
+          p1: "The use of mobile applications in healthcare is increasing, and we need to know more about the best ways to develop and incorporate them in practice. As the measure of Quality of Life has been shown to predict and directly influence clinical outcomes (e.g. survival , physical activity) in prominent conditions such as cancer, we want to find out the best method of assessment to be used in clinical settings."
+          p2: "Traditionally, Quality of Life assessment using paper or web-based questionnaires relies on people recalling recent events and feelings. This can be problematic because our memory can be biased by factors such as mood and memory decline. Furthermore, the feasibility of this kind of Quality of Life assessment can be limited by the time and monetary costs of travel to and from places in which assessments take place."
+          p3: "The above issues justify our investigation of the looking at new, different ways of assessing Quality of Life. Mobile applications seem a promising method because their use could overcome many of the challenges faced by traditional Quality of Life measurement."
+        -
+          h3: "How are we doing this?"
+          p1: "We have developed a mobile application with the purpose of gathering information about Quality of Life in real-time, therefore avoiding the problems associated with looking back in time. When using the mobile application it is also possible to collect information about current mood and activities."
+        -
+          h3: "Implications"
+          p1: "You are free to decide if you would like to contribute to our project alongside fellow European university students. Your participation would help us determining whether or not the mobile application offers a valid, reliable and realistic method of assessing Quality of Life in real-time."
+          p2: "We expect real-time collection of health-related information might help physicians to keep track of their patients’ Quality of Life. This could lead to more individualised treatment through better communication between both parties."
+          p3: "Last but not least, our method will be cost efficient in terms of time and money, improving Quality of Life assessment by being sensitive to the context in which responses are provided."
+  ethics:
+    h1: "Hs"
+    p1: "We are an independent research team, and our research project adheres to the ethical guidelines provided by each research group member’s institution and/or home country. For more information, please contact the Junior Researcher associated with your location."
+    p2: "We will ensure the security of all information collected during the assessment period by storing the mobile application data in a cloud-based database accessible by the Principal Investigator. Answers will be anonymous, and every effort will be made to ensure confidentiality. We would like to emphasise that no corporations or third parties will have access to the data, and that the results will not be used for commercial purposes."
+  team:
+    h1: "Research team"
+    profiles:
+      -
+        image: "Angelos P. Kassianos.jpg" #do not change
+        name: "Angelos P. Kassianos"
+        role: "Research Supervisor"
+        university: "University College London (UK)"
+        quote: "“I am a Post-doctoral Researcher in the area of Health Psychology with the vision of finding new ways to optimize well-being in health care.”"
+      -
+        image: "Caroline Vintergaard Ott.jpg" #do not change
+        name: "Caroline Vintergaard Ott"
+        role: "Junior Researcher"
+        university: "University of Copenhagen (Denmark)"
+        quote: "“Structured, hard working and fun loving postgraduate student with ambitions to pursue a career within research, focusing on improving the treatment of mental illnesses.”"
+      -
+        image: "Victor Estal Munoz.jpg" #do not change
+        name: "Víctor Estal Muñoz"
+        role: "Project Manager"
+        university: "Autonomous of Madrid University (Spain)"
+        quote: "“I am a goal-oriented and travel enthusiastic Postgraduate Student on Clinical Psychology. My main research prospect is to bring the latest scientific knowledge of psychopathology and therapy to its applied context.”"
+      -
+        image: "Pietro Marenco.jpg" #do not change
+        name: "Pietro Marenco"
+        role: "Project Manager"
+        university: "University of Bologna (Italy) and University of Valencia (Spain)"
+        quote: "“Asking myself - What for? - I am deep in life as in my career aspirations: I am eager to make use of science to inform policies, making the good for society. I value ethic and believe in scientific rigor to improve workers’ health, wellbeing and growth.”"
+      -
+        image: "Silvana Mareva.jpg" #do not change
+        name: "Silvana Mareva"
+        role: "Junior Researcher"
+        university: "University of Edinburgh"
+        quote: "“Undergraduate student interested in the research and applied aspects of Clinical Neuropsychology. Aspiring to raise public awareness about psychological research findings.”"
+      -
+        image: "Tobias Wingen.jpg" #do not change
+        name: "Tobias Wingen"
+        role: "Communications Officer"
+        university: "University of Cologne"
+        quote: "“I aim for science with impact. Developing smartphone applications is a great way to apply modern technology on relevant research questions. This project thus perfectly combines my interest in research methods and psychology.”"
+      -
+        image: "Barbara Schmidt.jpg" #do not change
+        name: "Barbara Schmidt"
+        role: "Technical Officer"
+        university: "Budapest University of Technology and Economics (Hungary)"
+        quote: "“Organizational- and workpsychology MA student from Budapest, Hungary. My main interests are: improving user experience in smartphone applications and applied behavioral economics.”"
+      -
+        image: "David Thomson.jpg" #do not change
+        name: "David Thomson"
+        role: "Dissemination Officer"
+        university: "The University of Glasgow (Scotland)"
+        quote: "“Final year undergraduate student with an interest in clinical, health and evolutionary psychology. My goal is to gain experience both in applied fields of clinical psychology and academic health research.”"
+      -
+        image: "Niki Karakonstanti.jpg" #do not change
+        name: "Niki Karakonstanti"
+        role: "External Collaborator"
+        university: "European University Cyprus (Cyprus)"
+        quote: "“Postgaduate student in either Clinical or Counseling Psychology (to be determined). My future ambition is a career  in both applied and research field. I am mainly interensting in individual's conscious and unconsious part.”"
+      -
+        image: "Anthony Bukhalana.jpg" #do not change
+        name: "Anthony Bukhalana"
+        role: "External Collaborator – App developer"
+        university: "Jomo Kenyatta University of Agriculture And Technology (Kenya)"
+        quote: "“I am a dynamic mobile application developer with a keen interest in mobile technology. Currently undertaking a masters in Mobile Technology and Innovation. I intend to be part of the mobile revolution in the whole world.”"
+  join:
+    h1: "Participate"
+    p1: "Can you imagine a way to improve the health of patients with serious diseases? Eventually, we aim to do so developing and testing a mobile application for real-time assessment of Quality of Life."
+    p2: "By volunteering to participate in this project you can contribute to reaching this aim. Please, click on the link below to have detailed information on the project and to provide the Informed Consent for participating."
+    access_form: "form-app.png" #do not change
+    access_alt: "Informed consent form"
+    p3: "After providing your Informed Consent, you will easily create a personal Code. After doing so, you can download the mobile application and register using the personal Code. Such Code will guarantee the anonymity of all the information you will provide during the project."
+  contact_us:
+    h1: "Contact us"
+    p1: "For any questions or further information, please fill up the form:"
+    label1: "Email:"
+    label2: "Subject:"
+    label3: "Message:"
+    button: "Send message"
+  news:
+    h1: "News and Updates"
+    caption: "News and updates on the project:"
+    no_message: "No news available at the moment."
+  findings:
+    h1: "Overall"
+    p1: "As our research relies on your free participation, at the end of the project we would like to offer you an overview of our findings. We will summarise the results and provide a general overview of the findings including how the retrospective and real-time method of assessing Quality of Life compare, how Quality of Life is associated with variables such as sleep and social power, and how measures of Quality of Life varies across time... and more!"
+    p2: "To pay off your effort of contributing to our aim, we are excited to share with you the evidences we will come across at the end of the project!"
+    image: "chart.png" #do not change
+    image_alt: "Graph image"
+    p3: "Work in progress"
