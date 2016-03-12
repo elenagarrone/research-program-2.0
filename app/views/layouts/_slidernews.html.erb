@@ -1,7 +1,5 @@
-<% if @news.all.any?  %>
-    <div class="owl-carousel owl-theme">
-        <% @news.all[0..4].each do |post| %>
-            <div class="item"><%= post.description %></div>
-        <% end %>
-    </div>
-<% end %>
+<div class="owl-carousel owl-theme">
+    <% @news.all[0..4].each do |post| %>
+        <div class="item"><%= post.description %></div>
+    <% end %>
+</div>
