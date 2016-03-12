@@ -1,0 +1,23 @@
+<div class="container-fluid">
+    <% if user_signed_in? %>
+        <%= link_to "Sign out", destroy_user_session_path, method: :delete, class: "float-right" %>
+    <% end %>
+    <div class="row">
+        <div class="col-sm-6 col-sm-offset-3">
+            <main role="main" class="contact-us">
+                <h1 class="h2"><%=t 'contact_us.h1' %></h1>
+                <p class="sub-heading"><%=t 'contact_us.p1' %></p>
+
+                <%= form_for @contact, :url => contact_us_path do |f| %>
+                    <%= f.label :email, t('contact_us.label1') + ":", class: "access" %>
+                    <%= f.email_field :email, placeholder: t('contact_us.label1') , required: true %>
+                    <%= f.label :subject, t('contact_us.label2') + ":", class: "access" %>
+                    <%= f.text_field :subject, placeholder: t('contact_us.label2') , required: true %>
+                    <%= f.label :message, t('contact_us.label3'), class: "access" %>
+                    <%= f.text_area :message, placeholder: t('contact_us.label3') + "..." , required: true %>
+                    <%= f.submit t('contact_us.button') %>
+                <% end %>
+            </main>
+        </div>
+    </div>
+</div>

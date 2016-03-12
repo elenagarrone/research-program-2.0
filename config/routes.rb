@@ -62,7 +62,7 @@ Rails.application.routes.draw do
       resources :ethics, only: [:index]
       resources :team, only: [:index]
       resources :join, only: [:index]
-      resources :contact_us
+      resources :contact_us, only: [:new, :create]
       resources :news, :controller => "news_and_updates"
       resources :findings
   end
