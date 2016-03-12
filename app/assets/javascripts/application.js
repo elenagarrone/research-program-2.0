@@ -19,3 +19,5 @@
 //= require navigation
 //= require alert
 // require location
+//= require owl.carousel.min.js
+//= require slider
