@@ -13,11 +13,10 @@
             var $instance = this.$instance;
 
             $(settings.sliderSelector).owlCarousel({
-                navigation : true,
                 slideSpeed : 1000,
                 paginationSpeed : 1000,
                 singleItem: true,
-                autoPlay: 5000,
+                autoPlay: 4000,
                 rewindSpeed: 2000
             });
         }

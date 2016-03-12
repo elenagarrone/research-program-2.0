@@ -3,13 +3,7 @@
         <%= link_to "Sign out", destroy_user_session_path, method: :delete, class: "float-right" %>
     <% end %>
 
-    <div class="owl-carousel owl-theme">
-
-      <div class="item">first</div>
-      <div class="item">second</div>
-      <div class="item">third</div>
-
-    </div>
+    <%= render "layouts/slidernews" %>
 
   <div class="title">
     <h1><%=t 'homepage.h1' %></h1>

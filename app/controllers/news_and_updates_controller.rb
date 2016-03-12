@@ -14,7 +14,7 @@ class NewsAndUpdatesController < ApplicationController
         else
             flash[:alert] = 'Something went wrong while creating the news. Try again.'
         end
-        redirect_to '/news'
+        redirect_to news_index_path
     end
 
     def edit
@@ -29,7 +29,7 @@ class NewsAndUpdatesController < ApplicationController
         else
             flash[:alert] = 'Something went wrong while updating the news. Try again.'
         end
-        redirect_to '/news'
+        redirect_to news_index_path
     end
 
     def destroy
@@ -40,7 +40,7 @@ class NewsAndUpdatesController < ApplicationController
         else
             flash[:alert] = 'Something went wrong while deleting the news. Try again.'
         end
-        redirect_to '/news'
+        redirect_to news_index_path
     end
 
     def news_params
