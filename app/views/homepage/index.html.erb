@@ -2,9 +2,13 @@
     <% if user_signed_in? %>
         <%= link_to "Sign out", destroy_user_session_path, method: :delete, class: "float-right" %>
     <% end %>
-
-    <%= render "layouts/slidernews" %>
-
+</div>
+<div class="news-slider">
+    <div class="container-fluid">
+        <%= render "layouts/slidernews" %>
+    </div>
+</div>
+<div class="container-fluid">
   <div class="title">
     <h1><%=t 'homepage.h1' %></h1>
     <p class="sub-heading"><%=t 'homepage.subtitle' %></p>

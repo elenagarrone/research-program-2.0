@@ -1,0 +1,15 @@
+.news-slider {
+    background-color: $blue;
+    color: $white;
+    padding: 10px;
+
+    .owl-theme .owl-controls {
+        margin-top: 0;
+        .owl-page span {
+            background-color: $white;
+            width: 10px;
+            height: 10px;
+            margin: 2px 7px;
+        }
+    }
+}
