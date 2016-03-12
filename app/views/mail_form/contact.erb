@@ -1,0 +1,11 @@
+<h1>MyQoL<h1>
+<h2><%= message.subject %></h2>
+
+<% @resource.mail_form_attributes.each do |attribute, value| %>
+  <% if attribute != 'subject' %>
+      <div>
+          <h2><%= @resource.class.human_attribute_name(attribute) %><%if attribute == 'email' %> from<% end %>:</h2>
+          <p><%= value%></p>
+      </div>
+  <% end %>
+<% end %>
