@@ -19,6 +19,15 @@
         width: 30%;
     }
 
+    .da & {
+        @include breakpoint(42rem){
+            height: 665px;
+        }
+        @include breakpoint(67rem){
+            height: 630px;
+        }
+    }
+
     > div {
         padding: 15px;
     }

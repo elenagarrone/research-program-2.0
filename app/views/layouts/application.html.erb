@@ -26,7 +26,7 @@
       <%= javascript_include_tag 'application', 'data-turbolinks-track' => true, :cache => true %>
       <%= csrf_meta_tags %>
     </head>
-    <body>
+    <body class="<%= I18n.locale %>">
     <%= render "layouts/header" %>
 
     <% if notice || alert%>
