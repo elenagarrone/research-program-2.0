@@ -1,132 +1,132 @@
 hu:
   navigation:
-    about: "About"
-    ethics: "Ethics"
-    team: "Team"
-    join: "Join"
-    contact_us: "Contact us"
-    news: "News"
-    findings: "Findings"
+    about: "Projekt"
+    ethics: "Etikai irányelvek"
+    team: "Kutatócsoport"
+    join: "Csatlakozz"
+    contact_us: "Kapcsolat"
+    news: "Hírek"
+    findings: "Eredmények"
   homepage:
-    h1: "HU"
+    h1: "MyQoL"
     subtitle: "Improving the assessment of Quality of Life"
     about:
-      h2: "About"
+      h2: "Projekt"
       subsections:
         -
-          h3: "Who are we?"
-          p1: "We are an international research team consisting of under- and post-graduate psychology students, supervised by Dr Angelos Kassianos, postdoctoral research associate at University College London in the Department of Applied Health Research. The student group is part of the"
+          h3: "Kik vagyunk?"
+          p1: " Egy Pszichológia BA és MA hallgatókból álló nemzetközi kutatócsoport vagyunk, amelyet Dr. Angelos Kassianos, a University College London, Alkalmazott Egészségkutatási Részlegének kutatója vezet. A hallgatókból álló kutatócsoport a "
           jrp: "Junior Researcher Programme"
-          jrp_link: "//jrp.pscholars.org" #do not change
-          p1b: ", a research orientated service in partnership with the University of Cambridge, which aims to provide young researchers with the opportunity to conduct cross-European research."
+          jrp_link: "http://jrp.pscholars.org" #do not change
+          p1b: ", keretében kutat -  amely egy kutatás orientált szolgáltatás szoros kapcsolatban a Cambridge-i Egyetemmel - amelynek célja, hogy fiatal kutatók számára lehetőséget biztosítson a cross-európai kutatásra."
           image: "team.jpg" #do not change
           image_alt: "Team picture"
           image_class: "team-pic" #do not change
         -
-          h3: "What are we doing?"
-          p1: "We are conducting a research project to develop and test a mobile application for Quality of Life assessment in seven European countries."
+          h3: "Mit csinálunk?"
+          p1: " A kutatásunk során egy életminőséget mérő mobil applikációt fejlesztünk és tesztelünk hét európai országban."
         -
-          h3: "Why are we doing this?"
-          p1: "The use of mobile applications in healthcare is increasing, and we need to know more about the best ways to develop and incorporate them in practice. As the measure of Quality of Life has been shown to predict and directly influence clinical outcomes (e.g. survival , physical activity) in prominent conditions such as cancer, we want to find out the best method of assessment to be used in clinical settings."
-          p2: "Traditionally, Quality of Life assessment using paper or web-based questionnaires relies on people recalling recent events and feelings. This can be problematic because our memory can be biased by factors such as mood and memory decline. Furthermore, the feasibility of this kind of Quality of Life assessment can be limited by the time and monetary costs of travel to and from places in which assessments take place."
-          p3: "The above issues justify our investigation of the looking at new, different ways of assessing Quality of Life. Mobile applications seem a promising method because their use could overcome many of the challenges faced by traditional Quality of Life measurement."
+          h3: "Miért csináljuk?"
+          p1: " A mobil applikációk egészségügyben történő felhasználása egyre inkább elterjed, így szükségessé vált, hogy többet tudjunk meg arról, hogy hogyan lehet a lehető leghatékonyabbra fejleszteni és a gyakorlatban felhasználni az applikációkat. Az életminőség mérése bizonyíthatóan bejósolja és közvetlenül befolyásolja a klinikai kimeneteket (pl. túlélés, fizikai aktivitás) olyan súlyos állapotokban is, mint például a rákos megbetegedések, ezért tűztük ki azt a kutatásunk céljául, hogy megtaláljuk a legjobb életminőséget mérő módszert, amely sikeresen alkalmazható klinikai környezetben is."
+          p2: "Hagyományosan az életminőség papír alapú vagy online kérdőívekkel történő mérésekor az emberek a közelmúltból idéznek fel emlékeket, eseményeket és érzéseket. Ez azonban problémás lehet, hiszen a memóriánk torzíthat bizonyos tényezők miatt mint például a hangulat vagy a lecsökkent szellemi aktivitás. Továbbá az említett életminőséget mérő eszközök alkalmazhatóságát a mérés helyszínére való utazás időbeli és pénzbeli tényezői is korlátozhatják."
+          p3: " A fent említett problémák igazolják az új, különböző életminőség mérésére szolgáló módszerek kutatásának szükségességét. A mobil applikációk ígéretes módszernek tűnnek, hiszen képesek leküzdeni számos olyan kihívást, amely a tradícionális mérőmódszereknek nem sikerült."
         -
-          h3: "How are we doing this?"
-          p1: "We have developed a mobile application with the purpose of gathering information about Quality of Life in real-time, therefore avoiding the problems associated with looking back in time. When using the mobile application it is also possible to collect information about current mood and activities."
+          h3: "Hogyan csináljuk?"
+          p1: "Kifejlesztettünk egy mobil applikációt, amelynek célja a valós időben történő adatgyűjtés az életminőségről, így elkerülve a memóriával összefüggésbe hozható problémákat. A mobil applikáció lehetővé teszi a jelenlegi hangulati állapotról és tevékenységről való adatgyűjtést is."
         -
-          h3: "Implications"
-          p1: "You are free to decide if you would like to contribute to our project alongside fellow European university students. Your participation would help us determining whether or not the mobile application offers a valid, reliable and realistic method of assessing Quality of Life in real-time."
-          p2: "We expect real-time collection of health-related information might help physicians to keep track of their patients’ Quality of Life. This could lead to more individualised treatment through better communication between both parties."
-          p3: "Last but not least, our method will be cost efficient in terms of time and money, improving Quality of Life assessment by being sensitive to the context in which responses are provided."
+          h3: "Implikációk"
+          p1: "Természetesen szabadon dönthetsz arról, hogy szeretnél-e hozzájárulni a projektünkhöz sok más európai egyetemi hallgatóval együtt. A részvételeddel segítesz nekünk meghatározni, hogy a mobil applikációnk valid, megbízható és gyakorlatban jól használható módszer-e az életminőség valós időben történő mérésére."
+          p2: "Mi hiszünk abban, hogy az egészséggel kapcsolatos információ valós idejű gyűjtése segíthet az orvosoknak monitorozni a páciensek életminőségét, amely a hatékonyabb orvos és beteg közötti kommunikáció elősegítésével hozzájárulhat a személyre szabottabb kezeléshez."
+          p3: "Végül, de nem utolsó sorban a módszerünk költséghatékony (idő és pénz tekintetében) és az életminőség mérését a válaszadás kontextusának figyelembe vételével javítja. "
   ethics:
-    h1: "Hs"
-    p1: "We are an independent research team, and our research project adheres to the ethical guidelines provided by each research group member’s institution and/or home country. For more information, please contact the Junior Researcher associated with your location."
-    p2: "We will ensure the security of all information collected during the assessment period by storing the mobile application data in a cloud-based database accessible by the Principal Investigator. Answers will be anonymous, and every effort will be made to ensure confidentiality. We would like to emphasise that no corporations or third parties will have access to the data, and that the results will not be used for commercial purposes."
+    h1: "Etikai irányelvek"
+    p1: "Független kutatócsoportként a kutatási projektünket az egyes csoporttagok oktatási intézményeinek/lakóhelyének etikai irányelvei szabályozzák. További információért, kérjük fordulj az országodban tartózkodó Junior Researcher-hez."
+    p2: "A mérési periódus alatt minden adat egy felhő-alapú adatbázisba kerül, amelyhez csak a kutatócsoport vezetője férhet hozzá, garantálva a biztonságos adatkezelést. A válaszokat anoniman kezeljük és mindent megteszünk annak érdekében, hogy biztosítsuk a bizalmas adatkezelést. Szeretnénk kihangsúlyozni, hogy az adatokhoz harmadik fél, szervezetek, cégek nem férhetnek hozzá, az eredmények üzleti célból nem kerülnek felhasználásra."
   team:
-    h1: "Research team"
+    h1: "Kutatócsoport"
     profiles:
       -
         image: "Angelos P. Kassianos.jpg" #do not change
         name: "Angelos P. Kassianos"
         role: "Research Supervisor"
-        university: "University College London (UK)"
-        quote: "“I am a Post-doctoral Researcher in the area of Health Psychology with the vision of finding new ways to optimize well-being in health care.”"
+        university: "University College London (Egyesült Királyság, UK)"
+        quote: "“Az Egészségpszichológia területének kutatójaként mindig új és új módszerek után kutatok, amelyekkel optimalizálni lehet a jól-létet az egészségügyben.”"
       -
         image: "Caroline Vintergaard Ott.jpg" #do not change
         name: "Caroline Vintergaard Ott"
         role: "Junior Researcher"
-        university: "University of Copenhagen (Denmark)"
-        quote: "“Structured, hard working and fun loving postgraduate student with ambitions to pursue a career within research, focusing on improving the treatment of mental illnesses.”"
+        university: "University of Copenhagen (Dánia)"
+        quote: "“Struktúrált, szorgalmas és életszerető mesterképzéses hallgató vagyok, aki szeretne kutatói karrierje során a mentális betegségek kezelésének javítására fókuszálni.”"
       -
         image: "Victor Estal Munoz.jpg" #do not change
         name: "Víctor Estal Muñoz"
         role: "Project Manager"
-        university: "Autonomous of Madrid University (Spain)"
-        quote: "“I am a goal-oriented and travel enthusiastic Postgraduate Student on Clinical Psychology. My main research prospect is to bring the latest scientific knowledge of psychopathology and therapy to its applied context.”"
+        university: "Autonomous of Madrid University (Spanyolország)"
+        quote: "“Cél-orientált és utazásimádó Klinikai pszichológiát tanuló mesterképzéses hallgató vagyok. A legfőbb kutatói célom, hogy a pszichopatológia és a terápia területén történő legújabb tudományos felfedezéseket a gyakorlatba ültessem.”"
       -
         image: "Pietro Marenco.jpg" #do not change
         name: "Pietro Marenco"
         role: "Project Manager"
-        university: "University of Bologna (Italy) and University of Valencia (Spain)"
-        quote: "“Asking myself - What for? - I am deep in life as in my career aspirations: I am eager to make use of science to inform policies, making the good for society. I value ethic and believe in scientific rigor to improve workers’ health, wellbeing and growth.”"
+        university: "University of Bologna (Olaszország) and University of Valencia (Spanyolország)"
+        quote: "“Mindig azt kérdezem magamtól – Miért? Szeretném a tudományt arra használni, hogy jót tehessek a társadalommal. Fontos számomra az etika és a tudományos elköteleződés a munkavállalók egészségének, jól-létének és fejlődésének növelésére.”"
       -
         image: "Silvana Mareva.jpg" #do not change
         name: "Silvana Mareva"
         role: "Junior Researcher"
-        university: "University of Edinburgh"
-        quote: "“Undergraduate student interested in the research and applied aspects of Clinical Neuropsychology. Aspiring to raise public awareness about psychological research findings.”"
+        university: "University of Edinburgh (Skócia)"
+        quote: "“Alapképzéses hallgató vagyok, akit kutatóként leginkább a Klinikai neuropszichopatológia alkalmazott területei érdekelnek. Szeretném a nyilvánosság figyelmét ráirányítani a pszichológiai kutatási eredményekre.”"
       -
         image: "Tobias Wingen.jpg" #do not change
         name: "Tobias Wingen"
         role: "Communications Officer"
-        university: "University of Cologne"
-        quote: "“I aim for science with impact. Developing smartphone applications is a great way to apply modern technology on relevant research questions. This project thus perfectly combines my interest in research methods and psychology.”"
+        university: "University of Cologne (Németország)"
+        quote: "“A célom olyan kutatást végezni, amely hatással van az emberekre. Egy mobil applikáció fejlesztése nagyszerű módja annak, hogy a modern technológia segítségével megválaszoljunk egy releváns kutatási kérdést. Ez a projekt tökéletesen kombinálja azokat a területeket, amelyek a pszichológia és a kutatás módszertan területén érdekelnek.”"
       -
         image: "Barbara Schmidt.jpg" #do not change
         name: "Barbara Schmidt"
         role: "Technical Officer"
-        university: "Budapest University of Technology and Economics (Hungary)"
-        quote: "“Organizational- and workpsychology MA student from Budapest, Hungary. My main interests are: improving user experience in smartphone applications and applied behavioral economics.”"
+        university: "Budapest University of Technology and Economics (Magyarország)"
+        quote: "“Munka- és szervezetpszichológia MA hallgató vagyok Budapestről. Szenvedélyem a mobil applikációk felhasználói élményének javítása és az alkalmazott 'Viselkedési Közgazdaságtan'.”"
       -
         image: "David Thomson.jpg" #do not change
         name: "David Thomson"
         role: "Dissemination Officer"
-        university: "The University of Glasgow (Scotland)"
-        quote: "“Final year undergraduate student with an interest in clinical, health and evolutionary psychology. My goal is to gain experience both in applied fields of clinical psychology and academic health research.”"
+        university: "The University of Glasgow (Skócia)"
+        quote: "“Utolsó éves hallgató vagyok alapképzésen, akit a Klinikum, az Egészségpszichológia és az Evolúciós pszichológia érdekel leginkább. A célom, hogy tapasztalatot szerezzek a gyakorlati Klinikai pszichológia és az akadémiai egészségkutatás területén is.”"
       -
         image: "Niki Karakonstanti.jpg" #do not change
         name: "Niki Karakonstanti"
         role: "External Collaborator"
         university: "European University Cyprus (Cyprus)"
-        quote: "“Postgaduate student in either Clinical or Counseling Psychology (to be determined). My future ambition is a career  in both applied and research field. I am mainly interensting in individual's conscious and unconsious part.”"
+        quote: "“Mesterképzéses hallgató vagyok Klinikai pszichológia és Tanácsadás szakirányon. A jövőbeli célom, hogy gyakorlati szakemberként és kutatóként is karriert építsek. Legfőképpen az egyéni tudatos és tudattalan viselkedés érdekel.”"
       -
         image: "Anthony Bukhalana.jpg" #do not change
         name: "Anthony Bukhalana"
         role: "External Collaborator – App developer"
         university: "Jomo Kenyatta University of Agriculture And Technology (Kenya)"
-        quote: "“I am a dynamic mobile application developer with a keen interest in mobile technology. Currently undertaking a masters in Mobile Technology and Innovation. I intend to be part of the mobile revolution in the whole world.”"
+        quote: "“Dinamikus mobil applikáció fejlesztő vagyok mély érdeklődéssel a mobil technológiák iránt. Jelenleg Mobil technológia és Innováció mesterképzésen tanulok. Szeretnék részese lenni a mobil forradalomnak."
   join:
-    h1: "Participate"
-    p1: "Can you imagine a way to improve the health of patients with serious diseases? Eventually, we aim to do so developing and testing a mobile application for real-time assessment of Quality of Life."
-    p2: "By volunteering to participate in this project you can contribute to reaching this aim. Please, click on the link below to have detailed information on the project and to provide the Informed Consent for participating."
+    h1: "Részvétel"
+    p1: "El tudsz képzelni olyan módot, módszert, amellyel javíthatsz egy súlyos betegségben szenvedő páciens egészségi állapotán? Végülis ez a mi célunk, hogy létrehozzunk és teszteljünk egy olyan mobil applikációt, amellyel valós időben mérhető az életminőség."
+    p2: " Azzal, hogy önkéntesként részt veszel ebben a projektben te is hozzájárulsz ahhoz, hogy elérjük a célunkat. Kérjük, bővebb információért és az Informált beleegyező nyilatkozat eléréséért kattints a megadott linkre."
     access_form: "form-app.png" #do not change
     access_alt: "Informed consent form"
-    p3: "After providing your Informed Consent, you will easily create a personal Code. After doing so, you can download the mobile application and register using the personal Code. Such Code will guarantee the anonymity of all the information you will provide during the project."
+    p3: " Miután leadtad az Informált beleegyező nyilatkozatot már csak a kódod elkészítése van hátra. Ezt követően letöltheted a mobil applikációt és regisztrálhatsz az általad megadott kód segítségével. A kód alkalmazása garantálja a project során megadott információk anonimitását."
   contact_us:
-    h1: "Contact us"
-    p1: "For any questions or further information, please fill up the form:"
-    label1: "Email:"
-    label2: "Subject:"
-    label3: "Message:"
-    button: "Send message"
+    h1: "Kapcsolat"
+    p1: "Kérdésed van/Bővebb információt szeretnél? Töltsd ki az alábbi űrlapot:"
+    label1: "E-mail cím"
+    label2: "Tárgy"
+    label3: "Üzenet"
+    button: "Küldés"
   news:
-    h1: "News and Updates"
-    caption: "News and updates on the project:"
-    no_message: "No news available at the moment."
+    h1: "Hírek"
+    caption: "Hírek és friss információk a projektről:"
+    no_message: "Jelenleg nem elérhető."
   findings:
-    h1: "Overall"
-    p1: "As our research relies on your free participation, at the end of the project we would like to offer you an overview of our findings. We will summarise the results and provide a general overview of the findings including how the retrospective and real-time method of assessing Quality of Life compare, how Quality of Life is associated with variables such as sleep and social power, and how measures of Quality of Life varies across time... and more!"
-    p2: "To pay off your effort of contributing to our aim, we are excited to share with you the evidences we will come across at the end of the project!"
+    h1: "Eredmények"
+    p1: "Mivel a kutatásunk az ingyenes önkéntességeden alapul, a projekt végén szeretnénk elérhetővé tenni számodra az eredményeinket. Össze fogjuk foglalni az eredményeket és készíteni fogunk egy általános áttekintést az eredményekről kiemelve az életminőség valós idejű és a retrospektív mérésének összehasonlítását, az életminőség különböző változókkal – mint például az alvás  vagy a szociális hatalom – való kapcsolatát, és az életminőség időbeli változását... és más tényezőket!"
+    p2: "Már nagyon várjuk, hogy fáradozásaidért cserébe megoszthassuk veled a kutatásunk eredményeit!"
     image: "chart.png" #do not change
     image_alt: "Graph image"
     p3: "Work in progress"
