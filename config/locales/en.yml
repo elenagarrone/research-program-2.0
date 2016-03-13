@@ -62,7 +62,7 @@ en:
   ethics:
     h1: "Ethics"
     p1: "We are an independent research team, and our research project adheres to the ethical guidelines provided by each research group member’s institution and/or home country. For more information, please contact the Junior Researcher associated with your location."
-    p2: "We will ensure the security of all information collected during the assessment period by storing the mobile application data in a cloud-based database accessible by the Principal Investigator. Answers will be anonymous, and every effort will be made to ensure confidentiality. We would like to emphasise that no corporations or third parties will have access to the data, and that the results will not be used for commercial purposes."
+    p2: "We will ensure the security of all information collected during the assessment period by storing the mobile application data in a cloud-based database accessible by the Research Supervisor. Answers will be anonymous, and every effort will be made to ensure confidentiality. We would like to emphasise that no corporations or third parties will have access to the data, and that the results will not be used for commercial purposes."
   team:
     h1: "Research team"
     profiles:
@@ -101,7 +101,7 @@ en:
         name: "Tobias Wingen"
         role: "Communications Officer"
         university: "University of Cologne"
-        quote: "“I aim for science with impact. Developing smartphone applications is a great way to apply modern technology on relevant research questions. This project thus perfectly combines my interest in research methods and psychology.”"
+        quote: "“I aim for science with impact. Developing smartphone applications is a great way to apply modern technology on relevant research questions. This project thus perfectly combines my interests in research methods and psychology.”"
       -
         image: "Barbara Schmidt.jpg" #do not change
         name: "Barbara Schmidt"
