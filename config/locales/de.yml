@@ -1,1 +1,133 @@
+#german
 de:
+  navigation:
+    about: "Das Projekt"
+    ethics: "Ethik"
+    team: "Über uns"
+    join: "Teilnehmen"
+    contact_us: "Kontakt"
+    news: "Neuigkeiten"
+    findings: "Ergebnisse"
+  homepage:
+    h1: "MyQoL"
+    subtitle: "Lebensqualität besser erfassen"
+    about:
+      h2: " Über das Projekt "
+      subsections:
+        -
+          h3: "Wer sind wir?"
+          p1: "Wir sind ein internationales Team von Psychologiestudierenden aus ganz Europa. Betreut werden wir von Dr. Angelos Kassianos, Forscher am University College London (Department of Applied Health Research). Diese Forschungsgruppe ist Teil des"
+          jrp: "Junior Researcher Programmes"
+          jrp_link: "http://jrp.pscholars.org" #do not change
+          p1b: ", ein forschungsorientiertes Programm in Partnerschaft mit der University of Cambridge. Das Junior Researcher Programme bietet für junge Forscher einen Rahmen zur internationalen Zusammenarbeit."
+          image: "team.jpg" #do not change
+          image_alt: "Gruppenbild"
+          image_class: "team-pic" #do not change
+        -
+          h3: "Was tun wir?"
+          p1: "In unserem Forschungsprojekt entwickeln wir eine Smartphone-App zur Erfassung der Lebensqualität (Quality of Life). Wir testen die App in sieben verschiedenen europäischen Ländern."
+        -
+          h3: "Warum tun wir das?"
+          p1: "Smartphone-Apps werden ein zunehmend relevanter Bestandteil moderner medizinischer Versorgung. Es ist daher wichtig herauszufinden, wie diese optimal entwickelt und eingesetzt werden können. Da Lebensqualität direkt mit wichtigen medizinischen Faktoren (z.B. physische Aktivität, Lebensdauer) in Verbindung steht, sind wir auf der Suche nach der optimalen Methode zur Erfassung von Lebensqualität."
+          p2: "Die traditionelle Erfassung der Lebensqualität mit Papierfragebögen basiert im Wesentlichen auf Erinnerungen des Befragten an Ereignisse und Stimmungen. Dies ist problematisch, weil unsere Erinnerungen oft verzerrt sind, z.B. durch unsere aktuelle Stimmung, oder weil einige Zeit vergangen ist. Darüber hinaus ist die Erfassung von Lebensqualität mit Papierfragebögen aufwändig. Patienten müssen oft extra anreisen, um einen Fragebogen auszufüllen."
+          p3: "Aufgrund dieser Bedenken suchen wir nach neuen, verbesserten Methoden zur Erfassung der Lebensqualität. Smartphone-Apps sind dabei besonders vielversprechend, weil sie viele Probleme der bisherigen Messmethoden lösen können."
+        -
+          h3: "Wie tun wir das?"
+          p1: "Wir haben eine Smartphone-App entwickelt, die die Lebensqualität in Echtzeit erfasst. Dadurch vermeiden wir Probleme, die mit fehlerhaften Erinnerungen zusammenhängen. Darüber hinaus können wir mit Smartphone-Apps aktuelle Aktivitäten und Stimmungen erfassen und dadurch die Messung verbessern."
+        -
+          h3: "Bedeutung"
+          p1: "Wir laden Sie ein, an unserem Projekt teilzunehmen. Dadurch unterstützen Sie europäische Studierende bei unserer unentgeltlichen Arbeit. Ihre Teilnahme hilft uns zudem herausfinden, ob unsere Smartphone-App eine wissenschaftliche und praktische Methode zur Erfassung der Lebensqualität in Echtzeit ist."
+          p2: "Wir glauben, dass eine Echtzeit-Erfassung von Lebensqualität Medizinern bei ihrer Arbeit helfen kann. Zum Beispiel können Mediziner so den Behandlungsfortschritt besser beurteilen. Dies könnte zu einer verbesserten Behandlung und Kommunikation zwischen Patient und Arzt führen."
+          p3: "Zu guter Letzt sparen Smartphone-Apps Zeit und Geld. Darüber hinaus können sie die Messung der Lebensqualität verbessern, da sie sensibel gegenüber Umwelteinflüssen sind."
+  ethics:
+    h1: "Ethik"
+    p1: "Wir sind eine vollständig unabhängige Forschungsgruppe. Unser Projekt entspricht den ethischen Anforderungen der Institutionen bzw. Länder der jeweiligen Teammitglieder. Für mehr Informationen kontaktieren Sie bitte das Teammitglied, das für Ihr Land zuständig ist."
+    p2: "Wir sorgen für die Sicherheit aller Daten, die wir erfassen. Hierfür speichern wir Ihre mobil erfassten Daten in einer geschützten Online-Datenbank, auf die nur der Projektbetreuer zugreifen kann. Alle Ihre Antworten sind anonym, und wir treffen alle möglichen Vorkehrungen um die Vertraulichkeit Ihrer Antworten zu gewährleisten. Wir möchten gerne besonders darauf hinweisen, dass unser Projekt nur zu Forschungszwecken durchgeführt wird und keinerlei kommerzielle Interessen vorliegen. Daher haben weder Unternehmen noch sonstige Organisationen Zugriff auf Ihre Daten."
+  team:
+    h1: "Forschungsgruppe"
+    profiles:
+      -
+        image: "Angelos P. Kassianos.jpg" #do not change
+        name: "Angelos P. Kassianos"
+        role: "Research Supervisor"
+        university: "University College London (Großbritannien)"
+        quote: "“Ich bin ein promovierter Forscher im Gebiet der Gesundheitspsychologie. Meine Vision ist es, neue Wege zu finden, das Wohlbefinden in der medizinischen Versorgung zu verbessern.”"
+      -
+        image: "Caroline Vintergaard Ott.jpg" #do not change
+        name: "Caroline Vintergaard Ott"
+        role: "Junior Researcher"
+        university: "University of Copenhagen (Dänemark)"
+        quote: "“Strukturierte, fleißige und lustige Master-Studentin, die eine Karriere in der Forschung anstrebt. Ich möchte helfen, die Behandlung psychischer Erkrankungen zu verbessern.”"
+      -
+        image: "Victor Estal Munoz.jpg" #do not change
+        name: "Víctor Estal Muñoz"
+        role: "Project Manager"
+        university: "Autonomous of Madrid University (Spanien)"
+        quote: "“Ich bin ein zielorientierter, reiselustiger Master-Student in klinischer Psychologie. Mein Forschungsinteresse ist die erfolgreiche Anwendung aktueller Erkenntnisse aus Psychopathologie und Therapie.”"
+      -
+        image: "Pietro Marenco.jpg" #do not change
+        name: "Pietro Marenco"
+        role: "Project Manager"
+        university: "University of Bologna (Italien) and University of Valencia (Spanien)"
+        quote: "“Mit der Frage – Weshalb? - Beschäftige ich mich in meinem Leben, wie in meiner Karriere: Ich möchte Forschung nutzen, um Entscheidungen und unsere Gesellschaft zu verbessern. Ich glaube an Ethik und an den Wert der Wissenschaft, um Gesundheit, Wohlbefinden und Wachstum im wirtschaftlichen Kontext zu ermöglichen.”"
+      -
+        image: "Silvana Mareva.jpg" #do not change
+        name: "Silvana Mareva"
+        role: "Junior Researcher"
+        university: "University of Edinburgh (Schottland)"
+        quote: "“Studentin mit Interesse an Forschung und klinischen Neurowissenschaften. Ich möchte öffentliche Aufmerksamkeit für psychologische Erkenntnisse schaffen.”"
+      -
+        image: "Tobias Wingen.jpg" #do not change
+        name: "Tobias Wingen"
+        role: "Communications Officer"
+        university: "University of Cologne (Deutschland)"
+        quote: "“Ich glaube an die Bedeutung von Wissenschaft. Smartphone-Apps zu entwickeln ist dabei ein perfekter Weg, moderne Technologien zu nutzen um relevante Forschungsfragen zu beantworten. Unser Projekt kombiniert daher ausgezeichnet meine Interessen an Forschungsmethoden und Psychologie.”"
+      -
+        image: "Barbara Schmidt.jpg" #do not change
+        name: "Barbara Schmidt"
+        role: "Technical Officer"
+        university: "Budapest University of Technology and Economics (Ungarn)"
+        quote: "“Arbeits- und Organisationspsychologie Studentin (Master) aus Budapest, Ungarn. Mein Hauptinteresse ist die Verbesserung der Nutzungserfahrung von Smartphone-Apps, sowie angewandte Verhaltensökonomie.”"
+      -
+        image: "David Thomson.jpg" #do not change
+        name: "David Thomson"
+        role: "Dissemination Officer"
+        university: "The University of Glasgow (Schottland)"
+        quote: "“Ich stehe kurz vor dem Abschluss meines Bachelors. Besonders interessiere ich mich für klinische, evolutionäre und Gesundsheitspsychologie.”"
+      -
+        image: "Niki Karakonstanti.jpg" #do not change
+        name: "Niki Karakonstanti"
+        role: "External Collaborator"
+        university: "European University Cyprus (Zypern)"
+        quote: "“Master Studentin in klinischer oder beratender Psychologie(wird bald entschieden). Mein Ziel ist eine Karriere sowohl in der Anwendung, wie auch in der Forschung. Mich interessiert vor allem das individuelle Zusammenspiel bewusster und unbewusster Prozesse.”"
+      -
+        image: "Anthony Bukhalana.jpg" #do not change
+        name: "Anthony Bukhalana"
+        role: "External Collaborator – App developer"
+        university: "Jomo Kenyatta University of Agriculture And Technology (Kenia)"
+        quote: "“Ich bin ein dynamische App-Entwickler mit einem großen Interesse an aktuellen Technologien. Momentan absolviere ich einen Master in Mobile Technology and Innovation. Ich möchte Bestandteil der digitalen Revolution in der ganzen Welt sein.”"
+  join:
+    h1: "Teilnehmen"
+    p1: "Können Sie sich einen Weg vorstellen, die medizinische Versorgung von Patienten mit schweren Krankheiten zu verbessern? Genau dies ist unser Ziel. Hierfür entwickeln und testen wir eine Smartphone-App zur Erfassung von Lebensqualität in Echtzeit."
+    p2: "Durch Ihre freiwillige Teilnahme an diesem Projekt können Sie uns helfen, unser Ziel zu erreichen. Wenn Sie teilnehmen möchten, klicken Sie bitte auf diesen Link. Dort erhalten Sie weitere Informationen über das Projekt und können Einwilligen, am Projekt teilzunehmen."
+    access_form: "form-app.png" #do not change
+    access_alt: "Einwilligung zur Teilnahme"
+    p3: "Nach dem Sie sich zur Teilnahme bereiterklärt haben, werden Sie einen persönlichen Code erstellen. Dadurch können Sie sich in der App registrieren. Dieser Code wird Ihre Anonymität während des gesamten Projektes garantieren."
+  contact_us:
+    h1: "Kontakt"
+    p1: "Für Fragen oder weitere Informationen verwenden Sie bitte dieses Formular:"
+    label1: "E-Mail"
+    label2: "Betreff"
+    label3: "Nachricht"
+    button: "Nachricht abschicken"
+  news:
+    h1: "Neuigkeiten"
+    caption: "Neues über das Projekt:"
+    no_message: "Momentan noch keine Neuigkeiten."
+  findings:
+    h1: "Überblick"
+    p1: "Da unsere Forschung auf Ihrer Teilnahme basiert, bieten wir Ihnen eine Übersicht der Ergebnisse an. Wir werden die Ergebnisse zusammenfassen und einen Überblick über die Ergebnisse erstellen. Insbesondere werden wir rückblickende und Echtzeit-Erfassung der Lebensqualität miteinander vergleichen. Darüber hinaus werden wir den Zusammenhang von Lebensqualität und weiteren Variablen, z.B. Schlafqualität und gesellschaftliche Stellung, untersuchen."
+    p2: "Als kleines Dankeschön für Ihre Teilnahme freuen wir uns, unsere Erkenntnisse mit Ihnen zu teilen."
+    image: "chart.png" #do not change
+    image_alt: "Graph image"
+    p3: "Seite im Aufbau"
