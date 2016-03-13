@@ -1,1 +1,133 @@
-es: 
+#spanish
+es:
+  navigation:
+    about: "El Proyecto"
+    ethics: "Ética"
+    team: "Equipo"
+    join: "Participar"
+    contact_us: "Contactar"
+    news: "Noticias"
+    findings: "Resultados"
+  homepage:
+    h1: "MyQoL"
+    subtitle: "Mejorando la evaluación de la Calidad de Vida"
+    about:
+      h2: "El Proyecto"
+      subsections:
+        -
+          h3: "¿Quiénes somos?"
+          p1: "Somos un grupo de investigación internacional formado por estudiantes de psicología de grado y posgrado supervisados por el Dr. Angelos Kassianos, investigador postdoctoral asociado en el Departamento de Investigación de Salud Aplicada de la Universidad College London. Formamos parte de"
+          jrp: "Junior Researcher Programme"
+          jrp_link: "http://jrp.pscholars.org" #do not change
+          p1b: ", un programa orientado a la investigación que colabora con la Universidad de Cambridge y que tiene como objetivo dotar a jóvenes investigadores la oportunidad de llevar a cabo una investigación a nivel europeo"
+          image: "team.jpg" #do not change
+          image_alt: "Foto de Equipo"
+          image_class: "team-pic" #do not change
+        -
+          h3: "¿Qué hacemos?"
+          p1: "Estamos llevando a cabo un proyecto de investigación en el que tratamos de desarrollar y poner a prueba una aplicación móvil para evaluar la Calidad de Vida en siete países europeos diferentes."
+        -
+          h3: "¿Por qué hacemos esto?"
+          p1: "El uso de aplicaciones móviles durante la asistencia sanitaria está aumentando, por lo que necesitamos saber más acerca de cuál es la mejor manera de desarrollarlas e incorporarlas en la práctica. Dado que la medida de la Calidad de Vida ha demostrado ser útil para predecir resultados clínicos (como por ejemplo la esperanza de vida o la actividad física) en situaciones tan notorias como el cáncer, queremos averiguar cuál es el mejor método de evaluación que debe ser usado en el ámbito clínico."
+          p2: "Tradicionalmente, la evaluación de la Calidad de Vida usando cuestionarios de papel y lápiz ha confiado en la capacidad de las personas para recordar eventos y emociones. Esto puede ser problemático porque nuestra memoria puede verse sesgada por factores como el estado de ánimo o el olvido. Además, la viabilidad de este tipo de evaluación de la Calidad de Vida puede verse reducida por los costes en tiempo y dinero que supone desplazarse del sitio en el que la evaluación tiene lugar."
+          p3: "La cuestión anterior justifica nuestra investigación y nuestros intentos de buscar nuevas y diferentes formas de evaluar la Calidad de Vida. La aplicaciones móviles pueden ser un método prometedor porque su uso podría superar muchos de los retos que la evaluación tradicional de la Calidad de Vida tiene que afrontar."
+        -
+          h3: "¿Cómo vamos a llevarlo a cabo?"
+          p1: "Hemos desarrollado una aplicación móvil con el propósito de recoger información a tiempo real sobre la Calidad de Vida, evitando así los problemas asociados con el hecho de “mirar atrás en el tiempo”. Esta aplicación móvil nos permitirá además recoger información sobre el estado de ánimo actual de las personas y las actividades que estén realizando en un determinado momento."
+        -
+          h3: "Implicaciones"
+          p1: "Eres libre de decidir si te gustaría participar en este proyecto en el que colaboran compañeros/as universitarios/as de diversas partes de Europa. Tu participación sería de gran ayuda para que podamos determinar si nuestra aplicación móvil ofrece la validez, la fiabilidad y viabilidad necesarias para medir la Calidad de Vida a tiempo real."
+          p2: "Creemos que la información recogida a tiempo real puede ayudar a los profesionales de la salud en el seguimiento de la Calidad de Vida de sus pacientes. Esto puede llevar a tratamiento más individualizados a través de una mejor comunicación entre paciente y el/la profesional sanitario."
+          p3: "Finalmente, nuestro método será económico en términos de tiempo y dinero, mejorando la evaluación de la Calidad de Vida gracias a la sensibilidad que tiene al contexto en el que se recogen las respuestas."
+  ethics:
+    h1: "Ética"
+    p1: "Somos un grupo de investigación independiente y nuestro proyecto se adhiere a las directrices éticas que son requeridas por las universidades de los/las diferentes miembros del mismo. Para más información, por favor contacta con el Investigador/a Joven  asociado/a al país desde el que participas."
+    p2: "Aseguraremos que toda la información recogida durante el periodo de evaluación permanezca segura guardando los datos recogidos a través de la aplicación en una nube (base de datos) solamente accesible para el Investigador Principal. Las respuestas serán anónimas y pondremos todo nuestro empeño para asegurar la confidencialidad. Queremos enfatizar que ninguna corporación ni ningún tercero tendrá acceso a los datos y que los resultados no serán usados para propósitos comerciales."
+  team:
+    h1: "Equipo de Investigación"
+    profiles:
+      -
+        image: "Angelos P. Kassianos.jpg" #do not change
+        name: "Angelos P. Kassianos"
+        role: "Supervisor de Investigación"
+        university: "Universidad College London (Reino Unido)"
+        quote: "“Soy un Investigador Postdoctoral en el campo de la Psicología de la Salud con perspectivas de encontrar nuevos caminos para optimizar el bienestar durante la atención sanitaria.”"
+      -
+        image: "Caroline Vintergaard Ott.jpg" #do not change
+        name: "Caroline Vintergaard Ott"
+        role: "Investigadora Joven"
+        university: "Universidad de Copenhague(Dinamarca)"
+        quote: "“Estudiante de posgrado estructurada, trabajadora, amante de la diversión y con ambiciones de perseguir una carrera investigadora centrada en la mejora de los tratamientos de los trastornos mentales.”"
+      -
+        image: "Victor Estal Munoz.jpg" #do not change
+        name: "Víctor Estal Muñoz"
+        role: "Manager de Proyecto"
+        university: "Universidad Autónoma de Madrid (España)"
+        quote: "“Soy un estudiante de posgrado en Psicología Clínica al que le encanta ponerse metas y viajar por el mundo. Mi mayor deseo como investigador es llevar los últimos conocimientos científicos sobre psicopatología y terapia a la práctica aplicada.”"
+      -
+        image: "Pietro Marenco.jpg" #do not change
+        name: "Pietro Marenco"
+        role: "Manager de Proyecto"
+        university: "Universidad de Bolonia (Italia) y Universidad de Valencia (España)"
+        quote: "“Comprometido con la vida a la par que con mis aspiraciones profesionales: me encantaría hacer uso de la ciencia para crear nuevas políticas, haciendo el bien por la sociedad. Valoro la ética y creo en el rigor científico para mejorar la salud, el bienestar y el crecimiento de los/las trabajadores/as.”"
+      -
+        image: "Silvana Mareva.jpg" #do not change
+        name: "Silvana Mareva"
+        role: "Investigadora Joven"
+        university: "Universidad de Edimburgo"
+        quote: "“Estudiante de grado interesada tanto en el aspecto científico como en el aspecto aplicado de la Neuropsicología Clínica. Aspiro a poder hacer a la sociedad más consciente de los últimos descubrimientos científicos en psicología.”"
+      -
+        image: "Tobias Wingen.jpg" #do not change
+        name: "Tobias Wingen"
+        role: "Coordinador de Comunicaciones"
+        university: "Universidad de Colonia"
+        quote: "“Interesado en la investigación de impacto. Desarrollar una aplicación móvil es un modo excelente para aplicar la tecnología moderna a preguntas de investigación relevantes. Este proyecto combina a la perfección mi interés en métodos de investigación y psicología.”"
+      -
+        image: "Barbara Schmidt.jpg" #do not change
+        name: "Barbara Schmidt"
+        role: "Coordinadora Técnica"
+        university: "Universidad de Tecnología y Economía de Budapest (Hungría)"
+        quote: "“Estudiante de master en Psicología de las Organizaciones y el Trabajo. Mis intereses principales son: mejorar la experiencia de los usuarios en aplicaciones para smartphones y la Economía Comportamental Aplicada.”"
+      -
+        image: "David Thomson.jpg" #do not change
+        name: "David Thomson"
+        role: "Coordinador de Divulgación"
+        university: "Universidad de Glasgow (Escocia)"
+        quote: "“Estudiante de ultimo curso de grado con intereses en Psicología Clínica, de la Salud y Evolucionista. Mi meta es ganar experiencia tanto en el campo aplicado de la psicología clínica como en el campo académico de la psicología de la salud.”"
+      -
+        image: "Niki Karakonstanti.jpg" #do not change
+        name: "Niki Karakonstanti"
+        role: "Colaboradora Externa"
+        university: "Universidad Europea de Chipre (Chipre)"
+        quote: "“SEstudiante de posgrado en Psicología Clínica. Mi ambición para el futuro es desarrollar mi carrera tanto en el campo aplicado como en el investigador. Principalmente estoy interesada en temas sobre consciencia e inconsciente.”"
+      -
+        image: "Anthony Bukhalana.jpg" #do not change
+        name: "Anthony Bukhalana"
+        role: "Colaborador Externo ‚Äì Desarrollador de la Aplicación Móvil"
+        university: "Universidad Jomo Kenyatta de Agricultura y Tecnología (Kenia)"
+        quote: "“Soy un desarrollador de aplicaciones para móvil dinámico con interés en tecnología móvil. Actualmente cursando un máster en Tecnología Móvil e Innovación. Pretendo ser parte de la revolución móvil en el mundo entero.”"
+  join:
+    h1: "Participar"
+    p1: "¿Puedes imaginar una manera de mejorar la salud de los pacientes con enfermedades graves? Nuestro equipo trata de hacer esto desarrollando y testando una aplicación móvil que permite evaluar a tiempo real la Calidad de Vida."
+    p2: "Participando voluntariamente en este proyecto puedes contribuir a alcanzar este objetivo. Por favor, haz clic en el enlace de abajo para una información más detallada del proyecto y para rellenar el Consentimiento Informado en el caso de que quieras participar."
+    access_form: "form-app.png" #do not change
+    access_alt: "Consentimiento Informado"
+    p3: "Después de haber rellenado el Consentimiento Informado, podrás crear fácilmente un Código personal. Después de hacer esto, puedes descargar la aplicación móvil y registrarte usando tu Código personal. Tal código garantizará que toda tu información que nos proporciones durante el proyecto permanezca anónima."
+  contact_us:
+    h1: "Contactar"
+    p1: "Para cualquier pregunta o consulta, por favor rellena los siguientes apartados:"
+    label1: "Email"
+    label2: "Asunto"
+    label3: "Mensaje"
+    button: "Enviar mensaje"
+  news:
+    h1: "Noticias"
+    caption: "Noticias del proyecto:"
+    no_message: "Ninguna noticia disponible en este momento."
+  findings:
+    h1: "General"
+    p1: "Dado que tu participación en nuestra investigación no ha sido remunerada económicamente, al final de este proyecto queremos dar a conocer nuestros resultados principales. Resumiremos nuestros descubrimientos y haremos visibles nuestros resultados más importantes incluyendo la comparativa entre los métodos de evaluación de la Calidad de Vida a tiempo real y en retrospectiva, cómo la Calidad de Vida está asociada a variables como el sueño y el poder, y cómo las medidas de la Calidad de Vida pueden variar a lo largo del tiempo... y más!"
+    p2: "A modo de recompensa por haber hecho el esfuerzo de contribuir a alcanzar nuestra meta compartiremos con ilusión los descubrimientos que hagamos al final del proyecto!"
+    image: "chart.png" #do not change
+    image_alt: "Imagen del Gráfico"
+    p3: "Work in progress"

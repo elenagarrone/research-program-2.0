@@ -25,24 +25,24 @@ it:
           image_class: "team-pic" #do not change
         -
           h3: "Cosa facciamo?"
-          p1: " Stiamo conducendo un progetto di ricerca in sette nazioni europee con l’obiettivo di sviluppare e testare una applicazione smartphone per la misurazione della Qualità della Vita."
+          p1: "Stiamo conducendo un progetto di ricerca in sette nazioni europee con l’obiettivo di sviluppare e testare una applicazione smartphone per la misurazione della Qualità della Vita."
         -
           h3: "Perché lo facciamo?"
-          p1: " L’uso di applicazioni smartphone in ambito sanitario è in aumento, e con esso la necessità di approfondire le strategie migliori per svilupparle ed adottarle nella pratica. In quanto le misure sulla Qualità della Vita si sono mostrate utili a prevedere ed influenzare risultati clinici (es. sopravvivenza, attività fisica) in condizioni critiche quali le malattie cancerogene, vogliamo trovare il metodo migliore perché tale misurazione possa essere adottata in ambito clinico."
-          p2: " Tradizionalmente la misurazione della Qualità della Vita attraverso questionari cartacei o virtuali si affida al richiamo alla memoria di eventi e sensazioni recenti. Ciò può essere problematico in quanto la nostra memoria è soggetta a distorsioni dovute a fattori quali l’umore e il declino della memoria. Inoltre, la fattibilità di tali misurazioni della Qualità della Vita è compromessa da limiti di tempo e di costo di viaggio in cui la misurazione ha luogo."
-          p3: " Presi assieme, questi fenomeni richiamano l’importanza di guardare a nuove, differenti modalità di misurare la Qualità della Vita. L’uso di applicazioni smartphone sembra essere il metodo più promettente a riguardo, in quanto permette di superare molte delle sfide insite nella misurazione tradizionale della Qualità della Vita."
+          p1: "L’uso di applicazioni smartphone in ambito sanitario è in aumento, e con esso la necessità di approfondire le strategie migliori per svilupparle ed adottarle nella pratica. In quanto le misure sulla Qualità della Vita si sono mostrate utili a prevedere ed influenzare risultati clinici (es. sopravvivenza, attività fisica) in condizioni critiche quali le malattie cancerogene, vogliamo trovare il metodo migliore perché tale misurazione possa essere adottata in ambito clinico."
+          p2: "Tradizionalmente la misurazione della Qualità della Vita attraverso questionari cartacei o virtuali si affida al richiamo alla memoria di eventi e sensazioni recenti. Ciò può essere problematico in quanto la nostra memoria è soggetta a distorsioni dovute a fattori quali l’umore e il declino della memoria. Inoltre, la fattibilità di tali misurazioni della Qualità della Vita è compromessa da limiti di tempo e di costo di viaggio in cui la misurazione ha luogo."
+          p3: "Presi assieme, questi fenomeni richiamano l’importanza di guardare a nuove, differenti modalità di misurare la Qualità della Vita. L’uso di applicazioni smartphone sembra essere il metodo più promettente a riguardo, in quanto permette di superare molte delle sfide insite nella misurazione tradizionale della Qualità della Vita."
         -
           h3: "Come lo facciamo?"
           p1: "Abbiamo sviluppato un’applicazione smartphone con l’obiettivo di raccogliere informazioni relative alla Qualità della Vita in tempo reale, in tal modo superando i problemi associati al richiamo alla memoria di eventi passati. L’applicazione, inoltre, permette di raccogliere informazioni relative all’umore attuale e le attività che si stanno svolgendo."
         -
           h3: "Implicazioni"
-          p1: " Sei libero/a di decidere se di contribuire al nostro progetto insieme con studenti, colleghi di sette università europee. La tua partecipazione ci aiuterà a determinare se la nostra applicazione smartphone offre un metodo valido, affidabile e realistico per la misurazione della Qualità della Vita in tempo reale."
-          p2: " Ci aspettiamo che la raccolta di informazioni relative alla salute in tempo reale potrebbe aiutare i medici a monitorare la Qualità della Vita dei loro pazienti. Questo condurrebbe a trattamenti personalizzati, migliori risultati clinici attraverso una migliore comunicazione tra gli interessati."
-          p3: " In ultima istanza, il nostro metodo sarà economicamente vantaggioso in termini di tempo e denaro, migliorando la misurazione della Qualità della Vita mediante una maggiore sensibilità al contesto in cui le risposte sono fornite."
+          p1: "Sei libero/a di decidere se di contribuire al nostro progetto insieme con studenti, colleghi di sette università europee. La tua partecipazione ci aiuterà a determinare se la nostra applicazione smartphone offre un metodo valido, affidabile e realistico per la misurazione della Qualità della Vita in tempo reale."
+          p2: "Ci aspettiamo che la raccolta di informazioni relative alla salute in tempo reale potrebbe aiutare i medici a monitorare la Qualità della Vita dei loro pazienti. Questo condurrebbe a trattamenti personalizzati, migliori risultati clinici attraverso una migliore comunicazione tra gli interessati."
+          p3: "In ultima istanza, il nostro metodo sarà economicamente vantaggioso in termini di tempo e denaro, migliorando la misurazione della Qualità della Vita mediante una maggiore sensibilità al contesto in cui le risposte sono fornite."
   ethics:
     h1: "Etica"
-    p1: " Siamo un team di ricerca indipendente. Il nostro progetto aderisce agli standard etici per la ricerca definiti dalle istituzioni di appartenenza di ciascun membro del team. Per maggiori informazioni, per favore contatta il Junior Researcher associato con la tua università."
-    p2: " Garantiremo la sicurezza di tutte le informazioni collezionate lungo il periodo di misurazione conservando i dati raccolti in una base dati cloud accessibile solo ed esclusivamente dal Research Supervisor. Le risposte saranno raccolte in forma anonima, e ogni sforzo sarà fatto per assicurarne la confidenzialità. Vogliamo inoltre enfatizzare che alcuna azienda, organizzazione o terza parte avrà accesso ai dati, e che i risultati non saranno utilizzati per alcun fine commerciale."
+    p1: "Siamo un team di ricerca indipendente. Il nostro progetto aderisce agli standard etici per la ricerca definiti dalle istituzioni di appartenenza di ciascun membro del team. Per maggiori informazioni, per favore contatta il Junior Researcher associato con la tua università."
+    p2: "Garantiremo la sicurezza di tutte le informazioni collezionate lungo il periodo di misurazione conservando i dati raccolti in una base dati cloud accessibile solo ed esclusivamente dal Research Supervisor. Le risposte saranno raccolte in forma anonima, e ogni sforzo sarà fatto per assicurarne la confidenzialità. Vogliamo inoltre enfatizzare che alcuna azienda, organizzazione o terza parte avrà accesso ai dati, e che i risultati non saranno utilizzati per alcun fine commerciale."
   team:
     h1: "Team"
     profiles:
@@ -108,11 +108,11 @@ it:
         quote: "“Sono uno sviluppatore di applicazioni smartphone dinamico, con un acuto interesse nelle tecnologie mobili, attualmente conseguo un Master in Tecnologie Mobili ed Innovazione. Aspiro ad avere un ruolo attivo nella rivoluzione digitale globale.”"
   join:
     h1: "Partecipa"
-    p1: " Puoi immaginare un modo per migliorare la salute di pazienti con malattie gravi? Eventualmente, aspiriamo a fare ciò sviluppando e testando un’applicazione smartphone per la misurazione in tempo reale della Qualità della Vita."
-    p2: " Partecipando volontariamente a questo progetto puoi contribuire al raggiungimento di questo obiettivo. Per favore, clicca sul link sottostante per avere informazioni dettagliate sul progetto e fornire il tuo Consenso Informato alla partecipazione."
+    p1: "Puoi immaginare un modo per migliorare la salute di pazienti con malattie gravi? Eventualmente, aspiriamo a fare ciò sviluppando e testando un’applicazione smartphone per la misurazione in tempo reale della Qualità della Vita."
+    p2: "Partecipando volontariamente a questo progetto puoi contribuire al raggiungimento di questo obiettivo. Per favore, clicca sul link sottostante per avere informazioni dettagliate sul progetto e fornire il tuo Consenso Informato alla partecipazione."
     access_form: "form-app.png" #do not change
     access_alt: "Informed consent form"
-    p3: " Dopo aver fornito il tuo Consenso Informato, potrai creare un Codice personale. Fatto questo, potrai scaricare l’applicazione sul tuo smartphone e procedere alla registrazione utilizzando il Codice personale. Tale Codice garantirà l’anonimato di tutte le informazioni che ci fornirai durante l’arco di tutto il progetto."
+    p3: "Dopo aver fornito il tuo Consenso Informato, potrai creare un Codice personale. Fatto questo, potrai scaricare l’applicazione sul tuo smartphone e procedere alla registrazione utilizzando il Codice personale. Tale Codice garantirà l’anonimato di tutte le informazioni che ci fornirai durante l’arco di tutto il progetto."
   contact_us:
     h1: "Contattaci"
     p1: "Qualora tu abbia alcuna domanda o richieda ulteriori informazioni, per favore compila di seguito:"
@@ -126,8 +126,8 @@ it:
     no_message: "Non ci sono aggiornamenti disponibili al momento."
   findings:
     h1: "Generali"
-    p1: " In quanto la nostra ricerca si affida alla tua partecipazione volontaria, al termine del progetto vorremmo offrirti una panoramica dei risultati. Sintetizzeremo i risultati fornendo una visione d’insieme delle evidenze rispetto a come la misurazione retrospettiva e in tempo reale della Qualità della Vita differiscono, come la Qualità della Vita è associata con variabili quali il sonno e il potere sociale, e come le misure della Qualità della Vita variano nel tempo …e molto altro!"
-    p2: " Per ripagare il tuo sforzo nel contribuire al nostro obiettivo, saremo entusiasti di condividere con te le evidenze che avremo riscontrato alla fine del progetto!"
+    p1: "In quanto la nostra ricerca si affida alla tua partecipazione volontaria, al termine del progetto vorremmo offrirti una panoramica dei risultati. Sintetizzeremo i risultati fornendo una visione d’insieme delle evidenze rispetto a come la misurazione retrospettiva e in tempo reale della Qualità della Vita differiscono, come la Qualità della Vita è associata con variabili quali il sonno e il potere sociale, e come le misure della Qualità della Vita variano nel tempo …e molto altro!"
+    p2: "Per ripagare il tuo sforzo nel contribuire al nostro obiettivo, saremo entusiasti di condividere con te le evidenze che avremo riscontrato alla fine del progetto!"
     image: "chart.png" #do not change
     image_alt: "Graph image"
     p3: "Work in progress"
