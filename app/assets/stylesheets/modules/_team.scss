@@ -19,12 +19,39 @@
         width: 30%;
     }
 
-    .da & {
+    .es &, .it & {
+        @include breakpoint(42rem){
+            height: 645px;
+        }
+        @include breakpoint(67rem){
+            height: 630px;
+        }
+    }
+
+    .da &, .hu & {
         @include breakpoint(42rem){
             height: 665px;
         }
         @include breakpoint(67rem){
             height: 630px;
+        }
+    }
+
+    .de & {
+        @include breakpoint(42rem){
+            height: 680px;
+        }
+        @include breakpoint(67rem){
+            height: 660px;
+        }
+    }
+
+    .el & {
+        @include breakpoint(42rem){
+            height: 725px;
+        }
+        @include breakpoint(67rem){
+            height: 690px;
         }
     }
 
