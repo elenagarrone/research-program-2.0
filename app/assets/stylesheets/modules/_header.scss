@@ -122,7 +122,7 @@ header {
                 }
             }
 
-            .es & {
+            .es &, .hu & {
                 @include breakpoint(null, 67rem){
                     padding: 0.6rem 0.9rem;
                 }
@@ -133,6 +133,31 @@ header {
                     padding: 3rem 1.6rem;
                 }
             }
+
+            .de & {
+                @include breakpoint(null, 67rem){
+                    padding: 0.6rem 0.8rem;
+                }
+                @include breakpoint(67rem){
+                    padding: 3rem 1rem;
+                }
+                @include breakpoint(75rem){
+                    padding: 3rem 1.5rem;
+                }
+            }
+
+            .el & {
+                @include breakpoint(null, 67rem){
+                    padding: 0.6rem 0.7rem;
+                }
+                @include breakpoint(67rem){
+                    padding: 3rem 1rem;
+                }
+                @include breakpoint(75rem){
+                    padding: 3rem 1.5rem;
+                }
+            }
+
 
             &:hover, &:focus {
                 text-decoration: underline;
