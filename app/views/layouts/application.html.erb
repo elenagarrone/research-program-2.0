@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<!--[if lt IE 9 ]><html dir="ltr" lang="en-GB" class="no-js oldie"><![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!--><html dir="ltr" lang="en-GB" class="no-js"><!--<![endif]-->
+<!--[if lt IE 9 ]><html dir="ltr" lang="<%= I18n.locale %>" class="no-js oldie"><![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html dir="ltr" lang="<%= I18n.locale %>" class="no-js"><!--<![endif]-->
     <head>
       <meta charset="UTF-8">
       <title>Quality of life - Research program</title>
@@ -26,7 +26,7 @@
       <%= javascript_include_tag 'application', 'data-turbolinks-track' => true, :cache => true %>
       <%= csrf_meta_tags %>
     </head>
-    <body class="<%= I18n.locale %>">
+    <body>
     <%= render "layouts/header" %>
 
     <% if notice || alert%>

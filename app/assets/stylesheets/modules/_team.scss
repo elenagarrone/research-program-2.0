@@ -19,7 +19,7 @@
         width: 30%;
     }
 
-    .es &, .it & {
+    [lang = "es"] &, [lang = "it"] & {
         @include breakpoint(42rem){
             height: 645px;
         }
@@ -28,7 +28,7 @@
         }
     }
 
-    .da &, .hu & {
+    [lang = "da"] &, [lang = "hu"] & {
         @include breakpoint(42rem){
             height: 665px;
         }
@@ -37,7 +37,7 @@
         }
     }
 
-    .de & {
+    [lang = "de"] & {
         @include breakpoint(42rem){
             height: 680px;
         }
@@ -46,7 +46,7 @@
         }
     }
 
-    .el & {
+    [lang = "el"] & {
         @include breakpoint(42rem){
             height: 725px;
         }
