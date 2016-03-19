@@ -1,0 +1,15 @@
+<% if I18n.locale == :en %>
+    <%= post.description %>
+<% elsif I18n.locale == :it %>
+    <% if post.description_it.present? %><%= post.description_it %><% else %><%= post.description %><% end %>
+<% elsif I18n.locale == :es %>
+    <% if post.description_es.present? %><%= post.description_es %><% else %><%= post.description %><% end %>
+<% elsif I18n.locale == :hu %>
+    <% if post.description_hu.present?%><%= post.description_hu %><% else%><%= post.description %><% end %>
+<% elsif I18n.locale == :de %>
+    <% if post.description_de.present? %><%= post.description_de %><% else %><%= post.description %><% end %>
+<% elsif I18n.locale == :da %>
+    <% if post.description_da.present? %><%= post.description_da %><% else %><%= post.description %><% end %>
+<% elsif I18n.locale == :el %>
+    <% if post.description_el.present? %><%= post.description_el %><% else %><%= post.description %><% end %>
+<% end %>

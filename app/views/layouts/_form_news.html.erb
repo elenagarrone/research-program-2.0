@@ -1,0 +1,24 @@
+<%= form_for news do |f| %>
+    <%= f.label :description, "English:" %>
+    <%= f.text_area :description %>
+
+    <%= f.label :description_it, "Italian:" %>
+    <%= f.text_area :description_it %>
+
+    <%= f.label :description_es, "Spanish:" %>
+    <%= f.text_area :description_es %>
+
+    <%= f.label :description_hu, "Hungarian:" %>
+    <%= f.text_area :description_hu %>
+
+    <%= f.label :description_el, "Greek:"%>
+    <%= f.text_area :description_el %>
+
+    <%= f.label :description_de, "German:"%>
+    <%= f.text_area :description_de %>
+
+    <%= f.label :description_da, "Danish:" %>
+    <%= f.text_area :description_da %>
+
+    <%= f.submit %>
+<% end %>

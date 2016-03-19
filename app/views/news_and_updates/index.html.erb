@@ -14,21 +14,7 @@
                         <tr>
                             <td><%= post.created_at.strftime("%v") %></td>
                             <td>
-                                <% if I18n.locale == :en %>
-                                    <%= post.description %>
-                                <% elsif I18n.locale == :it %>
-                                    <% if post.description_it %><%= post.description_it %><% else %><%= post.description %><% end %>
-                                <% elsif I18n.locale == :es %>
-                                    <% if post.description_es %><%= post.description_es %><% else %><%= post.description %><% end %>
-                                <% elsif I18n.locale == :hu %>
-                                    <% if post.description_hu %><%= post.description_hu %><% else %><%= post.description %><% end %>
-                                <% elsif I18n.locale == :de %>
-                                    <% if post.description_de %><%= post.description_de %><% else %><%= post.description %><% end %>
-                                <% elsif I18n.locale == :da %>
-                                    <% if post.description_da %><%= post.description_it %><% else %><%= post.description %><% end %>
-                                <% elsif I18n.locale == :el %>
-                                    <% if post.description_el %><%= post.description_it %><% else %><%= post.description %><% end %>
-                                <% end %>
+                                <%= render partial: "layouts/locales", locals: {post: post}  %>
                             </td>
                             <% if user_signed_in? %>
                                 <td><%= link_to "Edit", edit_news_path(post) %></td>
