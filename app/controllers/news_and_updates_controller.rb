@@ -44,14 +44,6 @@ class NewsAndUpdatesController < ApplicationController
     end
 
     def news_params
-        params.require(:news).permit(
-            :description,
-            :description_it,
-            :description_de,
-            :description_da,
-            :description_es,
-            :description_el,
-            :description_hu
-        )
+        params.require(:news).permit(:description, :description_it, :description_de, :description_da, :description_es, :description_el, :description_hu)
     end
 end
