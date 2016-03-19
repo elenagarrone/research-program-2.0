@@ -19,7 +19,7 @@ es:
           p1: "Somos un grupo de investigación internacional formado por estudiantes de psicología de grado y posgrado supervisados por el Dr. Angelos Kassianos, investigador postdoctoral asociado en el Departamento de Investigación de Salud Aplicada de la Universidad College London. Formamos parte de"
           jrp: "Junior Researcher Programme"
           jrp_link: "http://jrp.pscholars.org" #do not change
-          p1b: ", un programa orientado a la investigación que colabora con la Universidad de Cambridge y que tiene como objetivo dotar a jóvenes investigadores la oportunidad de llevar a cabo una investigación a nivel europeo"
+          p1b: ", un programa orientado a la investigación que colabora con la Universidad de Cambridge y que tiene como objetivo dotar a jóvenes investigadores la oportunidad de llevar a cabo una investigación a nivel europeo."
           image: "team.jpg" #do not change
           image_alt: "Foto de Equipo"
           image_class: "team-pic" #do not change
@@ -37,11 +37,11 @@ es:
         -
           h3: "Implicaciones"
           p1: "Eres libre de decidir si te gustaría participar en este proyecto en el que colaboran compañeros/as universitarios/as de diversas partes de Europa. Tu participación sería de gran ayuda para que podamos determinar si nuestra aplicación móvil ofrece la validez, la fiabilidad y viabilidad necesarias para medir la Calidad de Vida a tiempo real."
-          p2: "Creemos que la información recogida a tiempo real puede ayudar a los profesionales de la salud en el seguimiento de la Calidad de Vida de sus pacientes. Esto puede llevar a tratamiento más individualizados a través de una mejor comunicación entre paciente y el/la profesional sanitario."
+          p2: "Creemos que la información recogida a tiempo real puede ayudar a los profesionales de la salud en el seguimiento de la Calidad de Vida de sus pacientes. Esto puede llevar a tratamiento más individualizados a través de una mejor comunicación entre paciente y el/la profesional sanitario/a."
           p3: "Finalmente, nuestro método será económico en términos de tiempo y dinero, mejorando la evaluación de la Calidad de Vida gracias a la sensibilidad que tiene al contexto en el que se recogen las respuestas."
   ethics:
     h1: "Ética"
-    p1: "Somos un grupo de investigación independiente y nuestro proyecto se adhiere a las directrices éticas que son requeridas por las universidades de los/las diferentes miembros del mismo. Para más información, por favor contacta con el Investigador/a Joven  asociado/a al país desde el que participas."
+    p1: "Somos un grupo de investigación independiente y nuestro proyecto se adhiere a las directrices éticas que son requeridas por las universidades de los/las diferentes miembros del mismo. Para más información, por favor contacta con el/la Investigador/a Joven  asociado/a al país desde el que participas."
     p2: "Aseguraremos que toda la información recogida durante el periodo de evaluación permanezca segura guardando los datos recogidos a través de la aplicación en una nube (base de datos) solamente accesible para el Investigador Principal. Las respuestas serán anónimas y pondremos todo nuestro empeño para asegurar la confidencialidad. Queremos enfatizar que ninguna corporación ni ningún tercero tendrá acceso a los datos y que los resultados no serán usados para propósitos comerciales."
   team:
     h1: "Equipo de Investigación"
@@ -56,7 +56,7 @@ es:
         image: "Caroline Vintergaard Ott.jpg" #do not change
         name: "Caroline Vintergaard Ott"
         role: "Investigadora Joven"
-        university: "Universidad de Copenhague(Dinamarca)"
+        university: "Universidad de Copenhague (Dinamarca)"
         quote: "“Estudiante de posgrado estructurada, trabajadora, amante de la diversión y con ambiciones de perseguir una carrera investigadora centrada en la mejora de los tratamientos de los trastornos mentales.”"
       -
         image: "Victor Estal Munoz.jpg" #do not change
@@ -99,7 +99,7 @@ es:
         name: "Niki Karakonstanti"
         role: "Colaboradora Externa"
         university: "Universidad Europea de Chipre (Chipre)"
-        quote: "“SEstudiante de posgrado en Psicología Clínica. Mi ambición para el futuro es desarrollar mi carrera tanto en el campo aplicado como en el investigador. Principalmente estoy interesada en temas sobre consciencia e inconsciente.”"
+        quote: "“Estudiante de posgrado en Psicología Clínica. Mi ambición para el futuro es desarrollar mi carrera tanto en el campo aplicado como en el investigador. Principalmente estoy interesada en temas sobre consciencia e inconsciente.”"
       -
         image: "Anthony Bukhalana.jpg" #do not change
         name: "Anthony Bukhalana"
@@ -112,7 +112,7 @@ es:
     p2: "Participando voluntariamente en este proyecto puedes contribuir a alcanzar este objetivo. Por favor, haz clic en el enlace de abajo para una información más detallada del proyecto y para rellenar el Consentimiento Informado en el caso de que quieras participar."
     access_form: "form-app.png" #do not change
     access_alt: "Consentimiento Informado"
-    p3: "Después de haber rellenado el Consentimiento Informado, podrás crear fácilmente un Código personal. Después de hacer esto, puedes descargar la aplicación móvil y registrarte usando tu Código personal. Tal código garantizará que toda tu información que nos proporciones durante el proyecto permanezca anónima."
+    p3: "Después de haber rellenado el Consentimiento Informado, podrás crear fácilmente un Código personal. Después de hacer esto, puedes descargar la aplicación móvil y registrarte usando tu Código personal. Tal código garantizará que toda la información que nos proporciones durante el proyecto permanezca anónima."
   contact_us:
     h1: "Contactar"
     p1: "Para cualquier pregunta o consulta, por favor rellena los siguientes apartados:"
