@@ -39,7 +39,7 @@ en:
           p1: "We are an international research team consisting of under- and post-graduate psychology students, supervised by Dr Angelos Kassianos, postdoctoral research associate at University College London in the Department of Applied Health Research. The student group is part of the"
           jrp: "Junior Researcher Programme"
           jrp_link: "http://jrp.pscholars.org" #do not change
-          p1b: ", a research orientated service in partnership with the University of Cambridge, which aims to provide young researchers with the opportunity to conduct cross-European research."
+          p1b: ", a research orientated service in partnership with the University of Cambridge, which aims to provide young researchers with the opportunity to conduct Cross-European research."
           image: "team.jpg" #do not change
           image_alt: "Team picture"
           image_class: "team-pic" #do not change
@@ -48,12 +48,12 @@ en:
           p1: "We are conducting a research project to develop and test a mobile application for Quality of Life assessment in seven European countries."
         -
           h3: "Why are we doing this?"
-          p1: "The use of mobile applications in healthcare is increasing, and we need to know more about the best ways to develop and incorporate them in practice. As the measure of Quality of Life has been shown to predict and directly influence clinical outcomes (e.g. survival , physical activity) in prominent conditions such as cancer, we want to find out the best method of assessment to be used in clinical settings."
+          p1: "The use of mobile applications in healthcare is increasing, and we need to know more about the best ways to develop and incorporate them in practice. As the measure of Quality of Life has been shown to predict and directly influence clinical outcomes (e.g. survival, physical activity) in prominent conditions such as cancer, we want to find out the best method of assessment to be used in clinical settings."
           p2: "Traditionally, Quality of Life assessment using paper or web-based questionnaires relies on people recalling recent events and feelings. This can be problematic because our memory can be biased by factors such as mood and memory decline. Furthermore, the feasibility of this kind of Quality of Life assessment can be limited by the time and monetary costs of travel to and from places in which assessments take place."
           p3: "The above issues justify our investigation of the looking at new, different ways of assessing Quality of Life. Mobile applications seem a promising method because their use could overcome many of the challenges faced by traditional Quality of Life measurement."
         -
           h3: "How are we doing this?"
-          p1: "We have developed a mobile application with the purpose of gathering information about Quality of Life in real-time, therefore avoiding the problems associated with looking back in time. When using the mobile application it is also possible to collect information about current mood and activities."
+          p1: "We have developed a mobile application with the purpose of gathering information about Quality of Life in real-time, therefore avoiding the problems associated with looking back in time. When using the mobile application, it is also possible to collect information about current mood and activities."
         -
           h3: "Implications"
           p1: "You are free to decide if you would like to contribute to our project alongside fellow European university students. Your participation would help us determining whether or not the mobile application offers a valid, reliable and realistic method of assessing Quality of Life in real-time."
@@ -89,7 +89,7 @@ en:
         name: "Pietro Marenco"
         role: "Project Manager"
         university: "University of Bologna (Italy) and University of Valencia (Spain)"
-        quote: "“Asking myself - What for? - I am deep in life as in my career aspirations: I am eager to make use of science to inform policies, making the good for society. I value ethic and believe in scientific rigor to improve workers’ health, wellbeing and growth.”"
+        quote: "“I am deep in life as in my career aspirations: I am eager to make use of science to inform policies, making the good for society. I value ethic and believe in scientific rigor to improve people’s health, wellbeing and growth.”"
       -
         image: "Silvana Mareva.jpg" #do not change
         name: "Silvana Mareva"
