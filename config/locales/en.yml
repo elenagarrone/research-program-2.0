@@ -48,7 +48,7 @@ en:
           p1: "We are conducting a research project to develop and test a mobile application for Quality of Life assessment in seven European countries."
         -
           h3: "Why are we doing this?"
-          p1: "The use of mobile applications in healthcare is increasing, and we need to know more about the best ways to develop and incorporate them in practice. As the measure of Quality of Life has been shown to predict and directly influence clinical outcomes (e.g. survival, physical activity) in prominent conditions such as cancer, we want to find out the best method of assessment to be used in clinical settings."
+          p1: "The use of mobile applications in healthcare is increasing, and we need to know more about the best ways to develop and incorporate them in practice. As the measure of Quality of Life has been shown to predict and directly influence clinical outcomes (e.g. survival, physical activity) in prominent conditions such as cancer, we want to determine the best method of assessment to be used in clinical settings."
           p2: "Traditionally, Quality of Life assessment using paper or web-based questionnaires relies on people recalling recent events and feelings. This can be problematic because our memory can be biased by factors such as mood and memory decline. Furthermore, the feasibility of this kind of Quality of Life assessment can be limited by the time and monetary costs of travel to and from places in which assessments take place."
           p3: "The above issues justify our investigation of the looking at new, different ways of assessing Quality of Life. Mobile applications seem a promising method because their use could overcome many of the challenges faced by traditional Quality of Life measurement."
         -
@@ -56,13 +56,13 @@ en:
           p1: "We have developed a mobile application with the purpose of gathering information about Quality of Life in real-time, therefore avoiding the problems associated with looking back in time. When using the mobile application, it is also possible to collect information about current mood and activities."
         -
           h3: "Implications"
-          p1: "You are free to decide if you would like to contribute to our project alongside fellow European university students. Your participation would help us determining whether or not the mobile application offers a valid, reliable and realistic method of assessing Quality of Life in real-time."
+          p1: "You are free to decide if you would like to contribute to our project alongside fellow European university students. Your participation would help us to determine whether or not the mobile application offers a valid, reliable and realistic method of assessing Quality of Life in real-time."
           p2: "We expect real-time collection of health-related information might help physicians to keep track of their patients’ Quality of Life. This could lead to more individualised treatment through better communication between both parties."
-          p3: "Last but not least, our method will be cost efficient in terms of time and money, improving Quality of Life assessment by being sensitive to the context in which responses are provided."
+          p3: "Last but not least, our method will be cost-efficient in terms of time and money, improving Quality of Life assessment by being sensitive to the context in which responses are provided."
   ethics:
     h1: "Ethics"
     p1: "We are an independent research team, and our research project adheres to the ethical guidelines provided by each research group member’s institution and/or home country. For more information, please contact the Junior Researcher associated with your location."
-    p2: "We will ensure the security of all information collected during the assessment period by storing the mobile application data in a cloud-based database accessible by the Research Supervisor. Answers will be anonymous, and every effort will be made to ensure confidentiality. We would like to emphasise that no corporations or third parties will have access to the data, and that the results will not be used for commercial purposes."
+    p2: "We will ensure the security of all information collected during the assessment period by storing the mobile application data in a cloud-based database accessible only by the Research Supervisor. Answers will be anonymous, and every effort will be made to ensure confidentiality. We would like to emphasise that no corporations or third parties will have access to the data, and that the results will not be used for commercial purposes."
   team:
     h1: "Research team"
     profiles:
@@ -89,7 +89,7 @@ en:
         name: "Pietro Marenco"
         role: "Project Manager"
         university: "University of Bologna (Italy) and University of Valencia (Spain)"
-        quote: "“I am deep in life as in my career aspirations: I am eager to make use of science to inform policies, making the good for society. I value ethic and believe in scientific rigor to improve people’s health, wellbeing and growth.”"
+        quote: "“I am eager to make use of the best available scientific evidence to inform policies, making the good for society. I value ethic and believe in scientific rigor to improve peoples' health, wellbeing and personal growth.”"
       -
         image: "Silvana Mareva.jpg" #do not change
         name: "Silvana Mareva"
@@ -107,7 +107,7 @@ en:
         name: "Barbara Schmidt"
         role: "Technical Officer"
         university: "Budapest University of Technology and Economics (Hungary)"
-        quote: "“Organizational- and workpsychology MA student from Budapest, Hungary. My main interests are: improving user experience in smartphone applications and applied behavioral economics.”"
+        quote: "“Organizational and work psychology MA student from Budapest, Hungary. My main interests are: improving user experience in smartphone applications and applied behavioural economics.”"
       -
         image: "David Thomson.jpg" #do not change
         name: "David Thomson"
@@ -119,7 +119,7 @@ en:
         name: "Niki Karakonstanti"
         role: "External Collaborator"
         university: "European University Cyprus (Cyprus)"
-        quote: "“Postgaduate student in either Clinical or Counseling Psychology (to be determined). My future ambition is a career  in both applied and research field. I am mainly interensting in individual's conscious and unconsious part.”"
+        quote: "“Postgraduate student in either Clinical or Counseling Psychology. My future ambition is a career in both applied and research field. I am mainly interested in individual's conscious and unconscious behaviour.”"
       -
         image: "Anthony Bukhalana.jpg" #do not change
         name: "Anthony Bukhalana"
@@ -128,14 +128,15 @@ en:
         quote: "“I am a dynamic mobile application developer with a keen interest in mobile technology. Currently undertaking a masters in Mobile Technology and Innovation. I intend to be part of the mobile revolution in the whole world.”"
   join:
     h1: "Participate"
-    p1: "Can you imagine a way to improve the health of patients with serious diseases? Eventually, we aim to do so developing and testing a mobile application for real-time assessment of Quality of Life."
+    p1: "Can you think of a way to improve the health of patients with serious diseases? Eventually, we aim to do this by developing and testing our mobile application for real-time assessment of Quality of Life."
+    p2: "By volunteering to participate in this project you can contribute to reaching this aim. Please, click on the link below to have detailed information on the project and to provide the Informed Consent for participating."		    p2: "By volunteering to participate in this project you can contribute to achieving this goal. Please, click on the link below to see detailed information on the project and to provide the Informed Consent for participation."
     p2: "By volunteering to participate in this project you can contribute to reaching this aim. Please, click on the link below to have detailed information on the project and to provide the Informed Consent for participating."
     access_form: "form-app.png" #do not change
     access_alt: "Informed consent form"
-    p3: "After providing your Informed Consent, you will easily create a personal Code. After doing so, you can download the mobile application and register using the personal Code. Such Code will guarantee the anonymity of all the information you will provide during the project."
+    p3: "After providing your Informed Consent, you will easily create a personal Code. After doing so, you can download the mobile application and register using the personal Code. This Code will guarantee the anonymity of all the information you will provide during the project."
   contact_us:
     h1: "Contact us"
-    p1: "For any questions or further information, please fill up the form:"
+    p1: "For any questions or further information, please complete the form:"
     label1: "Email"
     label2: "Subject"
     label3: "Message"
@@ -147,7 +148,7 @@ en:
   findings:
     h1: "Overall"
     p1: "As our research relies on your free participation, at the end of the project we would like to offer you an overview of our findings. We will summarise the results and provide a general overview of the findings including how the retrospective and real-time method of assessing Quality of Life compare, how Quality of Life is associated with variables such as sleep and social power, and how measures of Quality of Life varies across time... and more!"
-    p2: "To pay off your effort of contributing to our aim, we are excited to share with you the evidences we will come across at the end of the project!"
+    p2: "To reward your contribution, we are excited to share with you the overall findings at the end of the project!"
     image: "chart.png" #do not change
     image_alt: "Graph image"
     p3: "Work in progress"
