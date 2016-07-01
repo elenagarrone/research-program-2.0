@@ -6,11 +6,23 @@
             <% end %>
             <main role="main" class="join">
                 <h1 class="h2"><%=t 'join.h1' %></h1>
-                <p><%=t 'join.p1' %></p>
-                <p><%=t 'join.p2' %></p>
-                <!-- <a href="http://tinyurl.com/myqol" target="_blank" class="form-access" ><img src="<%= image_path(t 'join.access_form') %>" alt="<%= t 'join.access_alt' %>"></a> -->
-                <a href="//unikoelnpsych.eu.qualtrics.com/SE/?SID=SV_0kqiVJTTxV0MwAt" target="_blank" class="form-access" ><img src="<%= image_path(t 'join.access_form') %>" alt="<%= t 'join.access_alt' %>"></a>
+                <p><%=t 'join.p1' %> <a href="<%=t 'join.link'%>" target="_blank"><%=t 'join.link_title'%></a> <%=t 'join.p2' %></p>
                 <p><%=t 'join.p3' %></p>
+                <!-- <a href="http://tinyurl.com/myqol" target="_blank" class="form-access" ><img src="<%= image_path(t 'join.access_form') %>" alt="<%= t 'join.access_alt' %>"></a> -->
+                <div class="spaced">
+                    <div class="form">
+                        <img src="<%= image_path(t 'join.info_form') %>" alt="<%= t 'join.info_alt' %>">
+                        <div><a href=# download><%=t 'join.d_info'%></a></div>
+                    </div>
+                    <div class="app">
+                        <img src="<%= image_path(t 'join.app_logo') %>" alt="">
+                        <div><a href="<%=t 'join.d_android_link'%>" target="_blank"><%=t 'join.d_android'%></a></div>
+                        <div><a href="<%=t 'join.d_apple_link'%>" target="_blank"><%=t 'join.d_apple'%></a></div>
+                    </div>
+                </div>
+                <div class="double-spaced">
+                    <p><%=t 'join.p4' %></p>
+                </div>
             </main>
         </div>
     </div>

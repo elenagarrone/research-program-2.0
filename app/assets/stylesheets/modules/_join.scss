@@ -6,6 +6,31 @@
             width: 260px;
         }
     }
+
+    .app, .form {
+        display: inline-block;
+        @include breakpoint(xs){
+            margin: 0 15px;
+        }
+        img {
+            width: 100%;
+        }
+    }
+    .form {
+        img {
+            max-width: 145px;
+            @include breakpoint(xs){
+                width: 145px;
+            }
+        }
+    }
+    .app {
+        img {
+            @include breakpoint(xs){
+                width: 380px;
+            }
+        }
+    }
 }
 
 .location-filters {
