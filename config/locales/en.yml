@@ -29,7 +29,7 @@ en:
     news: "News"
     findings: "Findings"
   homepage:
-    h1: "MyQoL Project"
+    h1: "MyQoL"
     subtitle: "Improving the assessment of Health-Related Quality of Life"
     about:
       h2: "About"
@@ -128,10 +128,10 @@ en:
         quote: "“I am a dynamic mobile application developer with a keen interest in mobile technology. Currently undertaking a masters in Mobile Technology and Innovation. I intend to be part of the mobile revolution in the whole world.”"
   join:
     h1: "Participate"
-    p1: "Can you think of a way to improve the health of patients with serious diseases? This is the ultimate goal of our mobile application, which we have developed for the real-time assessment of Health-Related Quality of Life. We are collaborating with the Happiness Research Organisation, an independent research institute specialised in measuring subjective well-being, happiness and quality of life using modern technologies. For the present study, the HRO adapted the "
+    p1: "Can you think of a way to improve the health of patients with serious diseases? This is the ultimate goal of our mobile application, which we have developed for the real-time assessment of Health-Related Quality of Life. We are collaborating with the Happiness Research Organisation, an independent research institute specialised in measuring subjective well-being, happiness and quality of life using modern technologies. For the present study, the HRO adapted the"
     link_title: "Happiness Analyzer"
     link: "http://happiness-analyzer.com"
-    p2: " to collect data on Health-Related Quality of Life."
+    p2: "to collect data on Health-Related Quality of Life."
     p3: "By volunteering to participate in this project, you can contribute to achieving this goal. Please, if you have a smartphone (Android or iOS), click on the link below to download the app and sign the Informed Consent form to participate."
     info_form: "form.png" #do not change
     info_alt: "Information sheet"

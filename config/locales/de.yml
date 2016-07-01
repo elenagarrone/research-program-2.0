@@ -108,11 +108,20 @@ de:
         quote: "“Ich bin ein dynamische App-Entwickler mit einem großen Interesse an aktuellen Technologien. Momentan absolviere ich einen Master in Mobile Technology and Innovation. Ich möchte Bestandteil der digitalen Revolution in der ganzen Welt sein.”"
   join:
     h1: "Teilnehmen"
-    p1: "Können Sie sich einen Weg vorstellen, die medizinische Versorgung von Patienten mit schweren Krankheiten zu verbessern? Genau dies ist unser Ziel. Hierfür entwickeln und testen wir eine Smartphone-App zur Erfassung von Lebensqualität in Echtzeit."
-    p2: "Durch Ihre freiwillige Teilnahme an diesem Projekt können Sie uns helfen, unser Ziel zu erreichen. Wenn Sie teilnehmen möchten, klicken Sie bitte auf diesen Link. Dort erhalten Sie weitere Informationen über das Projekt und können Einwilligen, am Projekt teilzunehmen."
-    access_form: "form-app.png" #do not change
-    access_alt: "Einwilligung zur Teilnahme"
-    p3: "Nach dem Sie sich zur Teilnahme bereiterklärt haben, werden Sie einen persönlichen Code erstellen. Dadurch können Sie sich in der App registrieren. Dieser Code wird Ihre Anonymität während des gesamten Projektes garantieren."
+    p1: "Können Sie sich einen Weg vorstellen, die medizinische Versorgung von Patienten mit schweren Krankheiten zu verbessern?  Genau dies ist das Ziel unserer Smartphone-App, mit der wir die medizinische Lebensqualität in Echtzeit erfassen wollen. Hierbei arbeiten wir mit der Happiness Research Organization (HRO) zusammen, einem unabhängigen Forschungsinstitut in Düsseldorf, Deutschland. Die HRO fokussiert sich auf die Messung von Wohlbefinden, Zufriedenheit und Lebensqualität mit modernen Technologien. Für unsere Studie verwenden wir eine von der HRO angepasste Version des"
+    link_title: "Happiness Analyzer"
+    link: "http://happiness-analyzer.com"
+    p2: "um Daten über gesundheitsbezogene Lebensqualität zu erfassen."
+    p3: "Durch Ihre Teilnahme an diesem Projekt können Sie dazu beitragen, dieses Ziel zu erreichen. Wenn Sie ein Smartphone haben (Android oder iOS), können Sie gerne auf untenstehendes Bild klicken. Dadurch gelangen Sie zu einer Seite, wo, die App herunterladen- und Ihre Zustimmung zur Teilnahme abgeben können."
+    info_form: "form.png" #do not change
+    info_alt: "Information sheet"
+    d_info: "Download the information sheet"
+    app_logo: "form-app.png"
+    d_android: "Download from the android store"
+    d_android_link: "#"
+    d_apple: "Download from the apple store"
+    d_apple_link: "#"
+    p4: "Unsere MyQoL-App wird automatisch Ihren einen Code zuweisen, der garantiert, dass Ihre Daten während des Forschungsprojektes vollkommen anonym gespeichert werden."
   contact_us:
     h1: "Kontakt"
     p1: "Für Fragen oder weitere Informationen verwenden Sie bitte dieses Formular:"

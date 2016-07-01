@@ -108,11 +108,20 @@ hu:
         quote: "“Dinamikus mobil applikáció fejlesztő vagyok mély érdeklődéssel a mobil technológiák iránt. Jelenleg Mobil technológia és Innováció mesterképzésen tanulok. Szeretnék részese lenni a mobil forradalomnak."
   join:
     h1: "Részvétel"
-    p1: "El tudsz képzelni olyan módot, módszert, amellyel javíthatsz egy súlyos betegségben szenvedő páciens egészségi állapotán? Végülis ez a mi célunk, hogy létrehozzunk és teszteljünk egy olyan mobil applikációt, amellyel valós időben mérhető az életminőség."
-    p2: " Azzal, hogy önkéntesként részt veszel ebben a projektben te is hozzájárulsz ahhoz, hogy elérjük a célunkat. Kérjük, bővebb információért és az Informált beleegyező nyilatkozat eléréséért kattints a megadott linkre."
-    access_form: "form-app.png" #do not change
-    access_alt: "Informed consent form"
-    p3: " Miután leadtad az Informált beleegyező nyilatkozatot már csak a kódod elkészítése van hátra. Ezt követően letöltheted a mobil applikációt és regisztrálhatsz az általad megadott kód segítségével. A kód alkalmazása garantálja a project során megadott információk anonimitását."
+    p1: "El tudsz képzelni olyan módot, módszert, amellyel javíthatsz egy súlyos betegségben szenvedő páciens egészségi állapotán, életminőségén? A mi célunk az, hogy létrehozzunk és teszteljünk egy olyan mobil applikációt, amellyel valós időben mérhető az életminőség. A célunk elérésében kulcsfontosságú szerepet játszik a Happiness Research Organisation-nel való együttműködésünk. Az HRO egy Dusseldorf-i (Németország) független kutatóintézet, amely a szubjektív jól-lét, a boldogság és az életminőség modern technológiákkal való mérésére szakosodott. A kutatásunk során az HRO adaptált"
+    link_title: "Happiness Analyzer"
+    link: "http://happiness-analyzer.com"
+    p2: "applikációját használjuk adatgyűjtésre."
+    p3: "Ha önkéntesként részt veszel kutatásunkban, te is hozzájárulhatsz a célunk eléréséhez, így amennyiben részt szeretnél venni a kutatásban és rendelkezel  okostelefonnal (Android vagy IOS), kérjük kattints a linkre, töltsd le a mobil applikációt és fogadd el a Beleegyező Nyilatkozatot."
+    info_form: "form.png" #do not change
+    info_alt: "Information sheet"
+    d_info: "Download the information sheet"
+    app_logo: "form-app.png"
+    d_android: "Download from the android store"
+    d_android_link: "#"
+    d_apple: "Download from the apple store"
+    d_apple_link: "#"
+    p4: "A MyQoL applikáció automatikusan hozzárendel egy kódot az adataidhoz, így biztosítva a kutatás során az anonim adatkezelést és adattárolást."
   contact_us:
     h1: "Kapcsolat"
     p1: "Kérdésed van/Bővebb információt szeretnél? Töltsd ki az alábbi űrlapot:"

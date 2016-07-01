@@ -108,11 +108,20 @@ da:
         quote: "“Jeg er en dynamisk smartphoneapplikationsudvikler med interesse inden for mobilteknologi. Jeg er på nuværende tidspunkt ved at tage en kandidat i mobilteknologi og innovation. Det er min intention, at være en del af den mobile revolution over hele verden.”"
   join:
     h1: "Tilmeld"
-    p1: "Kan du forestille dig en måde, hvormed man kan forbedre patienter med alvorlige lidelsers velbefindende? Det håber vi at kunne ved at udvikle og teste en smartphoneapplikation til at undersøge Quality of Life her-og-nu."
-    p2: "Ved frivilligt at deltage i projektet kan du bidrage til at nå målet. Tryk på nedenstående link for at få mere information om projektet, og for at afgive informeret samtykke til at deltage i projektet."
-    access_form: "form-app.png" #do not change
-    access_alt: "Informeret samtykkeerklæring"
-    p3: "Efter at have afgivet informeret samtykke kan du nemt kreere en personlig kode. Denne kode garanterer anonymiteten af al information, som du afgiver i løbet af projektet."
+    p1: "Kan du forestille dig en måde, hvorpå man kan forbedre patienter med alvorlige lidelsers velbefindende? Det er det endelige mål for vores smartphoneapplikation, som vi har udviklet til at registrere Health-Related Quality of Life her-og-nu. Vi samarbejder med the Happiness Research Organisation (HRO), et uafhængigt forskningsinstitut baseret i Düsseldorf, Tyskland, der er specialiseret i at bruge moderne teknologi til at måle subjektivt velbefindende, glæde og livskvalitet. Til dette projekt har HRO tilpasset the"
+    link_title: "Happiness Analyzer"
+    link: "http://happiness-analyzer.com"
+    p2: "til at indsamle data om Health-Related Quality of Life her-og-nu."
+    p3: "Gennem din frivillige deltagelse i projektet kan du bidrage til at nå målet. Hvis du har en smartphone (Android eller iOS), så klik venligst på nedenstående link for at downloade app’en og udfyld samtykkeerklæringen for at deltage."
+    info_form: "form.png" #do not change
+    info_alt: "Information sheet"
+    d_info: "Download the information sheet"
+    app_logo: "form-app.png" #do not change
+    d_android: "Download from the android store"
+    d_android_link: "#" #do not change
+    d_apple: "Download from the apple store"
+    d_apple_link: "#" #do not change
+    p4: "MyQoL App genererer automatisk en kode for dig, som vil sikre, at dine data lagres anonymt gennem hele projekts varighed."
   contact_us:
     h1: "Kontakt os"
     p1: " Udfyld venligst nedenstående ved spørgsmål eller yderligere information:"

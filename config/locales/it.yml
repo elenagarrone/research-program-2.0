@@ -108,11 +108,20 @@ it:
         quote: "“Sono uno sviluppatore di applicazioni smartphone dinamico, con un acuto interesse nelle tecnologie mobili, attualmente conseguo un Master in Tecnologie Mobili ed Innovazione. Aspiro ad avere un ruolo attivo nella rivoluzione digitale globale.”"
   join:
     h1: "Partecipa"
-    p1: "Puoi immaginare un modo per migliorare la salute di pazienti con malattie gravi? Eventualmente, aspiriamo a fare ciò sviluppando e testando un’applicazione smartphone per la misurazione in tempo reale della Qualità della Vita."
-    p2: "Partecipando volontariamente a questo progetto puoi contribuire al raggiungimento di questo obiettivo. Per favore, clicca sul link sottostante per avere informazioni dettagliate sul progetto e fornire il tuo Consenso Informato alla partecipazione."
-    access_form: "form-app.png" #do not change
-    access_alt: "Informed consent form"
-    p3: "Dopo aver fornito il tuo Consenso Informato, potrai creare un Codice personale. Fatto questo, potrai scaricare l’applicazione sul tuo smartphone e procedere alla registrazione utilizzando il Codice personale. Tale Codice garantirà l’anonimato di tutte le informazioni che ci fornirai durante l’arco di tutto il progetto."
+    p1: "Puoi immaginare un modo per migliorare la salute di pazienti con malattie gravi? Questo è l’obiettivo finale dell’App MyQoL, che abbiamo sviluppato per misurare la Qualità della Vita in tempo reale. Collaboriamo con la Happiness Research Organisation, un istituto di ricerca indipendente specializzato nella misurazione del benessere soggettivo, della felicità e della qualità della vita usando nuove tecnologie. Per questo progetto, HRO ha adattato l’App"
+    link_title: "Happiness Analyzer"
+    link: "http://happiness-analyzer.com"
+    p2: "per raccogliere dati sulla Qualità della Vita."
+    p3: "Partecipando volontariamente a questo progetto puoi contribuire al raggiungimento di questo obiettivo. Per favore, clicca sul link sottostante per scaricare l’App MyQoL e per fornire il tuo Consenso Informato alla partecipazione."
+    info_form: "form.png" #do not change
+    info_alt: "Information sheet"
+    d_info: "Download the information sheet"
+    app_logo: "form-app.png"
+    d_android: "Download from the android store"
+    d_android_link: "#"
+    d_apple: "Download from the apple store"
+    d_apple_link: "#"
+    p4: "L’App MyQoL ti assegnerà un codice identificativo automaticamente, al fine di garantire che i dati che fornirai siano raccolti e trattati in forma completamente anonima lungo tutto l’arco del progetto di ricerca."
   contact_us:
     h1: "Contattaci"
     p1: "Qualora tu abbia alcuna domanda o richieda ulteriori informazioni, per favore compila di seguito:"
