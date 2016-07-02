@@ -142,8 +142,8 @@ en:
     p2: "to collect data on Health-Related Quality of Life."
     p3: "By volunteering to participate in this project, you can contribute to achieving this goal. Please, if you have a smartphone (Android or iOS), click on the link below to download the app and sign the Informed Consent form to participate."
     info_form: "form.png" #do not change
-    info_alt: "Information sheet"
-    d_info: "Download the information sheet"
+    info_alt: "Informed Consent"
+    d_info: "Download the Informed Consent"
     app_logo: "form-app.png"
     d_android: "Download from Google Play"
     d_android_link: "#"

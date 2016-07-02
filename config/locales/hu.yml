@@ -28,9 +28,9 @@ hu:
           p1: " A kutatásunk során egy életminőséget mérő mobil applikációt fejlesztünk és tesztelünk hét európai országban."
         -
           h3: "Miért csináljuk?"
-          p1: " A mobil applikációk egészségügyben történő felhasználása egyre inkább elterjed, így szükségessé vált, hogy többet tudjunk meg arról, hogy hogyan lehet a lehető leghatékonyabbra fejleszteni és a gyakorlatban felhasználni az applikációkat. Az életminőség mérése bizonyíthatóan bejósolja és közvetlenül befolyásolja a klinikai kimeneteket (pl. túlélés, fizikai aktivitás) olyan súlyos állapotokban is, mint például a rákos megbetegedések, ezért tűztük ki azt a kutatásunk céljául, hogy megtaláljuk a legjobb életminőséget mérő módszert, amely sikeresen alkalmazható klinikai környezetben is."
+          p1: "A mobil applikációk egészségügyben történő felhasználása egyre inkább elterjed, így szükségessé vált, hogy többet tudjunk meg arról, hogy hogyan lehet a lehető leghatékonyabbra fejleszteni és a gyakorlatban felhasználni az applikációkat. Az életminőség mérése bizonyíthatóan bejósolja és közvetlenül befolyásolja a klinikai kimeneteket (pl. túlélés, fizikai aktivitás) olyan súlyos állapotokban is, mint például a rákos megbetegedések, ezért tűztük ki azt a kutatásunk céljául, hogy megtaláljuk a legjobb életminőséget mérő módszert, amely sikeresen alkalmazható klinikai környezetben is."
           p2: "Hagyományosan az életminőség papír alapú vagy online kérdőívekkel történő mérésekor az emberek a közelmúltból idéznek fel emlékeket, eseményeket és érzéseket. Ez azonban problémás lehet, hiszen a memóriánk torzíthat bizonyos tényezők miatt mint például a hangulat vagy a lecsökkent szellemi aktivitás. Továbbá az említett életminőséget mérő eszközök alkalmazhatóságát a mérés helyszínére való utazás időbeli és pénzbeli tényezői is korlátozhatják."
-          p3: " A fent említett problémák igazolják az új, különböző életminőség mérésére szolgáló módszerek kutatásának szükségességét. A mobil applikációk ígéretes módszernek tűnnek, hiszen képesek leküzdeni számos olyan kihívást, amely a tradícionális mérőmódszereknek nem sikerült."
+          p3: "A fent említett problémák igazolják az új, különböző életminőség mérésére szolgáló módszerek kutatásának szükségességét. A mobil applikációk ígéretes módszernek tűnnek, hiszen képesek leküzdeni számos olyan kihívást, amely a tradícionális mérőmódszereknek nem sikerült."
         -
           h3: "Hogyan csináljuk?"
           p1: "Kifejlesztettünk egy mobil applikációt, amelynek célja a valós időben történő adatgyűjtés az életminőségről, így elkerülve a memóriával összefüggésbe hozható problémákat. A mobil applikáció lehetővé teszi a jelenlegi hangulati állapotról és tevékenységről való adatgyűjtést is."
@@ -120,14 +120,14 @@ hu:
     link_title: "Happiness Analyzer"
     link: "http://happiness-analyzer.com"
     p2: "applikációját használjuk adatgyűjtésre."
-    p3: "Ha önkéntesként részt veszel kutatásunkban, te is hozzájárulhatsz a célunk eléréséhez, így amennyiben részt szeretnél venni a kutatásban és rendelkezel  okostelefonnal (Android vagy IOS), kérjük kattints a linkre, töltsd le a mobil applikációt és fogadd el a Beleegyező Nyilatkozatot."
+    p3: "Ha önkéntesként részt veszel kutatásunkban, te is hozzájárulhatsz a célunk eléréséhez, így amennyiben részt szeretnél venni a kutatásban és rendelkezel okostelefonnal (Android vagy IOS), kérjük kattints a linkre, töltsd le a mobil applikációt és fogadd el a Beleegyező Nyilatkozatot."
     info_form: "form.png" #do not change
-    info_alt: "Information sheet"
-    d_info: "Download the information sheet"
+    info_alt: "Beleegyező Nyilatkozatot"
+    d_info: "Töltse Beleegyező Nyilatkozatot"
     app_logo: "form-app.png"
-    d_android: "Download from Google Play"
+    d_android: "Letöltés a Google Play"
     d_android_link: "#"
-    d_apple: "Download on the App Store"
+    d_apple: "Letöltés az App Store"
     d_apple_link: "#"
     p4: "A MyQoL applikáció automatikusan hozzárendel egy kódot az adataidhoz, így biztosítva a kutatás során az anonim adatkezelést és adattárolást."
   contact_us:

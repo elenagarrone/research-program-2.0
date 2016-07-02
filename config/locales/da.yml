@@ -122,12 +122,12 @@ da:
     p2: "til at indsamle data om Health-Related Quality of Life her-og-nu."
     p3: "Gennem din frivillige deltagelse i projektet kan du bidrage til at nå målet. Hvis du har en smartphone (Android eller iOS), så klik venligst på nedenstående link for at downloade app’en og udfyld samtykkeerklæringen for at deltage."
     info_form: "form.png" #do not change
-    info_alt: "Information sheet"
-    d_info: "Download the information sheet"
+    info_alt: "Samtykkeerklæring"
+    d_info: "Download samtykkeerklæring"
     app_logo: "form-app.png" #do not change
-    d_android: "Download from Google Play"
+    d_android: "Hent fra Google Play"
     d_android_link: "#"
-    d_apple: "Download on the App Store"
+    d_apple: "Hent i App Store"
     d_apple_link: "#" #do not change
     p4: "MyQoL App genererer automatisk en kode for dig, som vil sikre, at dine data lagres anonymt gennem hele projekts varighed."
   contact_us:

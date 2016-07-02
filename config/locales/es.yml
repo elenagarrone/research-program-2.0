@@ -122,12 +122,12 @@ es:
     p2: "para recoger datos sobre la Calidad de Vida."
     p3: "Participando voluntariamente en este proyecto puedes contribuir a alcanzar este objetivo. Por favor, si tienes un smartphone (Android o iOS), haz clic en el enlace de abajo descargar la aplicación y firmar el Consentimiento Informado para participar."
     info_form: "form.png" #do not change
-    info_alt: "Information sheet"
-    d_info: "Download the information sheet"
+    info_alt: "Consentimiento Informado"
+    d_info: "Descargar el Consentimiento Informado"
     app_logo: "form-app.png"
-    d_android: "Download from Google Play"
+    d_android: "Descargar de Google Play"
     d_android_link: "#"
-    d_apple: "Download on the App Store"
+    d_apple: "Descargar de la App Store"
     d_apple_link: "#"
     p4: "La aplicación MyQoL te asignará automáticamente un código para asegurar que tus datos sean almacenados anónimamente durante toda la duración del proyecto."
   contact_us:
