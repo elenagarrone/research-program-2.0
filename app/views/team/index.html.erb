@@ -12,8 +12,9 @@
             <div>
               <h2><%= profile[:name]%></h2>
               <span class="sub-heading"><%= profile[:role]%></span>
-              <span class="uni"><%= profile[:university]%></span>
-              <p><%= profile[:quote]%></p>
+              <% if profile[:university]%><span class="uni"><%= profile[:university]%></span><% end %>
+              <% if profile[:quote]%><p><%= profile[:quote]%></p><% end %>
+              <% if profile[:link_title]%><p><%= profile[:text]%> <a href="<%= profile[:link]%>" target="_blank"><%= profile[:link_title]%></a><%if profile[:text2]%> <%= profile[:text2]%><% else %><%= profile[:text_end]%><% end %></p><% end %>
             </div>
         </div>
     <% end %>

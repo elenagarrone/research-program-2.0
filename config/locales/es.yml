@@ -106,9 +106,17 @@ es:
         role: "Colaborador Externo ‚Äì Desarrollador de la Aplicación Móvil"
         university: "Universidad Jomo Kenyatta de Agricultura y Tecnología (Kenia)"
         quote: "“Soy un desarrollador de aplicaciones para móvil dinámico con interés en tecnología móvil. Actualmente cursando un máster en Tecnología Móvil e Innovación. Pretendo ser parte de la revolución móvil en el mundo entero.”"
+      -
+        image: "Kai Ludwigs.jpg" #do not change
+        name: "Kai Ludwigs"
+        role: "Fundador & Director"
+        link_title: "Happiness Research Organisation"
+        link: "http://happiness-research.org"
+        text: "Kai Ludwigs  tiene experiencia en el campo de la psicología y de la economía. Es el Fundador y Director the"
+        text_end: "."
   join:
     h1: "Participar"
-    p1: "Puedes imaginar una manera de mejorar la salud de los pacientes con enfermedades graves? Ésta es la finalidad última de nuestra aplicación móvil, la cual hemos desarrollado para evaluar la Calidad de Vida a tiempo real. Nuestro equipo colabora con Happiness Research Organisation (HRO), un instituto de investigación independiente especializado en medir el bienestar subjetivo, la felicidad y la calidad de vida a través de modernas tecnologías. Para el presente estudio, la HRO ha adaptado su"
+    p1: "¿Puedes imaginar una manera de mejorar la salud de los pacientes con enfermedades graves? Ésta es la finalidad última de nuestra aplicación móvil, la cual hemos desarrollado para evaluar la Calidad de Vida a tiempo real. Nuestro equipo colabora con Happiness Research Organisation (HRO), un instituto de investigación independiente especializado en medir el bienestar subjetivo, la felicidad y la calidad de vida a través de modernas tecnologías. Para el presente estudio, la HRO ha adaptado su"
     link_title: "Happiness Analyzer"
     link: "http://happiness-analyzer.com"
     p2: "para recoger datos sobre la Calidad de Vida."

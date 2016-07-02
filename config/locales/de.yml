@@ -106,6 +106,14 @@ de:
         role: "External Collaborator – App developer"
         university: "Jomo Kenyatta University of Agriculture And Technology (Kenia)"
         quote: "“Ich bin ein dynamische App-Entwickler mit einem großen Interesse an aktuellen Technologien. Momentan absolviere ich einen Master in Mobile Technology and Innovation. Ich möchte Bestandteil der digitalen Revolution in der ganzen Welt sein.”"
+      -
+        image: "Kai Ludwigs.jpg" #do not change
+        name: "Kai Ludwigs"
+        role: "Gründer & Direktor"
+        link_title: "Happiness Research Organisation"
+        link: "http://happiness-research.org"
+        text: "Kai Ludwigs hat Psychologie und Ökonomie studiert. Er ist Gründer und Direktor der"
+        text_end: "."
   join:
     h1: "Teilnehmen"
     p1: "Können Sie sich einen Weg vorstellen, die medizinische Versorgung von Patienten mit schweren Krankheiten zu verbessern?  Genau dies ist das Ziel unserer Smartphone-App, mit der wir die medizinische Lebensqualität in Echtzeit erfassen wollen. Hierbei arbeiten wir mit der Happiness Research Organization (HRO) zusammen, einem unabhängigen Forschungsinstitut in Düsseldorf, Deutschland. Die HRO fokussiert sich auf die Messung von Wohlbefinden, Zufriedenheit und Lebensqualität mit modernen Technologien. Für unsere Studie verwenden wir eine von der HRO angepasste Version des"

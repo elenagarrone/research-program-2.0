@@ -126,6 +126,14 @@ en:
         role: "External Collaborator – App developer"
         university: "Jomo Kenyatta University of Agriculture And Technology (Kenya)"
         quote: "“I am a dynamic mobile application developer with a keen interest in mobile technology. Currently undertaking a masters in Mobile Technology and Innovation. I intend to be part of the mobile revolution in the whole world.”"
+      -
+        image: "Kai Ludwigs.jpg" #do not change
+        name: "Kai Ludwigs"
+        role: "Founder & Director"
+        link_title: "Happiness Research Organisation"
+        link: "http://happiness-research.org"
+        text: "Kai Ludwigs has a background in psychology and economics, and is the Founder and Director of the"
+        text_end: "."
   join:
     h1: "Participate"
     p1: "Can you think of a way to improve the health of patients with serious diseases? This is the ultimate goal of our mobile application, which we have developed for the real-time assessment of Health-Related Quality of Life. We are collaborating with the Happiness Research Organisation, an independent research institute specialised in measuring subjective well-being, happiness and quality of life using modern technologies. For the present study, the HRO adapted the"

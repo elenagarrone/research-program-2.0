@@ -106,6 +106,14 @@ it:
         role: "External Collaborator – App developer"
         university: "Jomo Kenyatta University of Agriculture And Technology (Kenya)"
         quote: "“Sono uno sviluppatore di applicazioni smartphone dinamico, con un acuto interesse nelle tecnologie mobili, attualmente conseguo un Master in Tecnologie Mobili ed Innovazione. Aspiro ad avere un ruolo attivo nella rivoluzione digitale globale.”"
+      -
+        image: "Kai Ludwigs.jpg" #do not change
+        name: "Kai Ludwigs"
+        role: "Fondatore & Direttore"
+        link_title: "Happiness Research Organisation"
+        link: "http://happiness-research.org"
+        text: "Kai Ludwigs ha studiato psicologia ed economia. Correntemente ha fondato e dirige la"
+        text_end: "."
   join:
     h1: "Partecipa"
     p1: "Puoi immaginare un modo per migliorare la salute di pazienti con malattie gravi? Questo è l’obiettivo finale dell’App MyQoL, che abbiamo sviluppato per misurare la Qualità della Vita in tempo reale. Collaboriamo con la Happiness Research Organisation, un istituto di ricerca indipendente specializzato nella misurazione del benessere soggettivo, della felicità e della qualità della vita usando nuove tecnologie. Per questo progetto, HRO ha adattato l’App"

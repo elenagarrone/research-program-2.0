@@ -105,7 +105,15 @@ hu:
         name: "Anthony Bukhalana"
         role: "External Collaborator – App developer"
         university: "Jomo Kenyatta University of Agriculture And Technology (Kenya)"
-        quote: "“Dinamikus mobil applikáció fejlesztő vagyok mély érdeklődéssel a mobil technológiák iránt. Jelenleg Mobil technológia és Innováció mesterképzésen tanulok. Szeretnék részese lenni a mobil forradalomnak."
+        quote: "“Dinamikus mobil applikáció fejlesztő vagyok mély érdeklődéssel a mobil technológiák iránt. Jelenleg Mobil technológia és Innováció mesterképzésen tanulok. Szeretnék részese lenni a mobil forradalomnak.”"
+      -
+        image: "Kai Ludwigs.jpg" #do not change
+        name: "Kai Ludwigs"
+        role: "HRO Founder & Director"
+        link_title: "Happiness Research Organization"
+        link: "http://happiness-research.org"
+        text: "Kai Ludwigs pszichológus és közgazdász, a"
+        text2: "alapítója és igazgatója."
   join:
     h1: "Részvétel"
     p1: "El tudsz képzelni olyan módot, módszert, amellyel javíthatsz egy súlyos betegségben szenvedő páciens egészségi állapotán, életminőségén? A mi célunk az, hogy létrehozzunk és teszteljünk egy olyan mobil applikációt, amellyel valós időben mérhető az életminőség. A célunk elérésében kulcsfontosságú szerepet játszik a Happiness Research Organisation-nel való együttműködésünk. Az HRO egy Dusseldorf-i (Németország) független kutatóintézet, amely a szubjektív jól-lét, a boldogság és az életminőség modern technológiákkal való mérésére szakosodott. A kutatásunk során az HRO adaptált"
