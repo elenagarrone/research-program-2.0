@@ -125,9 +125,9 @@ da:
     info_alt: "Information sheet"
     d_info: "Download the information sheet"
     app_logo: "form-app.png" #do not change
-    d_android: "Download from the android store"
-    d_android_link: "#" #do not change
-    d_apple: "Download from the apple store"
+    d_android: "Download from Google Play"
+    d_android_link: "#"
+    d_apple: "Download on the App Store"
     d_apple_link: "#" #do not change
     p4: "MyQoL App genererer automatisk en kode for dig, som vil sikre, at dine data lagres anonymt gennem hele projekts varighed."
   contact_us:

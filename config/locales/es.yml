@@ -125,9 +125,9 @@ es:
     info_alt: "Information sheet"
     d_info: "Download the information sheet"
     app_logo: "form-app.png"
-    d_android: "Download from the android store"
+    d_android: "Download from Google Play"
     d_android_link: "#"
-    d_apple: "Download from the apple store"
+    d_apple: "Download on the App Store"
     d_apple_link: "#"
     p4: "La aplicación MyQoL te asignará automáticamente un código para asegurar que tus datos sean almacenados anónimamente durante toda la duración del proyecto."
   contact_us:
