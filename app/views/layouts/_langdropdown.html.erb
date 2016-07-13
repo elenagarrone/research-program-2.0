@@ -1,0 +1,12 @@
+<div class="lang-dropdown">
+  <label for="language" class="access">Choose a language:</label>
+  <select id="language" onChange="window.location.href=this.value">
+      <option <% if I18n.locale == :en %>selected="selected"<% end %> value="/en">English</option>
+      <option <% if I18n.locale == :da %>selected="selected"<% end %> value="/da">Danish</option>
+      <option <% if I18n.locale == :de %>selected="selected"<% end %> value="/de">German</option>
+      <option <% if I18n.locale == :el %>selected="selected"<% end %> value="/el">Greek</option>
+      <option <% if I18n.locale == :hu %>selected="selected"<% end %> value="/hu">Hungarian</option>
+      <option <% if I18n.locale == :it %>selected="selected"<% end %> value="/it">Italian</option>
+      <option <% if I18n.locale == :es %>selected="selected"<% end %> value="/es">Spanish</option>
+  </select>
+</div>
