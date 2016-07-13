@@ -136,6 +136,7 @@ en:
         text_end: "."
   join:
     h1: "Participate"
+    info_docs: "docs/info_sheet_en.pdf"
     p1: "Can you think of a way to improve the health of patients with serious diseases? This is the ultimate goal of our mobile application, which we have developed for the real-time assessment of Health-Related Quality of Life. We are collaborating with the Happiness Research Organisation, an independent research institute specialised in measuring subjective well-being, happiness and quality of life using modern technologies. For the present study, the HRO adapted the"
     link_title: "Happiness Analyzer"
     link: "http://happiness-analyzer.com"

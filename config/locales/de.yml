@@ -116,6 +116,7 @@ de:
         text_end: "."
   join:
     h1: "Teilnehmen"
+    info_docs: "docs/info_sheet_de.pdf"
     p1: "Können Sie sich einen Weg vorstellen, die medizinische Versorgung von Patienten mit schweren Krankheiten zu verbessern?  Genau dies ist das Ziel unserer Smartphone-App, mit der wir die medizinische Lebensqualität in Echtzeit erfassen wollen. Hierbei arbeiten wir mit der Happiness Research Organization (HRO) zusammen, einem unabhängigen Forschungsinstitut in Düsseldorf, Deutschland. Die HRO fokussiert sich auf die Messung von Wohlbefinden, Zufriedenheit und Lebensqualität mit modernen Technologien. Für unsere Studie verwenden wir eine von der HRO angepasste Version des"
     link_title: "Happiness Analyzer"
     link: "http://happiness-analyzer.com"

@@ -116,6 +116,7 @@ it:
         text_end: "."
   join:
     h1: "Partecipa"
+    info_docs: "docs/info_sheet_it.pdf"
     p1: "Puoi immaginare un modo per migliorare la salute di pazienti con malattie gravi? Questo è l’obiettivo finale dell’App MyQoL, che abbiamo sviluppato per misurare la Qualità della Vita in tempo reale. Collaboriamo con la Happiness Research Organisation, un istituto di ricerca indipendente specializzato nella misurazione del benessere soggettivo, della felicità e della qualità della vita usando nuove tecnologie. Per questo progetto, HRO ha adattato l’App"
     link_title: "Happiness Analyzer"
     link: "http://happiness-analyzer.com"
