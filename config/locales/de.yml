@@ -126,9 +126,9 @@ de:
     info_alt: "informeret samtykke"
     d_info: "Download informeret samtykke"
     app_logo: "form-app.png"
-    d_android: "Herunterladen von Google Play"
+    d_android: "Herunterladen von Google Play Store"
     d_android_link: "#"
-    d_apple: "Herunterladen im App Store"
+    d_apple: "Herunterladen im Apple Store"
     d_apple_link: "#"
     p4: "Unsere MyQoL-App wird automatisch Ihren einen Code zuweisen, der garantiert, dass Ihre Daten während des Forschungsprojektes vollkommen anonym gespeichert werden."
   contact_us:

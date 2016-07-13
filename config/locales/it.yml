@@ -126,9 +126,9 @@ it:
     info_alt: "Information sheet"
     d_info: "Scarica il Consenso Informato"
     app_logo: "form-app.png"
-    d_android: "Scarica da Google Play"
+    d_android: "Scarica da Google Play Store"
     d_android_link: "#"
-    d_apple: "Scarica su App Store"
+    d_apple: "Scarica su Apple Store"
     d_apple_link: "#"
     p4: "L’App MyQoL ti assegnerà un codice identificativo automaticamente, al fine di garantire che i dati che fornirai siano raccolti e trattati in forma completamente anonima lungo tutto l’arco del progetto di ricerca."
   contact_us:

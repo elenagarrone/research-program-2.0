@@ -126,9 +126,9 @@ hu:
     info_alt: "Beleegyező Nyilatkozatot"
     d_info: "Töltse Beleegyező Nyilatkozatot"
     app_logo: "form-app.png"
-    d_android: "Letöltés a Google Play"
+    d_android: "Letöltés a Google Play Store"
     d_android_link: "#"
-    d_apple: "Letöltés az App Store"
+    d_apple: "Letöltés az Apple Store"
     d_apple_link: "#"
     p4: "A MyQoL applikáció automatikusan hozzárendel egy kódot az adataidhoz, így biztosítva a kutatás során az anonim adatkezelést és adattárolást."
   contact_us:

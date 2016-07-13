@@ -126,9 +126,9 @@ da:
     info_alt: "Samtykkeerklæring"
     d_info: "Download samtykkeerklæring"
     app_logo: "form-app.png" #do not change
-    d_android: "Hent fra Google Play"
+    d_android: "Hent fra Google Play Store"
     d_android_link: "#"
-    d_apple: "Hent i App Store"
+    d_apple: "Hent i Apple Store"
     d_apple_link: "#" #do not change
     p4: "MyQoL App genererer automatisk en kode for dig, som vil sikre, at dine data lagres anonymt gennem hele projekts varighed."
   contact_us:

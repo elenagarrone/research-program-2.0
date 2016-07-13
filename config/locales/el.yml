@@ -126,9 +126,9 @@ el:
     info_alt: "δελτίο πληροφοριών"
     d_info: "Κατεβάστε το δελτίο πληροφοριών"
     app_logo: "form-app.png"
-    d_android: "Λήψη από το Google Play"
+    d_android: "Λήψη από το Google Play Store"
     d_android_link: "#"
-    d_apple: "Κατεβάστε το App Store"
+    d_apple: "Κατεβάστε το Apple Store"
     d_apple_link: "#"
     p4: "Η εφαρμογή MyQoL θα σου εκχωρήσει αυτόματα έναν κωδικό που θα εγγυάται ότι τα δεδομένα σου να αποθηκεύονται ανώνυμα μαζί με το σύνολο του ερευνητικού έργου."
   contact_us:
