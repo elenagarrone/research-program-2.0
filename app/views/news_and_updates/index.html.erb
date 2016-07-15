@@ -12,7 +12,6 @@
                 <tbody>
                     <% @news.all.each do |post| %>
                         <tr>
-                            <td><%= post.created_at.strftime("%v") %></td>
                             <td>
                                 <%= render partial: "layouts/locales", locals: {post: post}  %>
                             </td>

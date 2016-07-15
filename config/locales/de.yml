@@ -123,12 +123,12 @@ de:
     p2: "um Daten über gesundheitsbezogene Lebensqualität zu erfassen."
     p3: "Durch Ihre Teilnahme an diesem Projekt können Sie dazu beitragen, dieses Ziel zu erreichen. Wenn Sie ein Smartphone haben (Android oder iOS), können Sie gerne auf untenstehendes Bild klicken. Dadurch gelangen Sie zu einer Seite, wo, die App herunterladen- und Ihre Zustimmung zur Teilnahme abgeben können."
     info_form: "form.png" #do not change
-    info_alt: "informeret samtykke"
-    d_info: "Download informeret samtykke"
+    info_alt: "Teilnahmeinformationen"
+    d_info: "Laden Sie die Teilnahmeinformationen herunter"
+    d_android: "Download aus dem Google Play Store"
+    d_apple: "Download aus dem Apple Store"
     app_logo: "form-app.png"
-    d_android: "Herunterladen von Google Play Store"
     d_android_link: "#"
-    d_apple: "Herunterladen im Apple Store"
     d_apple_link: "#"
     p4: "Unsere MyQoL-App wird automatisch Ihren einen Code zuweisen, der garantiert, dass Ihre Daten während des Forschungsprojektes vollkommen anonym gespeichert werden."
   contact_us:

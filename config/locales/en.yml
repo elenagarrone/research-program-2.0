@@ -143,12 +143,12 @@ en:
     p2: "to collect data on Health-Related Quality of Life."
     p3: "By volunteering to participate in this project, you can contribute to achieving this goal. Please, if you have a smartphone (Android or iOS), click on the link below to download the app and sign the Informed Consent form to participate."
     info_form: "form.png" #do not change
-    info_alt: "Informed Consent"
-    d_info: "Download the Informed Consent"
-    app_logo: "form-app.png"
+    info_alt: "Information Sheet"
+    d_info: "Download the information sheet"
     d_android: "Download from Google Play Store"
+    d_apple: "Download from the Apple Store"
+    app_logo: "form-app.png"
     d_android_link: "#"
-    d_apple: "Download from Apple Store"
     d_apple_link: "#"
     p4: "The MyQoL App will automatically assign you with a code to ensure that your data is stored anonymously throughout the entire duration of the research project."
   contact_us:

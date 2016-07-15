@@ -123,12 +123,12 @@ it:
     p2: "per raccogliere dati sulla Qualità della Vita."
     p3: "Partecipando volontariamente a questo progetto puoi contribuire al raggiungimento di questo obiettivo. Per favore, clicca sul link sottostante per scaricare l’App MyQoL e per fornire il tuo Consenso Informato alla partecipazione."
     info_form: "form.png" #do not change
-    info_alt: "Information sheet"
-    d_info: "Scarica il Consenso Informato"
-    app_logo: "form-app.png"
+    info_alt:  "Foglio Informativo"
+    d_info: "Scarica il foglio informativo"
     d_android: "Scarica da Google Play Store"
+    d_apple: "Scarica da Apple Store"
+    app_logo: "form-app.png"
     d_android_link: "#"
-    d_apple: "Scarica su Apple Store"
     d_apple_link: "#"
     p4: "L’App MyQoL ti assegnerà un codice identificativo automaticamente, al fine di garantire che i dati che fornirai siano raccolti e trattati in forma completamente anonima lungo tutto l’arco del progetto di ricerca."
   contact_us:

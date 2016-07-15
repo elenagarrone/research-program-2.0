@@ -1,6 +1,6 @@
 <div class="owl-carousel owl-theme">
     <% @news.all[0..4].each do |post| %>
-        <div class="item"><%= post.created_at.strftime("%v") %>:
+        <div class="item">
             <%= render partial: "layouts/locales", locals: {post: post}  %>
         </div>
     <% end %>

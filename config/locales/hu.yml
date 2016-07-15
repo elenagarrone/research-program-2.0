@@ -123,12 +123,12 @@ hu:
     p2: "applikációját használjuk adatgyűjtésre."
     p3: "Ha önkéntesként részt veszel kutatásunkban, te is hozzájárulhatsz a célunk eléréséhez, így amennyiben részt szeretnél venni a kutatásban és rendelkezel okostelefonnal (Android vagy IOS), kérjük kattints a linkre, töltsd le a mobil applikációt és fogadd el a Beleegyező Nyilatkozatot."
     info_form: "form.png" #do not change
-    info_alt: "Beleegyező Nyilatkozatot"
-    d_info: "Töltse Beleegyező Nyilatkozatot"
+    info_alt: "Tájékoztató"
+    d_info: "Töltsd le a tájékoztatót"
+    d_android: "Töltsd le a Google Play Store-ból"
+    d_apple: "Töltsd le az Apple Store-ból"
     app_logo: "form-app.png"
-    d_android: "Letöltés a Google Play Store"
     d_android_link: "#"
-    d_apple: "Letöltés az Apple Store"
     d_apple_link: "#"
     p4: "A MyQoL applikáció automatikusan hozzárendel egy kódot az adataidhoz, így biztosítva a kutatás során az anonim adatkezelést és adattárolást."
   contact_us:
