@@ -10,7 +10,7 @@ da:
     findings: "Fund"
   homepage:
     h1: "MyQoL"
-    subtitle: "Forbedring af undersøgelsen af Quality of Life"
+    subtitle: "Forbedring af undersøgelsen af Health-Related Quality of Life"
     about:
       h2: "Om"
       subsections:
@@ -19,30 +19,33 @@ da:
           p1: "Vi er en international forskningsgruppe bestående af psykologistuderende på bachelor – og kandidatniveau, superviseret af Dr Angelos Kassianos, postdoctoral forsker ved University College London, Department of Applied Health Research. De studerende deltager i the "
           jrp: "Junior Researcher Programme"
           jrp_link: "http://jrp.pscholars.org" #do not change
-          p1b: ", et forskningstilbud i samarbejde med the University of Cambridge, der har til formål at tilbyde unge forskere muligheden for at udføre paneuropæisk forskning."
+          p1b: ", et forskningstilbud i samarbejde med the University of Cambridge, der har til formål at tilbyde unge forskere muligheden for at udføre tværkulturel forskning."
           image: "team.jpg" #do not change
           image_alt: "Team picture"
           image_class: "team-pic" #do not change
         -
           h3: "Hvad laver vi?"
-          p1: "Vi udfører et forskningsprojekt, der har til formål at udvikle og teste en smartphoneapplikation, der undersøger Quality of Life, i syv europæiske lande."
+          p1: "Vi udfører et forskningsprojekt, der har til formål at udvikle og teste en smartphoneapplikation, der undersøger Health-Related Quality of Life. Health-Related Quality of Life (HRQoL) er et multidimensionelt koncept, der inkluderer domæner omhandlende fysisk, psykisk, følelsesmæssigt og socialt funktionsniveau."
         -
           h3: "Hvorfor gør vi det?"
-          p1: "Anvendelsen af mobilapplikationer inden for sundhedsområdet er stigende, og vi har brug for at vide mere om, hvordan de bedst udvikles og anvendes i praksis. Idet registreringer af Quality of Life har vist sig at prædiktere, og påvirke, kliniske variable (såsom overlevelse, fysisk aktivitet) i forbindelse med alvorlige sygdomme, såsom kræft, er vi interesserede i at finde den bedste undersøgelsesmetode til brug i klinisk øjemed."
-          p2: "Undersøgelser af Quality of Life, ved brug af fysiske eller webbaserede spørgeskemaer, er typisk afhængige af, at man genkalder nylige begivenheder og følelser. Dette kan være problematisk, fordi vores hukommelse kan påvirkes af humør og glemsel. Derudover er anvendeligheden af denne undersøgelsesmetode af Quality of Life begrænset som følge af tidsmæssige og økonomiske udgifter til transport til og fra undersøgelsesstedet."
-          p3: "Ovenstående understreger relevansen af vores undersøgelse af en ny og anderledes måde at undersøge Quality of Life på. Mobilapplikationer synes at være en frugtbar metode, da de kan overkomme mange af de udfordringer, der er forbundet med den traditionelle måde at undersøge Quality of Life på."
+          p1: "Anvendelsen af mobilapplikationer inden for sundhedsområdet er stigende, og vi har brug for at vide mere om, hvordan de bedst udvikles og anvendes i praksis. Idet registreringer af HRQoL har vist sig at prædiktere, og påvirke, kliniske variable (såsom overlevelse, fysisk aktivitet) i forbindelse med alvorlige sygdomme, såsom kræft, er vi interesserede i at finde den bedste undersøgelsesmetode til brug i klinisk øjemed."
+          p2: "Undersøgelser af HRQoL, ved brug af fysiske eller webbaserede spørgeskemaer, er typisk afhængige af, at man genkalder nylige begivenheder og følelser. Dette kan være problematisk, fordi vores hukommelse kan påvirkes af humør og glemsel. Derudover er anvendeligheden af denne undersøgelsesmetode af HRQoL begrænset som følge af tidsmæssige og økonomiske udgifter til transport til og fra undersøgelsesstedet."
+          p3: "Ovenstående understreger relevansen af vores undersøgelse af en ny og anderledes måde at undersøge HRQoL på. Mobilapplikationer synes at være en frugtbar metode, da de kan overkomme mange af de udfordringer, der er forbundet med den traditionelle måde at undersøge HRQoL på."
         -
           h3: "Hvordan gør vi det?"
-          p1: "Vi har udviklet en smartphoneapplikation med henblik på at indsamle information om Quality of Life her-og-nu, og dermed undgår vi udfordringerne forbundet med at skulle se tilbage i tiden. Ved brug af smartphoneapplikationen er det også muligt at indsamle information om nuværende humør og aktiviteter."
+          p1: "Vi har udviklet en smartphoneapplikation med henblik på at indsamle information om HRQoL her-og-nu, for at overkomme udfordringerne forbundet med at skulle se tilbage i tiden. Ved brug af smartphoneapplikationen er det også muligt at indsamle information om nuværende humør og aktiviteter, som er kontekstuelle faktorer, der kan påvirke vurderingen af HRQoL."
         -
           h3: "Implikationer"
-          p1: "Det er helt op til dig, om du, sammen med andre europæiske universitetsstuderende, har lyst til at bidrage til vores projekt. Din deltagelse vil hjælpe os med at afgøre, om smartphoneapplikationen tilbyder en valid, reliabel og realistisk måde at undersøge Quality of Life her-og-nu på."
-          p2: "Vi forventer, at indsamlingen af sundhedsrelateret information her-og-nu kan hjælpe professionelle behandlere med at monitorere deres patienters Quality of Life. Dette vil kunne føre til en mere individualiseret behandling grundet forbedret kommunikation mellem parterne."
-          p3: "Sidst, men ikke mindst, vil vores metode være omkostningseffektiv, og undersøgelsen af Quality of Life vil være sensitiv over for den kontekst, som informationen afgives i."
+          p1: "Det er helt op til dig, om du, sammen med andre mennesker fra hele verden, har lyst til at bidrage til vores projekt. Din deltagelse vil hjælpe os med at afgøre, om smartphoneapplikationen tilbyder en valid, reliabel og realistisk metode til at undersøge HRQoL her-og-nu."
+          p2: "Vi forventer, at indsamlingen af sundhedsrelateret information her-og-nu kan hjælpe professionelle behandlere med at monitorere deres patienters HRQoL. Dette vil kunne føre til en mere individualiseret behandling, da det vil øge mængden og kvaliteten af information udvekslet mellem parterne."
+          p3: "Sidst, men ikke mindst, vil vores metode være omkostningseffektiv, og vurderingen af HRQoL forbedres da den vil være sensitiv over for den kontekst, som informationen afgives i."
   ethics:
     h1: "Etik"
     p1: "Vi er en uafhængig forskningsgruppe, og vores forskningsprojekt følger de etiske retningslinjer, der er opstillet af hvert forskningsgruppemedlems institution og/eller hjemland. For mere information, kontakt venligst Junior Researcheren tilknyttet din lokalitet."
-    p2: "Vi vil sikre at al information indsamlet i løbet af undersøgelsesperioden beskyttes, ved at opbevare datamængden der indsamles med smartphoneapplikationen i en skybaseret database, der kun er tilgængelig for projektets Principal Investigator. Svar er anonyme, og vi vil sikre de nødvendige foranstaltninger for at bevare fortroligheden. Vi vil gerne understrege, at ingen virksomheder eller tredjeparter vil have adgang til data, samt at resultaterne ikke vil blive anvendt til kommercielle formål."
+    p2: "Vi vil sikre at al information indsamlet i løbet af undersøgelsesperioden beskyttes, ved at opbevare datamængden, der indsamles med smartphoneapplikationen, i en database stillet til rådighed af the"
+    link: "https://www.happiness-research.org/"
+    text_link: "Happiness Research Organisation"
+    p2b: ", vores eksterne samarbejdspartner. Forskningsgruppen vil have adgang til svarene, og ingen information vil blive videregivet til andre. Svar er anonyme, og vi vil sikre de nødvendige foranstaltninger for at bevare fortroligheden. Vi vil gerne understrege, at ingen virksomheder eller tredjeparter vil have adgang til data, samt at resultaterne ikke vil blive anvendt til kommercielle formål."
   team:
     h1: "Gruppe"
     profiles:
@@ -69,7 +72,7 @@ da:
         name: "Pietro Marenco"
         role: "Project Manager"
         university: "University of Bologna (Italien) and University of Valencia (Spanien)"
-        quote: "“Jeg spørger mig selv: Hvorfor? Jeg har høje karriereambitioner, jeg er ivrig efter at lade videnskaben bidrage til den politiske dagsorden og øge samfundskvaliteten. Jeg værdsætter etik, og tror på videnskabelig præcision for at forbedre medarbejderes sundhed, velfærd og vækst.”"
+        quote: "“Jeg er ivrig efter at lade videnskaben bidrage til den politiske dagsorden og øge samfundskvaliteten. Jeg værdsætter etik, og tror på videnskabelig præcision for at forbedre medarbejderes sundhed, velfærd og vækst.”"
       -
         image: "Silvana Mareva.jpg" #do not change
         name: "Silvana Mareva"
@@ -99,7 +102,7 @@ da:
         name: "Niki Karakonstanti"
         role: "External Collaborator"
         university: "European University Cyprus (Cypern)"
-        quote: "“Kandidatstuderende inden for klinisk og rådgivningspsykologi. Mine fremtidsambitioner er at opbygge en karriere inden for både anvendt psykologi samt forskning. Jeg er primært interesseret i individets bevidste og underbevidste adfærd.”"
+        quote: "“Kandidatstuderende inden for rådgivningspsykologi. Mine fremtidsambitioner er at opbygge en karriere inden for både anvendt psykologi samt forskning. Jeg er primært interesseret i individets bevidste og underbevidste adfærd.”"
       -
         image: "Anthony Bukhalana.jpg" #do not change
         name: "Anthony Bukhalana"
@@ -144,7 +147,7 @@ da:
     no_message: "Ingen tilgængelige nyheder."
   findings:
     h1: "Fund"
-    p1: "Da vores forskning afhænger af din frivillige deltagelse, vil vi gerne tilbyde en oversigt af vores fund efter projektets afslutning. Vi opsummerer resultaterne, og udarbejder en oversigt over fundene, herunder en sammenligning af den retrospektive metode og her-og-nu-metoden til at undersøge Quality of Life på, hvordan Quality of Life er associeret med andre variable såsom søvn og social magt, samt hvordan mål af Quality of Life varierer over tid… og mere!"
+    p1: "Da vores forskning afhænger af din frivillige deltagelse, vil vi gerne tilbyde en oversigt af vores fund efter projektets afslutning. Vi opsummerer resultaterne, og udarbejder en oversigt over fundene, herunder en sammenligning af den retrospektive metode og her-og-nu-metoden til at undersøge Health-Related Quality of Life på (HRQoL), hvordan HRQoL er associeret med andre variable såsom søvn og social magt, samt hvordan mål af HRQoL varierer over tid… og mere!"
     p2: "For at anerkende dit bidrag, glæder vi os altså til at dele projektets resultater."
     image: "chart.png" #do not change
     image_alt: "Graph image"

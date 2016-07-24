@@ -41,8 +41,11 @@ hu:
           p3: "Végül, de nem utolsó sorban a módszerünk költséghatékony (idő és pénz tekintetében) és az életminőség mérését a válaszadás kontextusának figyelembe vételével javítja. "
   ethics:
     h1: "Etikai irányelvek"
-    p1: "Független kutatócsoportként a kutatási projektünket az egyes csoporttagok oktatási intézményeinek/lakóhelyének etikai irányelvei szabályozzák. További információért, kérjük fordulj az országodban tartózkodó Junior Researcher-hez."
-    p2: "A mérési periódus alatt minden adat egy felhő-alapú adatbázisba kerül, amelyhez csak a kutatócsoport vezetője férhet hozzá, garantálva a biztonságos adatkezelést. A válaszokat anoniman kezeljük és mindent megteszünk annak érdekében, hogy biztosítsuk a bizalmas adatkezelést. Szeretnénk kihangsúlyozni, hogy az adatokhoz harmadik fél, szervezetek, cégek nem férhetnek hozzá, az eredmények üzleti célból nem kerülnek felhasználásra."
+    p1: "Független kutatócsoportként a kutatásunkra vonatkozó etikai irányelveket a kutatásban résztvevő kutatók oktatási intézményének/lakhelyének etikai irányelvei határozzák meg. További információért kérjük, lépj kapcsolatba az országodban élő Junior Researcher-el."
+    p2: "A kutatás során gyűjtött adatokat a biztonságos adatkezelés biztosításának érdekében a mobil applikációt fejlesztő együttműködő partnerünk, a"
+    link: "https://www.happiness-research.org/"
+    text_link: "Happiness Research Organisation"
+    p2b: " által létrehozott adatbázisban tároljuk.  Az adatbázishoz csak a kutatócsoport tagjai férhetnek hozzá, harmadik féllel semmilyen adat nem kerül megosztásra. Az adatokat anoniman és bizalmasan kezeljük. Továbbá szeretnénk kihangsúlyozni, hogy az  adatokhoz harmadik fél, cégek, szervezetek nem férhetnek hozzá, az adatok üzleti célokra nem használhatóak fel."
   team:
     h1: "Kutatócsoport"
     profiles:

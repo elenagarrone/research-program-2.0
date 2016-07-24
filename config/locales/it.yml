@@ -42,7 +42,10 @@ it:
   ethics:
     h1: "Etica"
     p1: "Siamo un team di ricerca indipendente. Il nostro progetto aderisce agli standard etici per la ricerca definiti dalle istituzioni di appartenenza di ciascun membro del team. Per maggiori informazioni, per favore contatta il Junior Researcher associato con la tua Università."
-    p2: "Garantiremo la sicurezza di tutte le informazioni collezionate lungo il periodo di misurazione conservando i dati raccolti in una base dati cloud accessibile solo ed esclusivamente dal Research Supervisor. Le risposte saranno raccolte in forma anonima, e ogni sforzo sarà fatto per assicurarne la confidenzialità. Vogliamo inoltre enfatizzare che alcuna azienda, organizzazione o terza parte avrà accesso ai dati, e che i risultati non saranno utilizzati per alcun fine commerciale."
+    p2: "Garantiremo la sicurezza di tutte le informazioni collezionate lungo il periodo di misurazione conservando i dati raccolti in una base fornita dalla"
+    link: "https://www.happiness-research.org/"
+    text_link: "Happiness Research Organisation"
+    p2b: ", nostro collaboratore esterno dedito allo sviluppo della applicazione smartphone. Solo i memberi del team di ricerca avranno accesso ai dati e alcuna informazione/dato sarà condiviso al di fuori del team di ricerca. Le risposte saranno raccolte in forma anonima, e ogni sforzo sarà fatto per assicurarne la confidenzialità. Vogliamo inoltre enfatizzare che alcuna azienda, organizzazione o terza parte avrà accesso ai dati, e che i risultati non saranno utilizzati per alcun fine commerciale."
   team:
     h1: "Team"
     profiles:

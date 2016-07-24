@@ -42,7 +42,10 @@ de:
   ethics:
     h1: "Ethik"
     p1: "Wir sind eine vollständig unabhängige Forschungsgruppe. Unser Projekt entspricht den ethischen Anforderungen der Institutionen bzw. Länder der jeweiligen Teammitglieder. Für mehr Informationen kontaktieren Sie bitte das Teammitglied, das für Ihr Land zuständig ist."
-    p2: "Wir sorgen für die Sicherheit aller Daten, die wir erfassen. Hierfür speichern wir Ihre mobil erfassten Daten in einer geschützten Online-Datenbank, auf die nur der Projektbetreuer zugreifen kann. Alle Ihre Antworten sind anonym, und wir treffen alle möglichen Vorkehrungen um die Vertraulichkeit Ihrer Antworten zu gewährleisten. Wir möchten gerne besonders darauf hinweisen, dass unser Projekt nur zu Forschungszwecken durchgeführt wird und keinerlei kommerzielle Interessen vorliegen. Daher haben weder Unternehmen noch sonstige Organisationen Zugriff auf Ihre Daten."
+    p2: "Wir sorgen für die Sicherheit aller Daten, die wir erfassen. Hierfür speichern wir Ihre mobil erfassten Daten in einer geschützten Online-Datenbank. Diese wird uns von der"
+    link: "https://www.happiness-research.org/"
+    text_link: "Happiness Research Organisation"
+    p2b: " zur Verfügung gestellt. Die Organisation hilft uns auch dabei, die Smartphone-App zu entwickeln. Auf Ihre Daten haben nur die Mitglieder des Forschungsteams zugriff und Ihre Antworten werden nicht an Dritte weitergegeben. Alle Ihre Antworten sind anonym, und wir treffen alle möglichen Vorkehrungen um die Vertraulichkeit Ihrer Antworten zu gewährleisten. Wir möchten gerne besonders darauf hinweisen, dass unser Projekt nur zu Forschungszwecken durchgeführt wird und keinerlei kommerzielles Interesse vorliegen. Daher haben weder Unternehmen oder sonstige Dritte Zugriff auf Ihre Daten."
   team:
     h1: "Forschungsgruppe"
     profiles:

@@ -41,8 +41,11 @@ es:
           p3: "Finalmente, nuestro método será económico en términos de tiempo y dinero, mejorando la evaluación de la Calidad de Vida gracias a la sensibilidad que tiene al contexto en el que se recogen las respuestas."
   ethics:
     h1: "Ética"
-    p1: "Somos un grupo de investigación independiente y nuestro proyecto se adhiere a las directrices éticas que son requeridas por las universidades de los/las diferentes miembros del mismo. Para más información, por favor contacta con el/la Investigador/a Joven  asociado/a al país desde el que participas."
-    p2: "Aseguraremos que toda la información recogida durante el periodo de evaluación permanezca segura guardando los datos recogidos a través de la aplicación en una nube (base de datos) solamente accesible para el Investigador Principal. Las respuestas serán anónimas y pondremos todo nuestro empeño para asegurar la confidencialidad. Queremos enfatizar que ninguna corporación ni ningún tercero tendrá acceso a los datos y que los resultados no serán usados para propósitos comerciales."
+    p1: "Somos un grupo de investigación independiente, y nuestro proyecto de investigación se adhiere a las directrices proporcionadas por la institución/país de cada miembro investigador. Para más información, por favor contacta con el Investigador Joven asociado a tu localización."
+    p2: "Nos encargaremos de que la información que recojamos durante el proceso de evaluación se encuentre segura guardándola en una base de datos proporcionada por"
+    link: "https://www.happiness-research.org/"
+    text_link: "Happiness Research Organisation"
+    p2b: ", nuestro colaborador externo en el desarrollo de la aplicación móvil. Los miembros de la investigación tendrán acceso a los datos y ninguna información será compartida con nadie que se encuentre fuera del equipo de investigación. Las respuestas serán anónimas,  por lo que aseguramos confidencialidad. Queremos hacer énfasis en que ninguna corporación o tercera parte tendrá acceso a los datos, y que los resultados nunca tendrán un propósito comercial."
   team:
     h1: "Equipo de Investigación"
     profiles:
