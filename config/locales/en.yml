@@ -151,8 +151,8 @@ en:
     d_android: "Download from Google Play Store"
     d_apple: "Download from the Apple Store"
     app_logo: "form-app.png"
-    d_android_link: "#"
-    d_apple_link: "#"
+    d_android_link: "https://play.google.com/store/apps/details?id=org.happiness_research.jrp"
+    d_apple_link: "https://appsto.re/hr/cgw-db.i" #do not change
     p4: "The MyQoL App will automatically assign you with a code to ensure that your data is stored anonymously throughout the entire duration of the research project."
   contact_us:
     h1: "Contact us"

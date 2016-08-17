@@ -131,8 +131,8 @@ it:
     d_android: "Scarica da Google Play Store"
     d_apple: "Scarica da Apple Store"
     app_logo: "form-app.png"
-    d_android_link: "#"
-    d_apple_link: "#"
+    d_android_link: "https://play.google.com/store/apps/details?id=org.happiness_research.jrp"
+    d_apple_link: "https://appsto.re/hr/cgw-db.i" #do not change
     p4: "L’App MyQoL ti assegnerà un codice identificativo automaticamente, al fine di garantire che i dati che fornirai siano raccolti e trattati in forma completamente anonima lungo tutto l’arco del progetto di ricerca."
   contact_us:
     h1: "Contattaci"
