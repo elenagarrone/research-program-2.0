@@ -119,7 +119,7 @@ da:
         text_end: "."
   join:
     h1: "Tilmeld"
-    info_docs: "docs/info_sheet_da.pdf"
+    info_docs: "docs/Information_sheet_July_2017_DAN.pdf"
     p1: "Kan du forestille dig en måde, hvorpå man kan forbedre patienter med alvorlige lidelsers velbefindende? Det er det endelige mål for vores smartphoneapplikation, som vi har udviklet til at registrere Health-Related Quality of Life her-og-nu. Vi samarbejder med the Happiness Research Organisation (HRO), et uafhængigt forskningsinstitut baseret i Düsseldorf, Tyskland, der er specialiseret i at bruge moderne teknologi til at måle subjektivt velbefindende, glæde og livskvalitet. Til dette projekt har HRO tilpasset the"
     link_title: "Happiness Analyzer"
     link: "http://happiness-analyzer.com"

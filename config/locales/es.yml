@@ -119,7 +119,7 @@ es:
         text_end: "."
   join:
     h1: "Participar"
-    info_docs: "docs/info_sheet_es.pdf"
+    info_docs: "docs/Information_sheet_July_2017_SP.pdf"
     p1: "¿Puedes imaginar una manera de mejorar la salud de los pacientes con enfermedades graves? Ésta es la finalidad última de nuestra aplicación móvil, la cual hemos desarrollado para evaluar la Calidad de Vida a tiempo real. Nuestro equipo colabora con Happiness Research Organisation (HRO), un instituto de investigación independiente especializado en medir el bienestar subjetivo, la felicidad y la calidad de vida a través de modernas tecnologías. Para el presente estudio, la HRO ha adaptado su"
     link_title: "Happiness Analyzer"
     link: "http://happiness-analyzer.com"
