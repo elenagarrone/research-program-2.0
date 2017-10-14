@@ -132,7 +132,7 @@ hu:
     d_apple: "Töltsd le az Apple Store-ból"
     app_logo: "form-app.png"
     d_android_link: "https://play.google.com/store/apps/details?id=org.happiness_research.jrp"
-    d_apple_link: "https://appsto.re/hr/cgw-db.i" #do not change
+    d_apple_link: "https://itunes.apple.com/gb/app/myqol/id1217549691?mt=8" #do not change
     p4: "A MyQoL applikáció automatikusan hozzárendel egy kódot az adataidhoz, így biztosítva a kutatás során az anonim adatkezelést és adattárolást."
   contact_us:
     h1: "Kapcsolat"

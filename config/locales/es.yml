@@ -132,7 +132,7 @@ es:
     d_apple: "Descargar desde Apple Store"
     app_logo: "form-app.png"
     d_android_link: "https://play.google.com/store/apps/details?id=org.happiness_research.jrp"
-    d_apple_link: "https://appsto.re/hr/cgw-db.i" #do not change
+    d_apple_link: "https://itunes.apple.com/gb/app/myqol/id1217549691?mt=8" #do not change
     p4: "La aplicación MyQoL te asignará automáticamente un código para asegurar que tus datos sean almacenados anónimamente durante toda la duración del proyecto."
   contact_us:
     h1: "Contactar"
